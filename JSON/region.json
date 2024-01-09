@@ -1,0 +1,65 @@
+[
+	{
+		"region_no" : 1,
+		"region_name" : "North American",
+		"street" : "111 First St.",
+		"city" : "Toronto",
+		"country" : "Ca"
+	},
+	{
+		"region_no" : 2,
+		"region_name" : "South American",
+		"street" : "222 Second St.",
+		"city" : "Sao Paulo",
+		"country" : "Br"
+	},
+	{
+		"region_no" : 3,
+		"region_name" : "Scandanavian",
+		"street" : "333 Third St.",
+		"city" : "Goteborg",
+		"country" : "Sw"
+	},
+	{
+		"region_no" : 4,
+		"region_name" : "Western Europea",
+		"street" : "444 Fourth St.",
+		"city" : "Brussels",
+		"country" : ""
+	},
+	{
+		"region_no" : 5,
+		"region_name" : "Eastern Europea",
+		"street" : "555 Fifth St St",
+		"city" : "Budapest",
+		"country" : ""
+	},
+	{
+		"region_no" : 6,
+		"region_name" : "Japan",
+		"street" : "666 Sixth",
+		"city" : "Tokyo",
+		"country" : "Ja"
+	},
+	{
+		"region_no" : 7,
+		"region_name" : "China",
+		"street" : "777 Seventh St",
+		"city" : "Beijing",
+		"country" : ""
+	},
+	{
+		"region_no" : 8,
+		"region_name" : "Mid East / Sout",
+		"street" : "888 Eighth St.",
+		"city" : "Madras",
+		"country" : ""
+	},
+	{
+		"region_no" : 9,
+		"region_name" : "Africa",
+		"street" : "999 Ninth St.",
+		"city" : "Mombassa",
+		"country" : "Ke"
+	}
+]

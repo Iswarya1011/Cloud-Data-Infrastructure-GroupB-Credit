@@ -1,0 +1,3002 @@
+[
+	{
+		"corp_no" : 1,
+		"corp_name" : "Corp. Apex Key StonesInc.",
+		"expr_dt" : "2004-10-12 10:41:26",
+		"region_no" : 3
+	},
+	{
+		"corp_no" : 2,
+		"corp_name" : "Corp. Apex LightingInc.",
+		"expr_dt" : "2004-10-12 10:41:26",
+		"region_no" : 8
+	},
+	{
+		"corp_no" : 3,
+		"corp_name" : "Corp. Apex MachineryInc.",
+		"expr_dt" : "2004-10-12 10:41:26",
+		"region_no" : 6
+	},
+	{
+		"corp_no" : 4,
+		"corp_name" : "Corp. Apex NeedleworkInc.",
+		"expr_dt" : "2004-10-12 10:41:26",
+		"region_no" : 6
+	},
+	{
+		"corp_no" : 5,
+		"corp_name" : "Corp. Apex OperaInc.",
+		"expr_dt" : "2004-10-12 10:41:26",
+		"region_no" : 3
+	},
+	{
+		"corp_no" : 6,
+		"corp_name" : "Corp. Apex PetroleumInc.",
+		"expr_dt" : "2004-10-12 10:41:26",
+		"region_no" : 1
+	},
+	{
+		"corp_no" : 7,
+		"corp_name" : "Corp. Apex QuestsInc.",
+		"expr_dt" : "2004-10-12 10:41:26",
+		"region_no" : 8
+	},
+	{
+		"corp_no" : 8,
+		"corp_name" : "Corp. Apex RestaurantsInc.",
+		"expr_dt" : "2004-10-12 10:41:26",
+		"region_no" : 1
+	},
+	{
+		"corp_no" : 9,
+		"corp_name" : "Corp. Apex Sail MakersInc.",
+		"expr_dt" : "2004-10-12 10:41:26",
+		"region_no" : 3
+	},
+	{
+		"corp_no" : 10,
+		"corp_name" : "Corp. Apex TransitInc.",
+		"expr_dt" : "2004-10-12 10:41:26",
+		"region_no" : 1
+	},
+	{
+		"corp_no" : 11,
+		"corp_name" : "Corp. Boston Key StonesInc.",
+		"expr_dt" : "2004-10-12 10:41:26",
+		"region_no" : 5
+	},
+	{
+		"corp_no" : 12,
+		"corp_name" : "Corp. Boston LightingInc.",
+		"expr_dt" : "2004-10-12 10:41:26",
+		"region_no" : 1
+	},
+	{
+		"corp_no" : 13,
+		"corp_name" : "Corp. Boston MachineryInc.",
+		"expr_dt" : "2004-10-12 10:41:26",
+		"region_no" : 5
+	},
+	{
+		"corp_no" : 14,
+		"corp_name" : "Corp. Boston NeedleworkInc.",
+		"expr_dt" : "2004-10-12 10:41:26",
+		"region_no" : 6
+	},
+	{
+		"corp_no" : 15,
+		"corp_name" : "Corp. Boston OperaInc.",
+		"expr_dt" : "2004-10-12 10:41:26",
+		"region_no" : 8
+	},
+	{
+		"corp_no" : 16,
+		"corp_name" : "Corp. Boston PetroleumInc.",
+		"expr_dt" : "2004-10-12 10:41:26",
+		"region_no" : 1
+	},
+	{
+		"corp_no" : 17,
+		"corp_name" : "Corp. Boston QuestsInc.",
+		"expr_dt" : "2004-10-12 10:41:26",
+		"region_no" : 1
+	},
+	{
+		"corp_no" : 18,
+		"corp_name" : "Corp. Boston RestaurantsInc.",
+		"expr_dt" : "2004-10-12 10:41:26",
+		"region_no" : 5
+	},
+	{
+		"corp_no" : 19,
+		"corp_name" : "Corp. Boston Sail MakersInc.",
+		"expr_dt" : "2004-10-12 10:41:26",
+		"region_no" : 3
+	},
+	{
+		"corp_no" : 20,
+		"corp_name" : "Corp. Boston TransitInc.",
+		"expr_dt" : "2004-10-12 10:41:26",
+		"region_no" : 2
+	},
+	{
+		"corp_no" : 21,
+		"corp_name" : "Corp. Computer Key StonesInc.",
+		"expr_dt" : "2004-10-12 10:41:26",
+		"region_no" : 6
+	},
+	{
+		"corp_no" : 22,
+		"corp_name" : "Corp. Computer LightingInc.",
+		"expr_dt" : "2004-10-12 10:41:26",
+		"region_no" : 1
+	},
+	{
+		"corp_no" : 23,
+		"corp_name" : "Corp. Computer MachineryInc.",
+		"expr_dt" : "2004-10-12 10:41:26",
+		"region_no" : 6
+	},
+	{
+		"corp_no" : 24,
+		"corp_name" : "Corp. Computer NeedleworkInc.",
+		"expr_dt" : "2004-10-12 10:41:26",
+		"region_no" : 5
+	},
+	{
+		"corp_no" : 25,
+		"corp_name" : "Corp. Computer OperaInc.",
+		"expr_dt" : "2004-10-12 10:41:26",
+		"region_no" : 4
+	},
+	{
+		"corp_no" : 26,
+		"corp_name" : "Corp. Computer PetroleumInc.",
+		"expr_dt" : "2004-10-12 10:41:26",
+		"region_no" : 5
+	},
+	{
+		"corp_no" : 27,
+		"corp_name" : "Corp. Computer QuestsInc.",
+		"expr_dt" : "2004-10-12 10:41:26",
+		"region_no" : 2
+	},
+	{
+		"corp_no" : 28,
+		"corp_name" : "Corp. Computer RestaurantsInc.",
+		"expr_dt" : "2004-10-12 10:41:26",
+		"region_no" : 8
+	},
+	{
+		"corp_no" : 29,
+		"corp_name" : "Corp. Computer Sail MakersInc.",
+		"expr_dt" : "2004-10-12 10:41:26",
+		"region_no" : 7
+	},
+	{
+		"corp_no" : 30,
+		"corp_name" : "Corp. Computer TransitInc.",
+		"expr_dt" : "2004-10-12 10:41:26",
+		"region_no" : 1
+	},
+	{
+		"corp_no" : 31,
+		"corp_name" : "Corp. Driven Key StonesInc.",
+		"expr_dt" : "2004-10-12 10:41:26",
+		"region_no" : 1
+	},
+	{
+		"corp_no" : 32,
+		"corp_name" : "Corp. Driven LightingInc.",
+		"expr_dt" : "2004-10-12 10:41:26",
+		"region_no" : 1
+	},
+	{
+		"corp_no" : 33,
+		"corp_name" : "Corp. Driven MachineryInc.",
+		"expr_dt" : "2004-10-12 10:41:26",
+		"region_no" : 1
+	},
+	{
+		"corp_no" : 34,
+		"corp_name" : "Corp. Driven NeedleworkInc.",
+		"expr_dt" : "2004-10-12 10:41:26",
+		"region_no" : 1
+	},
+	{
+		"corp_no" : 35,
+		"corp_name" : "Corp. Driven OperaInc.",
+		"expr_dt" : "2004-10-12 10:41:26",
+		"region_no" : 3
+	},
+	{
+		"corp_no" : 36,
+		"corp_name" : "Corp. Driven PetroleumInc.",
+		"expr_dt" : "2004-10-12 10:41:26",
+		"region_no" : 7
+	},
+	{
+		"corp_no" : 37,
+		"corp_name" : "Corp. Driven QuestsInc.",
+		"expr_dt" : "2004-10-12 10:41:26",
+		"region_no" : 1
+	},
+	{
+		"corp_no" : 38,
+		"corp_name" : "Corp. Driven RestaurantsInc.",
+		"expr_dt" : "2004-10-12 10:41:26",
+		"region_no" : 8
+	},
+	{
+		"corp_no" : 39,
+		"corp_name" : "Corp. Driven Sail MakersInc.",
+		"expr_dt" : "2004-10-12 10:41:26",
+		"region_no" : 7
+	},
+	{
+		"corp_no" : 40,
+		"corp_name" : "Corp. Driven TransitInc.",
+		"expr_dt" : "2004-10-12 10:41:26",
+		"region_no" : 2
+	},
+	{
+		"corp_no" : 41,
+		"corp_name" : "Corp. Expert Key StonesInc.",
+		"expr_dt" : "2004-10-12 10:41:26",
+		"region_no" : 2
+	},
+	{
+		"corp_no" : 42,
+		"corp_name" : "Corp. Expert LightingInc.",
+		"expr_dt" : "2004-10-12 10:41:26",
+		"region_no" : 6
+	},
+	{
+		"corp_no" : 43,
+		"corp_name" : "Corp. Expert MachineryInc.",
+		"expr_dt" : "2004-10-12 10:41:26",
+		"region_no" : 1
+	},
+	{
+		"corp_no" : 44,
+		"corp_name" : "Corp. Expert NeedleworkInc.",
+		"expr_dt" : "2004-10-12 10:41:26",
+		"region_no" : 6
+	},
+	{
+		"corp_no" : 45,
+		"corp_name" : "Corp. Expert OperaInc.",
+		"expr_dt" : "2004-10-12 10:41:26",
+		"region_no" : 1
+	},
+	{
+		"corp_no" : 46,
+		"corp_name" : "Corp. Expert PetroleumInc.",
+		"expr_dt" : "2004-10-12 10:41:26",
+		"region_no" : 8
+	},
+	{
+		"corp_no" : 47,
+		"corp_name" : "Corp. Expert QuestsInc.",
+		"expr_dt" : "2004-10-12 10:41:26",
+		"region_no" : 4
+	},
+	{
+		"corp_no" : 48,
+		"corp_name" : "Corp. Expert RestaurantsInc.",
+		"expr_dt" : "2004-10-12 10:41:26",
+		"region_no" : 8
+	},
+	{
+		"corp_no" : 49,
+		"corp_name" : "Corp. Expert Sail MakersInc.",
+		"expr_dt" : "2004-10-12 10:41:26",
+		"region_no" : 4
+	},
+	{
+		"corp_no" : 50,
+		"corp_name" : "Corp. Expert TransitInc.",
+		"expr_dt" : "2004-10-12 10:41:26",
+		"region_no" : 6
+	},
+	{
+		"corp_no" : 51,
+		"corp_name" : "Corp. Famous Key StonesInc.",
+		"expr_dt" : "2004-10-12 10:41:26",
+		"region_no" : 5
+	},
+	{
+		"corp_no" : 52,
+		"corp_name" : "Corp. Famous LightingInc.",
+		"expr_dt" : "2004-10-12 10:41:26",
+		"region_no" : 7
+	},
+	{
+		"corp_no" : 53,
+		"corp_name" : "Corp. Famous MachineryInc.",
+		"expr_dt" : "2004-10-12 10:41:26",
+		"region_no" : 4
+	},
+	{
+		"corp_no" : 54,
+		"corp_name" : "Corp. Famous NeedleworkInc.",
+		"expr_dt" : "2004-10-12 10:41:26",
+		"region_no" : 2
+	},
+	{
+		"corp_no" : 55,
+		"corp_name" : "Corp. Famous OperaInc.",
+		"expr_dt" : "2004-10-12 10:41:26",
+		"region_no" : 7
+	},
+	{
+		"corp_no" : 56,
+		"corp_name" : "Corp. Famous PetroleumInc.",
+		"expr_dt" : "2004-10-12 10:41:26",
+		"region_no" : 7
+	},
+	{
+		"corp_no" : 57,
+		"corp_name" : "Corp. Famous QuestsInc.",
+		"expr_dt" : "2004-10-12 10:41:26",
+		"region_no" : 7
+	},
+	{
+		"corp_no" : 58,
+		"corp_name" : "Corp. Famous RestaurantsInc.",
+		"expr_dt" : "2004-10-12 10:41:26",
+		"region_no" : 3
+	},
+	{
+		"corp_no" : 59,
+		"corp_name" : "Corp. Famous Sail MakersInc.",
+		"expr_dt" : "2004-10-12 10:41:26",
+		"region_no" : 7
+	},
+	{
+		"corp_no" : 60,
+		"corp_name" : "Corp. Famous TransitInc.",
+		"expr_dt" : "2004-10-12 10:41:26",
+		"region_no" : 4
+	},
+	{
+		"corp_no" : 61,
+		"corp_name" : "Corp. Giant Key StonesInc.",
+		"expr_dt" : "2004-10-12 10:41:26",
+		"region_no" : 3
+	},
+	{
+		"corp_no" : 62,
+		"corp_name" : "Corp. Giant LightingInc.",
+		"expr_dt" : "2004-10-12 10:41:26",
+		"region_no" : 2
+	},
+	{
+		"corp_no" : 63,
+		"corp_name" : "Corp. Giant MachineryInc.",
+		"expr_dt" : "2004-10-12 10:41:26",
+		"region_no" : 5
+	},
+	{
+		"corp_no" : 64,
+		"corp_name" : "Corp. Giant NeedleworkInc.",
+		"expr_dt" : "2004-10-12 10:41:26",
+		"region_no" : 8
+	},
+	{
+		"corp_no" : 65,
+		"corp_name" : "Corp. Giant OperaInc.",
+		"expr_dt" : "2004-10-12 10:41:26",
+		"region_no" : 8
+	},
+	{
+		"corp_no" : 66,
+		"corp_name" : "Corp. Giant PetroleumInc.",
+		"expr_dt" : "2004-10-12 10:41:26",
+		"region_no" : 8
+	},
+	{
+		"corp_no" : 67,
+		"corp_name" : "Corp. Giant QuestsInc.",
+		"expr_dt" : "2004-10-12 10:41:26",
+		"region_no" : 5
+	},
+	{
+		"corp_no" : 68,
+		"corp_name" : "Corp. Giant RestaurantsInc.",
+		"expr_dt" : "2004-10-12 10:41:26",
+		"region_no" : 7
+	},
+	{
+		"corp_no" : 69,
+		"corp_name" : "Corp. Giant Sail MakersInc.",
+		"expr_dt" : "2004-10-12 10:41:26",
+		"region_no" : 1
+	},
+	{
+		"corp_no" : 70,
+		"corp_name" : "Corp. Giant TransitInc.",
+		"expr_dt" : "2004-10-12 10:41:26",
+		"region_no" : 2
+	},
+	{
+		"corp_no" : 71,
+		"corp_name" : "Corp. Humble Key StonesInc.",
+		"expr_dt" : "2004-10-12 10:41:26",
+		"region_no" : 4
+	},
+	{
+		"corp_no" : 72,
+		"corp_name" : "Corp. Humble LightingInc.",
+		"expr_dt" : "2004-10-12 10:41:26",
+		"region_no" : 4
+	},
+	{
+		"corp_no" : 73,
+		"corp_name" : "Corp. Humble MachineryInc.",
+		"expr_dt" : "2004-10-12 10:41:26",
+		"region_no" : 3
+	},
+	{
+		"corp_no" : 74,
+		"corp_name" : "Corp. Humble NeedleworkInc.",
+		"expr_dt" : "2004-10-12 10:41:26",
+		"region_no" : 7
+	},
+	{
+		"corp_no" : 75,
+		"corp_name" : "Corp. Humble OperaInc.",
+		"expr_dt" : "2004-10-12 10:41:26",
+		"region_no" : 1
+	},
+	{
+		"corp_no" : 76,
+		"corp_name" : "Corp. Humble PetroleumInc.",
+		"expr_dt" : "2004-10-12 10:41:26",
+		"region_no" : 4
+	},
+	{
+		"corp_no" : 77,
+		"corp_name" : "Corp. Humble QuestsInc.",
+		"expr_dt" : "2004-10-12 10:41:26",
+		"region_no" : 8
+	},
+	{
+		"corp_no" : 78,
+		"corp_name" : "Corp. Humble RestaurantsInc.",
+		"expr_dt" : "2004-10-12 10:41:26",
+		"region_no" : 8
+	},
+	{
+		"corp_no" : 79,
+		"corp_name" : "Corp. Humble Sail MakersInc.",
+		"expr_dt" : "2004-10-12 10:41:26",
+		"region_no" : 8
+	},
+	{
+		"corp_no" : 80,
+		"corp_name" : "Corp. Humble TransitInc.",
+		"expr_dt" : "2004-10-12 10:41:26",
+		"region_no" : 6
+	},
+	{
+		"corp_no" : 81,
+		"corp_name" : "Corp. Imperial Key StonesInc.",
+		"expr_dt" : "2004-10-12 10:41:26",
+		"region_no" : 6
+	},
+	{
+		"corp_no" : 82,
+		"corp_name" : "Corp. Imperial LightingInc.",
+		"expr_dt" : "2004-10-12 10:41:26",
+		"region_no" : 3
+	},
+	{
+		"corp_no" : 83,
+		"corp_name" : "Corp. Imperial MachineryInc.",
+		"expr_dt" : "2004-10-12 10:41:26",
+		"region_no" : 1
+	},
+	{
+		"corp_no" : 84,
+		"corp_name" : "Corp. Imperial NeedleworkInc.",
+		"expr_dt" : "2004-10-12 10:41:26",
+		"region_no" : 5
+	},
+	{
+		"corp_no" : 85,
+		"corp_name" : "Corp. Imperial OperaInc.",
+		"expr_dt" : "2004-10-12 10:41:26",
+		"region_no" : 2
+	},
+	{
+		"corp_no" : 86,
+		"corp_name" : "Corp. Imperial PetroleumInc.",
+		"expr_dt" : "2004-10-12 10:41:26",
+		"region_no" : 2
+	},
+	{
+		"corp_no" : 87,
+		"corp_name" : "Corp. Imperial QuestsInc.",
+		"expr_dt" : "2004-10-12 10:41:26",
+		"region_no" : 6
+	},
+	{
+		"corp_no" : 88,
+		"corp_name" : "Corp. Imperial RestaurantsInc.",
+		"expr_dt" : "2004-10-12 10:41:26",
+		"region_no" : 2
+	},
+	{
+		"corp_no" : 89,
+		"corp_name" : "Corp. Imperial Sail MakersInc.",
+		"expr_dt" : "2004-10-12 10:41:26",
+		"region_no" : 5
+	},
+	{
+		"corp_no" : 90,
+		"corp_name" : "Corp. Imperial TransitInc.",
+		"expr_dt" : "2004-10-12 10:41:26",
+		"region_no" : 6
+	},
+	{
+		"corp_no" : 91,
+		"corp_name" : "Corp. Just Key StonesInc.",
+		"expr_dt" : "2004-10-12 10:41:26",
+		"region_no" : 3
+	},
+	{
+		"corp_no" : 92,
+		"corp_name" : "Corp. Just LightingInc.",
+		"expr_dt" : "2004-10-12 10:41:26",
+		"region_no" : 8
+	},
+	{
+		"corp_no" : 93,
+		"corp_name" : "Corp. Just MachineryInc.",
+		"expr_dt" : "2004-10-12 10:41:26",
+		"region_no" : 4
+	},
+	{
+		"corp_no" : 94,
+		"corp_name" : "Corp. Just NeedleworkInc.",
+		"expr_dt" : "2004-10-12 10:41:26",
+		"region_no" : 4
+	},
+	{
+		"corp_no" : 95,
+		"corp_name" : "Corp. Just OperaInc.",
+		"expr_dt" : "2004-10-12 10:41:26",
+		"region_no" : 2
+	},
+	{
+		"corp_no" : 96,
+		"corp_name" : "Corp. Just PetroleumInc.",
+		"expr_dt" : "2004-10-12 10:41:26",
+		"region_no" : 2
+	},
+	{
+		"corp_no" : 97,
+		"corp_name" : "Corp. Just QuestsInc.",
+		"expr_dt" : "2004-10-12 10:41:26",
+		"region_no" : 7
+	},
+	{
+		"corp_no" : 98,
+		"corp_name" : "Corp. Just RestaurantsInc.",
+		"expr_dt" : "2004-10-12 10:41:26",
+		"region_no" : 1
+	},
+	{
+		"corp_no" : 99,
+		"corp_name" : "Corp. Just Sail MakersInc.",
+		"expr_dt" : "2004-10-12 10:41:26",
+		"region_no" : 5
+	},
+	{
+		"corp_no" : 100,
+		"corp_name" : "Corp. Just TransitInc.",
+		"expr_dt" : "2004-10-12 10:41:26",
+		"region_no" : 1
+	},
+	{
+		"corp_no" : 101,
+		"corp_name" : "Corp. Apex Key StonesCo.",
+		"expr_dt" : "2004-10-12 10:41:26",
+		"region_no" : 2
+	},
+	{
+		"corp_no" : 102,
+		"corp_name" : "Corp. Apex LightingCo.",
+		"expr_dt" : "2004-10-12 10:41:26",
+		"region_no" : 5
+	},
+	{
+		"corp_no" : 103,
+		"corp_name" : "Corp. Apex MachineryCo.",
+		"expr_dt" : "2004-10-12 10:41:26",
+		"region_no" : 8
+	},
+	{
+		"corp_no" : 104,
+		"corp_name" : "Corp. Apex NeedleworkCo.",
+		"expr_dt" : "2004-10-12 10:41:26",
+		"region_no" : 2
+	},
+	{
+		"corp_no" : 105,
+		"corp_name" : "Corp. Apex OperaCo.",
+		"expr_dt" : "2004-10-12 10:41:26",
+		"region_no" : 7
+	},
+	{
+		"corp_no" : 106,
+		"corp_name" : "Corp. Apex PetroleumCo.",
+		"expr_dt" : "2004-10-12 10:41:26",
+		"region_no" : 2
+	},
+	{
+		"corp_no" : 107,
+		"corp_name" : "Corp. Apex QuestsCo.",
+		"expr_dt" : "2004-10-12 10:41:26",
+		"region_no" : 8
+	},
+	{
+		"corp_no" : 108,
+		"corp_name" : "Corp. Apex RestaurantsCo.",
+		"expr_dt" : "2004-10-12 10:41:26",
+		"region_no" : 2
+	},
+	{
+		"corp_no" : 109,
+		"corp_name" : "Corp. Apex Sail MakersCo.",
+		"expr_dt" : "2004-10-12 10:41:26",
+		"region_no" : 1
+	},
+	{
+		"corp_no" : 110,
+		"corp_name" : "Corp. Apex TransitCo.",
+		"expr_dt" : "2004-10-12 10:41:26",
+		"region_no" : 7
+	},
+	{
+		"corp_no" : 111,
+		"corp_name" : "Corp. Boston Key StonesCo.",
+		"expr_dt" : "2004-10-12 10:41:26",
+		"region_no" : 2
+	},
+	{
+		"corp_no" : 112,
+		"corp_name" : "Corp. Boston LightingCo.",
+		"expr_dt" : "2004-10-12 10:41:26",
+		"region_no" : 7
+	},
+	{
+		"corp_no" : 113,
+		"corp_name" : "Corp. Boston MachineryCo.",
+		"expr_dt" : "2004-10-12 10:41:26",
+		"region_no" : 4
+	},
+	{
+		"corp_no" : 114,
+		"corp_name" : "Corp. Boston NeedleworkCo.",
+		"expr_dt" : "2004-10-12 10:41:26",
+		"region_no" : 4
+	},
+	{
+		"corp_no" : 115,
+		"corp_name" : "Corp. Boston OperaCo.",
+		"expr_dt" : "2004-10-12 10:41:26",
+		"region_no" : 7
+	},
+	{
+		"corp_no" : 116,
+		"corp_name" : "Corp. Boston PetroleumCo.",
+		"expr_dt" : "2004-10-12 10:41:26",
+		"region_no" : 6
+	},
+	{
+		"corp_no" : 117,
+		"corp_name" : "Corp. Boston QuestsCo.",
+		"expr_dt" : "2004-10-12 10:41:26",
+		"region_no" : 1
+	},
+	{
+		"corp_no" : 118,
+		"corp_name" : "Corp. Boston RestaurantsCo.",
+		"expr_dt" : "2004-10-12 10:41:26",
+		"region_no" : 1
+	},
+	{
+		"corp_no" : 119,
+		"corp_name" : "Corp. Boston Sail MakersCo.",
+		"expr_dt" : "2004-10-12 10:41:26",
+		"region_no" : 8
+	},
+	{
+		"corp_no" : 120,
+		"corp_name" : "Corp. Boston TransitCo.",
+		"expr_dt" : "2004-10-12 10:41:26",
+		"region_no" : 3
+	},
+	{
+		"corp_no" : 121,
+		"corp_name" : "Corp. Computer Key StonesCo.",
+		"expr_dt" : "2004-10-12 10:41:26",
+		"region_no" : 2
+	},
+	{
+		"corp_no" : 122,
+		"corp_name" : "Corp. Computer LightingCo.",
+		"expr_dt" : "2004-10-12 10:41:26",
+		"region_no" : 4
+	},
+	{
+		"corp_no" : 123,
+		"corp_name" : "Corp. Computer MachineryCo.",
+		"expr_dt" : "2004-10-12 10:41:26",
+		"region_no" : 4
+	},
+	{
+		"corp_no" : 124,
+		"corp_name" : "Corp. Computer NeedleworkCo.",
+		"expr_dt" : "2004-10-12 10:41:26",
+		"region_no" : 4
+	},
+	{
+		"corp_no" : 125,
+		"corp_name" : "Corp. Computer OperaCo.",
+		"expr_dt" : "2004-10-12 10:41:26",
+		"region_no" : 5
+	},
+	{
+		"corp_no" : 126,
+		"corp_name" : "Corp. Computer PetroleumCo.",
+		"expr_dt" : "2004-10-12 10:41:26",
+		"region_no" : 6
+	},
+	{
+		"corp_no" : 127,
+		"corp_name" : "Corp. Computer QuestsCo.",
+		"expr_dt" : "2004-10-12 10:41:26",
+		"region_no" : 6
+	},
+	{
+		"corp_no" : 128,
+		"corp_name" : "Corp. Computer RestaurantsCo.",
+		"expr_dt" : "2004-10-12 10:41:26",
+		"region_no" : 2
+	},
+	{
+		"corp_no" : 129,
+		"corp_name" : "Corp. Computer Sail MakersCo.",
+		"expr_dt" : "2004-10-12 10:41:26",
+		"region_no" : 4
+	},
+	{
+		"corp_no" : 130,
+		"corp_name" : "Corp. Computer TransitCo.",
+		"expr_dt" : "2004-10-12 10:41:26",
+		"region_no" : 6
+	},
+	{
+		"corp_no" : 131,
+		"corp_name" : "Corp. Driven Key StonesCo.",
+		"expr_dt" : "2004-10-12 10:41:26",
+		"region_no" : 8
+	},
+	{
+		"corp_no" : 132,
+		"corp_name" : "Corp. Driven LightingCo.",
+		"expr_dt" : "2004-10-12 10:41:26",
+		"region_no" : 8
+	},
+	{
+		"corp_no" : 133,
+		"corp_name" : "Corp. Driven MachineryCo.",
+		"expr_dt" : "2004-10-12 10:41:26",
+		"region_no" : 6
+	},
+	{
+		"corp_no" : 134,
+		"corp_name" : "Corp. Driven NeedleworkCo.",
+		"expr_dt" : "2004-10-12 10:41:26",
+		"region_no" : 7
+	},
+	{
+		"corp_no" : 135,
+		"corp_name" : "Corp. Driven OperaCo.",
+		"expr_dt" : "2004-10-12 10:41:26",
+		"region_no" : 3
+	},
+	{
+		"corp_no" : 136,
+		"corp_name" : "Corp. Driven PetroleumCo.",
+		"expr_dt" : "2004-10-12 10:41:26",
+		"region_no" : 3
+	},
+	{
+		"corp_no" : 137,
+		"corp_name" : "Corp. Driven QuestsCo.",
+		"expr_dt" : "2004-10-12 10:41:26",
+		"region_no" : 5
+	},
+	{
+		"corp_no" : 138,
+		"corp_name" : "Corp. Driven RestaurantsCo.",
+		"expr_dt" : "2004-10-12 10:41:26",
+		"region_no" : 8
+	},
+	{
+		"corp_no" : 139,
+		"corp_name" : "Corp. Driven Sail MakersCo.",
+		"expr_dt" : "2004-10-12 10:41:26",
+		"region_no" : 6
+	},
+	{
+		"corp_no" : 140,
+		"corp_name" : "Corp. Driven TransitCo.",
+		"expr_dt" : "2004-10-12 10:41:26",
+		"region_no" : 6
+	},
+	{
+		"corp_no" : 141,
+		"corp_name" : "Corp. Expert Key StonesCo.",
+		"expr_dt" : "2004-10-12 10:41:26",
+		"region_no" : 4
+	},
+	{
+		"corp_no" : 142,
+		"corp_name" : "Corp. Expert LightingCo.",
+		"expr_dt" : "2004-10-12 10:41:26",
+		"region_no" : 2
+	},
+	{
+		"corp_no" : 143,
+		"corp_name" : "Corp. Expert MachineryCo.",
+		"expr_dt" : "2004-10-12 10:41:26",
+		"region_no" : 4
+	},
+	{
+		"corp_no" : 144,
+		"corp_name" : "Corp. Expert NeedleworkCo.",
+		"expr_dt" : "2004-10-12 10:41:26",
+		"region_no" : 5
+	},
+	{
+		"corp_no" : 145,
+		"corp_name" : "Corp. Expert OperaCo.",
+		"expr_dt" : "2004-10-12 10:41:26",
+		"region_no" : 2
+	},
+	{
+		"corp_no" : 146,
+		"corp_name" : "Corp. Expert PetroleumCo.",
+		"expr_dt" : "2004-10-12 10:41:26",
+		"region_no" : 5
+	},
+	{
+		"corp_no" : 147,
+		"corp_name" : "Corp. Expert QuestsCo.",
+		"expr_dt" : "2004-10-12 10:41:26",
+		"region_no" : 3
+	},
+	{
+		"corp_no" : 148,
+		"corp_name" : "Corp. Expert RestaurantsCo.",
+		"expr_dt" : "2004-10-12 10:41:26",
+		"region_no" : 4
+	},
+	{
+		"corp_no" : 149,
+		"corp_name" : "Corp. Expert Sail MakersCo.",
+		"expr_dt" : "2004-10-12 10:41:26",
+		"region_no" : 3
+	},
+	{
+		"corp_no" : 150,
+		"corp_name" : "Corp. Expert TransitCo.",
+		"expr_dt" : "2004-10-12 10:41:26",
+		"region_no" : 3
+	},
+	{
+		"corp_no" : 151,
+		"corp_name" : "Corp. Famous Key StonesCo.",
+		"expr_dt" : "2004-10-12 10:41:26",
+		"region_no" : 7
+	},
+	{
+		"corp_no" : 152,
+		"corp_name" : "Corp. Famous LightingCo.",
+		"expr_dt" : "2004-10-12 10:41:26",
+		"region_no" : 1
+	},
+	{
+		"corp_no" : 153,
+		"corp_name" : "Corp. Famous MachineryCo.",
+		"expr_dt" : "2004-10-12 10:41:26",
+		"region_no" : 1
+	},
+	{
+		"corp_no" : 154,
+		"corp_name" : "Corp. Famous NeedleworkCo.",
+		"expr_dt" : "2004-10-12 10:41:26",
+		"region_no" : 5
+	},
+	{
+		"corp_no" : 155,
+		"corp_name" : "Corp. Famous OperaCo.",
+		"expr_dt" : "2004-10-12 10:41:26",
+		"region_no" : 7
+	},
+	{
+		"corp_no" : 156,
+		"corp_name" : "Corp. Famous PetroleumCo.",
+		"expr_dt" : "2004-10-12 10:41:26",
+		"region_no" : 2
+	},
+	{
+		"corp_no" : 157,
+		"corp_name" : "Corp. Famous QuestsCo.",
+		"expr_dt" : "2004-10-12 10:41:26",
+		"region_no" : 3
+	},
+	{
+		"corp_no" : 158,
+		"corp_name" : "Corp. Famous RestaurantsCo.",
+		"expr_dt" : "2004-10-12 10:41:26",
+		"region_no" : 1
+	},
+	{
+		"corp_no" : 159,
+		"corp_name" : "Corp. Famous Sail MakersCo.",
+		"expr_dt" : "2004-10-12 10:41:26",
+		"region_no" : 2
+	},
+	{
+		"corp_no" : 160,
+		"corp_name" : "Corp. Famous TransitCo.",
+		"expr_dt" : "2004-10-12 10:41:26",
+		"region_no" : 8
+	},
+	{
+		"corp_no" : 161,
+		"corp_name" : "Corp. Giant Key StonesCo.",
+		"expr_dt" : "2004-10-12 10:41:26",
+		"region_no" : 3
+	},
+	{
+		"corp_no" : 162,
+		"corp_name" : "Corp. Giant LightingCo.",
+		"expr_dt" : "2004-10-12 10:41:26",
+		"region_no" : 8
+	},
+	{
+		"corp_no" : 163,
+		"corp_name" : "Corp. Giant MachineryCo.",
+		"expr_dt" : "2004-10-12 10:41:26",
+		"region_no" : 6
+	},
+	{
+		"corp_no" : 164,
+		"corp_name" : "Corp. Giant NeedleworkCo.",
+		"expr_dt" : "2004-10-12 10:41:26",
+		"region_no" : 8
+	},
+	{
+		"corp_no" : 165,
+		"corp_name" : "Corp. Giant OperaCo.",
+		"expr_dt" : "2004-10-12 10:41:26",
+		"region_no" : 1
+	},
+	{
+		"corp_no" : 166,
+		"corp_name" : "Corp. Giant PetroleumCo.",
+		"expr_dt" : "2004-10-12 10:41:26",
+		"region_no" : 7
+	},
+	{
+		"corp_no" : 167,
+		"corp_name" : "Corp. Giant QuestsCo.",
+		"expr_dt" : "2004-10-12 10:41:26",
+		"region_no" : 6
+	},
+	{
+		"corp_no" : 168,
+		"corp_name" : "Corp. Giant RestaurantsCo.",
+		"expr_dt" : "2004-10-12 10:41:26",
+		"region_no" : 7
+	},
+	{
+		"corp_no" : 169,
+		"corp_name" : "Corp. Giant Sail MakersCo.",
+		"expr_dt" : "2004-10-12 10:41:26",
+		"region_no" : 4
+	},
+	{
+		"corp_no" : 170,
+		"corp_name" : "Corp. Giant TransitCo.",
+		"expr_dt" : "2004-10-12 10:41:26",
+		"region_no" : 3
+	},
+	{
+		"corp_no" : 171,
+		"corp_name" : "Corp. Humble Key StonesCo.",
+		"expr_dt" : "2004-10-12 10:41:26",
+		"region_no" : 5
+	},
+	{
+		"corp_no" : 172,
+		"corp_name" : "Corp. Humble LightingCo.",
+		"expr_dt" : "2004-10-12 10:41:26",
+		"region_no" : 5
+	},
+	{
+		"corp_no" : 173,
+		"corp_name" : "Corp. Humble MachineryCo.",
+		"expr_dt" : "2004-10-12 10:41:26",
+		"region_no" : 5
+	},
+	{
+		"corp_no" : 174,
+		"corp_name" : "Corp. Humble NeedleworkCo.",
+		"expr_dt" : "2004-10-12 10:41:26",
+		"region_no" : 4
+	},
+	{
+		"corp_no" : 175,
+		"corp_name" : "Corp. Humble OperaCo.",
+		"expr_dt" : "2004-10-12 10:41:26",
+		"region_no" : 6
+	},
+	{
+		"corp_no" : 176,
+		"corp_name" : "Corp. Humble PetroleumCo.",
+		"expr_dt" : "2004-10-12 10:41:26",
+		"region_no" : 7
+	},
+	{
+		"corp_no" : 177,
+		"corp_name" : "Corp. Humble QuestsCo.",
+		"expr_dt" : "2004-10-12 10:41:26",
+		"region_no" : 4
+	},
+	{
+		"corp_no" : 178,
+		"corp_name" : "Corp. Humble RestaurantsCo.",
+		"expr_dt" : "2004-10-12 10:41:26",
+		"region_no" : 2
+	},
+	{
+		"corp_no" : 179,
+		"corp_name" : "Corp. Humble Sail MakersCo.",
+		"expr_dt" : "2004-10-12 10:41:26",
+		"region_no" : 8
+	},
+	{
+		"corp_no" : 180,
+		"corp_name" : "Corp. Humble TransitCo.",
+		"expr_dt" : "2004-10-12 10:41:26",
+		"region_no" : 2
+	},
+	{
+		"corp_no" : 181,
+		"corp_name" : "Corp. Imperial Key StonesCo.",
+		"expr_dt" : "2004-10-12 10:41:26",
+		"region_no" : 4
+	},
+	{
+		"corp_no" : 182,
+		"corp_name" : "Corp. Imperial LightingCo.",
+		"expr_dt" : "2004-10-12 10:41:26",
+		"region_no" : 4
+	},
+	{
+		"corp_no" : 183,
+		"corp_name" : "Corp. Imperial MachineryCo.",
+		"expr_dt" : "2004-10-12 10:41:26",
+		"region_no" : 7
+	},
+	{
+		"corp_no" : 184,
+		"corp_name" : "Corp. Imperial NeedleworkCo.",
+		"expr_dt" : "2004-10-12 10:41:26",
+		"region_no" : 8
+	},
+	{
+		"corp_no" : 185,
+		"corp_name" : "Corp. Imperial OperaCo.",
+		"expr_dt" : "2004-10-12 10:41:26",
+		"region_no" : 2
+	},
+	{
+		"corp_no" : 186,
+		"corp_name" : "Corp. Imperial PetroleumCo.",
+		"expr_dt" : "2004-10-12 10:41:26",
+		"region_no" : 8
+	},
+	{
+		"corp_no" : 187,
+		"corp_name" : "Corp. Imperial QuestsCo.",
+		"expr_dt" : "2004-10-12 10:41:26",
+		"region_no" : 2
+	},
+	{
+		"corp_no" : 188,
+		"corp_name" : "Corp. Imperial RestaurantsCo.",
+		"expr_dt" : "2004-10-12 10:41:26",
+		"region_no" : 3
+	},
+	{
+		"corp_no" : 189,
+		"corp_name" : "Corp. Imperial Sail MakersCo.",
+		"expr_dt" : "2004-10-12 10:41:26",
+		"region_no" : 8
+	},
+	{
+		"corp_no" : 190,
+		"corp_name" : "Corp. Imperial TransitCo.",
+		"expr_dt" : "2004-10-12 10:41:26",
+		"region_no" : 5
+	},
+	{
+		"corp_no" : 191,
+		"corp_name" : "Corp. Just Key StonesCo.",
+		"expr_dt" : "2004-10-12 10:41:26",
+		"region_no" : 2
+	},
+	{
+		"corp_no" : 192,
+		"corp_name" : "Corp. Just LightingCo.",
+		"expr_dt" : "2004-10-12 10:41:26",
+		"region_no" : 7
+	},
+	{
+		"corp_no" : 193,
+		"corp_name" : "Corp. Just MachineryCo.",
+		"expr_dt" : "2004-10-12 10:41:26",
+		"region_no" : 3
+	},
+	{
+		"corp_no" : 194,
+		"corp_name" : "Corp. Just NeedleworkCo.",
+		"expr_dt" : "2004-10-12 10:41:26",
+		"region_no" : 4
+	},
+	{
+		"corp_no" : 195,
+		"corp_name" : "Corp. Just OperaCo.",
+		"expr_dt" : "2004-10-12 10:41:26",
+		"region_no" : 3
+	},
+	{
+		"corp_no" : 196,
+		"corp_name" : "Corp. Just PetroleumCo.",
+		"expr_dt" : "2004-10-12 10:41:26",
+		"region_no" : 8
+	},
+	{
+		"corp_no" : 197,
+		"corp_name" : "Corp. Just QuestsCo.",
+		"expr_dt" : "2004-10-12 10:41:26",
+		"region_no" : 6
+	},
+	{
+		"corp_no" : 198,
+		"corp_name" : "Corp. Just RestaurantsCo.",
+		"expr_dt" : "2004-10-12 10:41:26",
+		"region_no" : 8
+	},
+	{
+		"corp_no" : 199,
+		"corp_name" : "Corp. Just Sail MakersCo.",
+		"expr_dt" : "2004-10-12 10:41:26",
+		"region_no" : 2
+	},
+	{
+		"corp_no" : 200,
+		"corp_name" : "Corp. Just TransitCo.",
+		"expr_dt" : "2004-10-12 10:41:26",
+		"region_no" : 4
+	},
+	{
+		"corp_no" : 201,
+		"corp_name" : "Corp. Apex Key StonesCorp.",
+		"expr_dt" : "2004-10-12 10:41:26",
+		"region_no" : 7
+	},
+	{
+		"corp_no" : 202,
+		"corp_name" : "Corp. Apex LightingCorp.",
+		"expr_dt" : "2004-10-12 10:41:26",
+		"region_no" : 7
+	},
+	{
+		"corp_no" : 203,
+		"corp_name" : "Corp. Apex MachineryCorp.",
+		"expr_dt" : "2004-10-12 10:41:26",
+		"region_no" : 8
+	},
+	{
+		"corp_no" : 204,
+		"corp_name" : "Corp. Apex NeedleworkCorp.",
+		"expr_dt" : "2004-10-12 10:41:26",
+		"region_no" : 2
+	},
+	{
+		"corp_no" : 205,
+		"corp_name" : "Corp. Apex OperaCorp.",
+		"expr_dt" : "2004-10-12 10:41:26",
+		"region_no" : 1
+	},
+	{
+		"corp_no" : 206,
+		"corp_name" : "Corp. Apex PetroleumCorp.",
+		"expr_dt" : "2004-10-12 10:41:26",
+		"region_no" : 6
+	},
+	{
+		"corp_no" : 207,
+		"corp_name" : "Corp. Apex QuestsCorp.",
+		"expr_dt" : "2004-10-12 10:41:26",
+		"region_no" : 3
+	},
+	{
+		"corp_no" : 208,
+		"corp_name" : "Corp. Apex RestaurantsCorp.",
+		"expr_dt" : "2004-10-12 10:41:26",
+		"region_no" : 4
+	},
+	{
+		"corp_no" : 209,
+		"corp_name" : "Corp. Apex Sail MakersCorp.",
+		"expr_dt" : "2004-10-12 10:41:26",
+		"region_no" : 1
+	},
+	{
+		"corp_no" : 210,
+		"corp_name" : "Corp. Apex TransitCorp.",
+		"expr_dt" : "2004-10-12 10:41:26",
+		"region_no" : 3
+	},
+	{
+		"corp_no" : 211,
+		"corp_name" : "Corp. Boston Key StonesCorp.",
+		"expr_dt" : "2004-10-12 10:41:26",
+		"region_no" : 8
+	},
+	{
+		"corp_no" : 212,
+		"corp_name" : "Corp. Boston LightingCorp.",
+		"expr_dt" : "2004-10-12 10:41:26",
+		"region_no" : 1
+	},
+	{
+		"corp_no" : 213,
+		"corp_name" : "Corp. Boston MachineryCorp.",
+		"expr_dt" : "2004-10-12 10:41:26",
+		"region_no" : 4
+	},
+	{
+		"corp_no" : 214,
+		"corp_name" : "Corp. Boston NeedleworkCorp.",
+		"expr_dt" : "2004-10-12 10:41:26",
+		"region_no" : 2
+	},
+	{
+		"corp_no" : 215,
+		"corp_name" : "Corp. Boston OperaCorp.",
+		"expr_dt" : "2004-10-12 10:41:26",
+		"region_no" : 1
+	},
+	{
+		"corp_no" : 216,
+		"corp_name" : "Corp. Boston PetroleumCorp.",
+		"expr_dt" : "2004-10-12 10:41:26",
+		"region_no" : 5
+	},
+	{
+		"corp_no" : 217,
+		"corp_name" : "Corp. Boston QuestsCorp.",
+		"expr_dt" : "2004-10-12 10:41:26",
+		"region_no" : 6
+	},
+	{
+		"corp_no" : 218,
+		"corp_name" : "Corp. Boston RestaurantsCorp.",
+		"expr_dt" : "2004-10-12 10:41:26",
+		"region_no" : 1
+	},
+	{
+		"corp_no" : 219,
+		"corp_name" : "Corp. Boston Sail MakersCorp.",
+		"expr_dt" : "2004-10-12 10:41:26",
+		"region_no" : 4
+	},
+	{
+		"corp_no" : 220,
+		"corp_name" : "Corp. Boston TransitCorp.",
+		"expr_dt" : "2004-10-12 10:41:26",
+		"region_no" : 7
+	},
+	{
+		"corp_no" : 221,
+		"corp_name" : "Corp. Computer Key StonesCorp.",
+		"expr_dt" : "2004-10-12 10:41:26",
+		"region_no" : 5
+	},
+	{
+		"corp_no" : 222,
+		"corp_name" : "Corp. Computer LightingCorp.",
+		"expr_dt" : "2004-10-12 10:41:26",
+		"region_no" : 7
+	},
+	{
+		"corp_no" : 223,
+		"corp_name" : "Corp. Computer MachineryCorp.",
+		"expr_dt" : "2004-10-12 10:41:26",
+		"region_no" : 8
+	},
+	{
+		"corp_no" : 224,
+		"corp_name" : "Corp. Computer NeedleworkCorp.",
+		"expr_dt" : "2004-10-12 10:41:26",
+		"region_no" : 5
+	},
+	{
+		"corp_no" : 225,
+		"corp_name" : "Corp. Computer OperaCorp.",
+		"expr_dt" : "2004-10-12 10:41:26",
+		"region_no" : 7
+	},
+	{
+		"corp_no" : 226,
+		"corp_name" : "Corp. Computer PetroleumCorp.",
+		"expr_dt" : "2004-10-12 10:41:26",
+		"region_no" : 3
+	},
+	{
+		"corp_no" : 227,
+		"corp_name" : "Corp. Computer QuestsCorp.",
+		"expr_dt" : "2004-10-12 10:41:26",
+		"region_no" : 2
+	},
+	{
+		"corp_no" : 228,
+		"corp_name" : "Corp. Computer RestaurantsCorp.",
+		"expr_dt" : "2004-10-12 10:41:26",
+		"region_no" : 2
+	},
+	{
+		"corp_no" : 229,
+		"corp_name" : "Corp. Computer Sail MakersCorp.",
+		"expr_dt" : "2004-10-12 10:41:26",
+		"region_no" : 8
+	},
+	{
+		"corp_no" : 230,
+		"corp_name" : "Corp. Computer TransitCorp.",
+		"expr_dt" : "2004-10-12 10:41:26",
+		"region_no" : 3
+	},
+	{
+		"corp_no" : 231,
+		"corp_name" : "Corp. Driven Key StonesCorp.",
+		"expr_dt" : "2004-10-12 10:41:26",
+		"region_no" : 1
+	},
+	{
+		"corp_no" : 232,
+		"corp_name" : "Corp. Driven LightingCorp.",
+		"expr_dt" : "2004-10-12 10:41:26",
+		"region_no" : 8
+	},
+	{
+		"corp_no" : 233,
+		"corp_name" : "Corp. Driven MachineryCorp.",
+		"expr_dt" : "2004-10-12 10:41:26",
+		"region_no" : 2
+	},
+	{
+		"corp_no" : 234,
+		"corp_name" : "Corp. Driven NeedleworkCorp.",
+		"expr_dt" : "2004-10-12 10:41:26",
+		"region_no" : 7
+	},
+	{
+		"corp_no" : 235,
+		"corp_name" : "Corp. Driven OperaCorp.",
+		"expr_dt" : "2004-10-12 10:41:26",
+		"region_no" : 7
+	},
+	{
+		"corp_no" : 236,
+		"corp_name" : "Corp. Driven PetroleumCorp.",
+		"expr_dt" : "2004-10-12 10:41:26",
+		"region_no" : 2
+	},
+	{
+		"corp_no" : 237,
+		"corp_name" : "Corp. Driven QuestsCorp.",
+		"expr_dt" : "2004-10-12 10:41:26",
+		"region_no" : 8
+	},
+	{
+		"corp_no" : 238,
+		"corp_name" : "Corp. Driven RestaurantsCorp.",
+		"expr_dt" : "2004-10-12 10:41:26",
+		"region_no" : 4
+	},
+	{
+		"corp_no" : 239,
+		"corp_name" : "Corp. Driven Sail MakersCorp.",
+		"expr_dt" : "2004-10-12 10:41:26",
+		"region_no" : 1
+	},
+	{
+		"corp_no" : 240,
+		"corp_name" : "Corp. Driven TransitCorp.",
+		"expr_dt" : "2004-10-12 10:41:26",
+		"region_no" : 8
+	},
+	{
+		"corp_no" : 241,
+		"corp_name" : "Corp. Expert Key StonesCorp.",
+		"expr_dt" : "2004-10-12 10:41:26",
+		"region_no" : 1
+	},
+	{
+		"corp_no" : 242,
+		"corp_name" : "Corp. Expert LightingCorp.",
+		"expr_dt" : "2004-10-12 10:41:26",
+		"region_no" : 3
+	},
+	{
+		"corp_no" : 243,
+		"corp_name" : "Corp. Expert MachineryCorp.",
+		"expr_dt" : "2004-10-12 10:41:26",
+		"region_no" : 6
+	},
+	{
+		"corp_no" : 244,
+		"corp_name" : "Corp. Expert NeedleworkCorp.",
+		"expr_dt" : "2004-10-12 10:41:26",
+		"region_no" : 1
+	},
+	{
+		"corp_no" : 245,
+		"corp_name" : "Corp. Expert OperaCorp.",
+		"expr_dt" : "2004-10-12 10:41:26",
+		"region_no" : 3
+	},
+	{
+		"corp_no" : 246,
+		"corp_name" : "Corp. Expert PetroleumCorp.",
+		"expr_dt" : "2004-10-12 10:41:26",
+		"region_no" : 4
+	},
+	{
+		"corp_no" : 247,
+		"corp_name" : "Corp. Expert QuestsCorp.",
+		"expr_dt" : "2004-10-12 10:41:26",
+		"region_no" : 3
+	},
+	{
+		"corp_no" : 248,
+		"corp_name" : "Corp. Expert RestaurantsCorp.",
+		"expr_dt" : "2004-10-12 10:41:26",
+		"region_no" : 3
+	},
+	{
+		"corp_no" : 249,
+		"corp_name" : "Corp. Expert Sail MakersCorp.",
+		"expr_dt" : "2004-10-12 10:41:26",
+		"region_no" : 1
+	},
+	{
+		"corp_no" : 250,
+		"corp_name" : "Corp. Expert TransitCorp.",
+		"expr_dt" : "2004-10-12 10:41:26",
+		"region_no" : 2
+	},
+	{
+		"corp_no" : 251,
+		"corp_name" : "Corp. Famous Key StonesCorp.",
+		"expr_dt" : "2004-10-12 10:41:26",
+		"region_no" : 2
+	},
+	{
+		"corp_no" : 252,
+		"corp_name" : "Corp. Famous LightingCorp.",
+		"expr_dt" : "2004-10-12 10:41:26",
+		"region_no" : 5
+	},
+	{
+		"corp_no" : 253,
+		"corp_name" : "Corp. Famous MachineryCorp.",
+		"expr_dt" : "2004-10-12 10:41:26",
+		"region_no" : 7
+	},
+	{
+		"corp_no" : 254,
+		"corp_name" : "Corp. Famous NeedleworkCorp.",
+		"expr_dt" : "2004-10-12 10:41:26",
+		"region_no" : 3
+	},
+	{
+		"corp_no" : 255,
+		"corp_name" : "Corp. Famous OperaCorp.",
+		"expr_dt" : "2004-10-12 10:41:26",
+		"region_no" : 2
+	},
+	{
+		"corp_no" : 256,
+		"corp_name" : "Corp. Famous PetroleumCorp.",
+		"expr_dt" : "2004-10-12 10:41:26",
+		"region_no" : 2
+	},
+	{
+		"corp_no" : 257,
+		"corp_name" : "Corp. Famous QuestsCorp.",
+		"expr_dt" : "2004-10-12 10:41:26",
+		"region_no" : 3
+	},
+	{
+		"corp_no" : 258,
+		"corp_name" : "Corp. Famous RestaurantsCorp.",
+		"expr_dt" : "2004-10-12 10:41:26",
+		"region_no" : 6
+	},
+	{
+		"corp_no" : 259,
+		"corp_name" : "Corp. Famous Sail MakersCorp.",
+		"expr_dt" : "2004-10-12 10:41:26",
+		"region_no" : 6
+	},
+	{
+		"corp_no" : 260,
+		"corp_name" : "Corp. Famous TransitCorp.",
+		"expr_dt" : "2004-10-12 10:41:26",
+		"region_no" : 7
+	},
+	{
+		"corp_no" : 261,
+		"corp_name" : "Corp. Giant Key StonesCorp.",
+		"expr_dt" : "2004-10-12 10:41:26",
+		"region_no" : 7
+	},
+	{
+		"corp_no" : 262,
+		"corp_name" : "Corp. Giant LightingCorp.",
+		"expr_dt" : "2004-10-12 10:41:26",
+		"region_no" : 3
+	},
+	{
+		"corp_no" : 263,
+		"corp_name" : "Corp. Giant MachineryCorp.",
+		"expr_dt" : "2004-10-12 10:41:26",
+		"region_no" : 4
+	},
+	{
+		"corp_no" : 264,
+		"corp_name" : "Corp. Giant NeedleworkCorp.",
+		"expr_dt" : "2004-10-12 10:41:26",
+		"region_no" : 7
+	},
+	{
+		"corp_no" : 265,
+		"corp_name" : "Corp. Giant OperaCorp.",
+		"expr_dt" : "2004-10-12 10:41:26",
+		"region_no" : 5
+	},
+	{
+		"corp_no" : 266,
+		"corp_name" : "Corp. Giant PetroleumCorp.",
+		"expr_dt" : "2004-10-12 10:41:26",
+		"region_no" : 4
+	},
+	{
+		"corp_no" : 267,
+		"corp_name" : "Corp. Giant QuestsCorp.",
+		"expr_dt" : "2004-10-12 10:41:26",
+		"region_no" : 7
+	},
+	{
+		"corp_no" : 268,
+		"corp_name" : "Corp. Giant RestaurantsCorp.",
+		"expr_dt" : "2004-10-12 10:41:26",
+		"region_no" : 7
+	},
+	{
+		"corp_no" : 269,
+		"corp_name" : "Corp. Giant Sail MakersCorp.",
+		"expr_dt" : "2004-10-12 10:41:26",
+		"region_no" : 2
+	},
+	{
+		"corp_no" : 270,
+		"corp_name" : "Corp. Giant TransitCorp.",
+		"expr_dt" : "2004-10-12 10:41:26",
+		"region_no" : 3
+	},
+	{
+		"corp_no" : 271,
+		"corp_name" : "Corp. Humble Key StonesCorp.",
+		"expr_dt" : "2004-10-12 10:41:26",
+		"region_no" : 6
+	},
+	{
+		"corp_no" : 272,
+		"corp_name" : "Corp. Humble LightingCorp.",
+		"expr_dt" : "2004-10-12 10:41:26",
+		"region_no" : 2
+	},
+	{
+		"corp_no" : 273,
+		"corp_name" : "Corp. Humble MachineryCorp.",
+		"expr_dt" : "2004-10-12 10:41:26",
+		"region_no" : 2
+	},
+	{
+		"corp_no" : 274,
+		"corp_name" : "Corp. Humble NeedleworkCorp.",
+		"expr_dt" : "2004-10-12 10:41:26",
+		"region_no" : 5
+	},
+	{
+		"corp_no" : 275,
+		"corp_name" : "Corp. Humble OperaCorp.",
+		"expr_dt" : "2004-10-12 10:41:26",
+		"region_no" : 6
+	},
+	{
+		"corp_no" : 276,
+		"corp_name" : "Corp. Humble PetroleumCorp.",
+		"expr_dt" : "2004-10-12 10:41:26",
+		"region_no" : 8
+	},
+	{
+		"corp_no" : 277,
+		"corp_name" : "Corp. Humble QuestsCorp.",
+		"expr_dt" : "2004-10-12 10:41:26",
+		"region_no" : 4
+	},
+	{
+		"corp_no" : 278,
+		"corp_name" : "Corp. Humble RestaurantsCorp.",
+		"expr_dt" : "2004-10-12 10:41:26",
+		"region_no" : 1
+	},
+	{
+		"corp_no" : 279,
+		"corp_name" : "Corp. Humble Sail MakersCorp.",
+		"expr_dt" : "2004-10-12 10:41:26",
+		"region_no" : 6
+	},
+	{
+		"corp_no" : 280,
+		"corp_name" : "Corp. Humble TransitCorp.",
+		"expr_dt" : "2004-10-12 10:41:26",
+		"region_no" : 5
+	},
+	{
+		"corp_no" : 281,
+		"corp_name" : "Corp. Imperial Key StonesCorp.",
+		"expr_dt" : "2004-10-12 10:41:26",
+		"region_no" : 1
+	},
+	{
+		"corp_no" : 282,
+		"corp_name" : "Corp. Imperial LightingCorp.",
+		"expr_dt" : "2004-10-12 10:41:26",
+		"region_no" : 1
+	},
+	{
+		"corp_no" : 283,
+		"corp_name" : "Corp. Imperial MachineryCorp.",
+		"expr_dt" : "2004-10-12 10:41:26",
+		"region_no" : 2
+	},
+	{
+		"corp_no" : 284,
+		"corp_name" : "Corp. Imperial NeedleworkCorp.",
+		"expr_dt" : "2004-10-12 10:41:26",
+		"region_no" : 3
+	},
+	{
+		"corp_no" : 285,
+		"corp_name" : "Corp. Imperial OperaCorp.",
+		"expr_dt" : "2004-10-12 10:41:26",
+		"region_no" : 5
+	},
+	{
+		"corp_no" : 286,
+		"corp_name" : "Corp. Imperial PetroleumCorp.",
+		"expr_dt" : "2004-10-12 10:41:26",
+		"region_no" : 5
+	},
+	{
+		"corp_no" : 287,
+		"corp_name" : "Corp. Imperial QuestsCorp.",
+		"expr_dt" : "2004-10-12 10:41:26",
+		"region_no" : 1
+	},
+	{
+		"corp_no" : 288,
+		"corp_name" : "Corp. Imperial RestaurantsCorp.",
+		"expr_dt" : "2004-10-12 10:41:26",
+		"region_no" : 4
+	},
+	{
+		"corp_no" : 289,
+		"corp_name" : "Corp. Imperial Sail MakersCorp.",
+		"expr_dt" : "2004-10-12 10:41:26",
+		"region_no" : 4
+	},
+	{
+		"corp_no" : 290,
+		"corp_name" : "Corp. Imperial TransitCorp.",
+		"expr_dt" : "2004-10-12 10:41:26",
+		"region_no" : 1
+	},
+	{
+		"corp_no" : 291,
+		"corp_name" : "Corp. Just Key StonesCorp.",
+		"expr_dt" : "2004-10-12 10:41:26",
+		"region_no" : 3
+	},
+	{
+		"corp_no" : 292,
+		"corp_name" : "Corp. Just LightingCorp.",
+		"expr_dt" : "2004-10-12 10:41:26",
+		"region_no" : 4
+	},
+	{
+		"corp_no" : 293,
+		"corp_name" : "Corp. Just MachineryCorp.",
+		"expr_dt" : "2004-10-12 10:41:26",
+		"region_no" : 8
+	},
+	{
+		"corp_no" : 294,
+		"corp_name" : "Corp. Just NeedleworkCorp.",
+		"expr_dt" : "2004-10-12 10:41:26",
+		"region_no" : 5
+	},
+	{
+		"corp_no" : 295,
+		"corp_name" : "Corp. Just OperaCorp.",
+		"expr_dt" : "2004-10-12 10:41:26",
+		"region_no" : 6
+	},
+	{
+		"corp_no" : 296,
+		"corp_name" : "Corp. Just PetroleumCorp.",
+		"expr_dt" : "2004-10-12 10:41:26",
+		"region_no" : 8
+	},
+	{
+		"corp_no" : 297,
+		"corp_name" : "Corp. Just QuestsCorp.",
+		"expr_dt" : "2004-10-12 10:41:26",
+		"region_no" : 7
+	},
+	{
+		"corp_no" : 298,
+		"corp_name" : "Corp. Just RestaurantsCorp.",
+		"expr_dt" : "2004-10-12 10:41:26",
+		"region_no" : 2
+	},
+	{
+		"corp_no" : 299,
+		"corp_name" : "Corp. Just Sail MakersCorp.",
+		"expr_dt" : "2004-10-12 10:41:26",
+		"region_no" : 8
+	},
+	{
+		"corp_no" : 300,
+		"corp_name" : "Corp. Just TransitCorp.",
+		"expr_dt" : "2004-10-12 10:41:26",
+		"region_no" : 3
+	},
+	{
+		"corp_no" : 301,
+		"corp_name" : "Corp. Apex Key StonesLtd.",
+		"expr_dt" : "2004-10-12 10:41:26",
+		"region_no" : 5
+	},
+	{
+		"corp_no" : 302,
+		"corp_name" : "Corp. Apex LightingLtd.",
+		"expr_dt" : "2004-10-12 10:41:26",
+		"region_no" : 1
+	},
+	{
+		"corp_no" : 303,
+		"corp_name" : "Corp. Apex MachineryLtd.",
+		"expr_dt" : "2004-10-12 10:41:26",
+		"region_no" : 8
+	},
+	{
+		"corp_no" : 304,
+		"corp_name" : "Corp. Apex NeedleworkLtd.",
+		"expr_dt" : "2004-10-12 10:41:26",
+		"region_no" : 4
+	},
+	{
+		"corp_no" : 305,
+		"corp_name" : "Corp. Apex OperaLtd.",
+		"expr_dt" : "2004-10-12 10:41:26",
+		"region_no" : 6
+	},
+	{
+		"corp_no" : 306,
+		"corp_name" : "Corp. Apex PetroleumLtd.",
+		"expr_dt" : "2004-10-12 10:41:26",
+		"region_no" : 8
+	},
+	{
+		"corp_no" : 307,
+		"corp_name" : "Corp. Apex QuestsLtd.",
+		"expr_dt" : "2004-10-12 10:41:26",
+		"region_no" : 5
+	},
+	{
+		"corp_no" : 308,
+		"corp_name" : "Corp. Apex RestaurantsLtd.",
+		"expr_dt" : "2004-10-12 10:41:26",
+		"region_no" : 8
+	},
+	{
+		"corp_no" : 309,
+		"corp_name" : "Corp. Apex Sail MakersLtd.",
+		"expr_dt" : "2004-10-12 10:41:26",
+		"region_no" : 6
+	},
+	{
+		"corp_no" : 310,
+		"corp_name" : "Corp. Apex TransitLtd.",
+		"expr_dt" : "2004-10-12 10:41:26",
+		"region_no" : 3
+	},
+	{
+		"corp_no" : 311,
+		"corp_name" : "Corp. Boston Key StonesLtd.",
+		"expr_dt" : "2004-10-12 10:41:26",
+		"region_no" : 2
+	},
+	{
+		"corp_no" : 312,
+		"corp_name" : "Corp. Boston LightingLtd.",
+		"expr_dt" : "2004-10-12 10:41:26",
+		"region_no" : 4
+	},
+	{
+		"corp_no" : 313,
+		"corp_name" : "Corp. Boston MachineryLtd.",
+		"expr_dt" : "2004-10-12 10:41:26",
+		"region_no" : 6
+	},
+	{
+		"corp_no" : 314,
+		"corp_name" : "Corp. Boston NeedleworkLtd.",
+		"expr_dt" : "2004-10-12 10:41:26",
+		"region_no" : 2
+	},
+	{
+		"corp_no" : 315,
+		"corp_name" : "Corp. Boston OperaLtd.",
+		"expr_dt" : "2004-10-12 10:41:26",
+		"region_no" : 5
+	},
+	{
+		"corp_no" : 316,
+		"corp_name" : "Corp. Boston PetroleumLtd.",
+		"expr_dt" : "2004-10-12 10:41:26",
+		"region_no" : 7
+	},
+	{
+		"corp_no" : 317,
+		"corp_name" : "Corp. Boston QuestsLtd.",
+		"expr_dt" : "2004-10-12 10:41:26",
+		"region_no" : 7
+	},
+	{
+		"corp_no" : 318,
+		"corp_name" : "Corp. Boston RestaurantsLtd.",
+		"expr_dt" : "2004-10-12 10:41:26",
+		"region_no" : 4
+	},
+	{
+		"corp_no" : 319,
+		"corp_name" : "Corp. Boston Sail MakersLtd.",
+		"expr_dt" : "2004-10-12 10:41:26",
+		"region_no" : 3
+	},
+	{
+		"corp_no" : 320,
+		"corp_name" : "Corp. Boston TransitLtd.",
+		"expr_dt" : "2004-10-12 10:41:26",
+		"region_no" : 3
+	},
+	{
+		"corp_no" : 321,
+		"corp_name" : "Corp. Computer Key StonesLtd.",
+		"expr_dt" : "2004-10-12 10:41:26",
+		"region_no" : 4
+	},
+	{
+		"corp_no" : 322,
+		"corp_name" : "Corp. Computer LightingLtd.",
+		"expr_dt" : "2004-10-12 10:41:26",
+		"region_no" : 6
+	},
+	{
+		"corp_no" : 323,
+		"corp_name" : "Corp. Computer MachineryLtd.",
+		"expr_dt" : "2004-10-12 10:41:26",
+		"region_no" : 5
+	},
+	{
+		"corp_no" : 324,
+		"corp_name" : "Corp. Computer NeedleworkLtd.",
+		"expr_dt" : "2004-10-12 10:41:26",
+		"region_no" : 8
+	},
+	{
+		"corp_no" : 325,
+		"corp_name" : "Corp. Computer OperaLtd.",
+		"expr_dt" : "2004-10-12 10:41:26",
+		"region_no" : 2
+	},
+	{
+		"corp_no" : 326,
+		"corp_name" : "Corp. Computer PetroleumLtd.",
+		"expr_dt" : "2004-10-12 10:41:26",
+		"region_no" : 7
+	},
+	{
+		"corp_no" : 327,
+		"corp_name" : "Corp. Computer QuestsLtd.",
+		"expr_dt" : "2004-10-12 10:41:26",
+		"region_no" : 7
+	},
+	{
+		"corp_no" : 328,
+		"corp_name" : "Corp. Computer RestaurantsLtd.",
+		"expr_dt" : "2004-10-12 10:41:26",
+		"region_no" : 4
+	},
+	{
+		"corp_no" : 329,
+		"corp_name" : "Corp. Computer Sail MakersLtd.",
+		"expr_dt" : "2004-10-12 10:41:26",
+		"region_no" : 5
+	},
+	{
+		"corp_no" : 330,
+		"corp_name" : "Corp. Computer TransitLtd.",
+		"expr_dt" : "2004-10-12 10:41:26",
+		"region_no" : 3
+	},
+	{
+		"corp_no" : 331,
+		"corp_name" : "Corp. Driven Key StonesLtd.",
+		"expr_dt" : "2004-10-12 10:41:26",
+		"region_no" : 7
+	},
+	{
+		"corp_no" : 332,
+		"corp_name" : "Corp. Driven LightingLtd.",
+		"expr_dt" : "2004-10-12 10:41:26",
+		"region_no" : 7
+	},
+	{
+		"corp_no" : 333,
+		"corp_name" : "Corp. Driven MachineryLtd.",
+		"expr_dt" : "2004-10-12 10:41:26",
+		"region_no" : 6
+	},
+	{
+		"corp_no" : 334,
+		"corp_name" : "Corp. Driven NeedleworkLtd.",
+		"expr_dt" : "2004-10-12 10:41:26",
+		"region_no" : 5
+	},
+	{
+		"corp_no" : 335,
+		"corp_name" : "Corp. Driven OperaLtd.",
+		"expr_dt" : "2004-10-12 10:41:26",
+		"region_no" : 4
+	},
+	{
+		"corp_no" : 336,
+		"corp_name" : "Corp. Driven PetroleumLtd.",
+		"expr_dt" : "2004-10-12 10:41:26",
+		"region_no" : 3
+	},
+	{
+		"corp_no" : 337,
+		"corp_name" : "Corp. Driven QuestsLtd.",
+		"expr_dt" : "2004-10-12 10:41:26",
+		"region_no" : 7
+	},
+	{
+		"corp_no" : 338,
+		"corp_name" : "Corp. Driven RestaurantsLtd.",
+		"expr_dt" : "2004-10-12 10:41:26",
+		"region_no" : 2
+	},
+	{
+		"corp_no" : 339,
+		"corp_name" : "Corp. Driven Sail MakersLtd.",
+		"expr_dt" : "2004-10-12 10:41:26",
+		"region_no" : 5
+	},
+	{
+		"corp_no" : 340,
+		"corp_name" : "Corp. Driven TransitLtd.",
+		"expr_dt" : "2004-10-12 10:41:26",
+		"region_no" : 4
+	},
+	{
+		"corp_no" : 341,
+		"corp_name" : "Corp. Expert Key StonesLtd.",
+		"expr_dt" : "2004-10-12 10:41:26",
+		"region_no" : 8
+	},
+	{
+		"corp_no" : 342,
+		"corp_name" : "Corp. Expert LightingLtd.",
+		"expr_dt" : "2004-10-12 10:41:26",
+		"region_no" : 5
+	},
+	{
+		"corp_no" : 343,
+		"corp_name" : "Corp. Expert MachineryLtd.",
+		"expr_dt" : "2004-10-12 10:41:26",
+		"region_no" : 7
+	},
+	{
+		"corp_no" : 344,
+		"corp_name" : "Corp. Expert NeedleworkLtd.",
+		"expr_dt" : "2004-10-12 10:41:26",
+		"region_no" : 4
+	},
+	{
+		"corp_no" : 345,
+		"corp_name" : "Corp. Expert OperaLtd.",
+		"expr_dt" : "2004-10-12 10:41:26",
+		"region_no" : 1
+	},
+	{
+		"corp_no" : 346,
+		"corp_name" : "Corp. Expert PetroleumLtd.",
+		"expr_dt" : "2004-10-12 10:41:26",
+		"region_no" : 5
+	},
+	{
+		"corp_no" : 347,
+		"corp_name" : "Corp. Expert QuestsLtd.",
+		"expr_dt" : "2004-10-12 10:41:26",
+		"region_no" : 1
+	},
+	{
+		"corp_no" : 348,
+		"corp_name" : "Corp. Expert RestaurantsLtd.",
+		"expr_dt" : "2004-10-12 10:41:26",
+		"region_no" : 6
+	},
+	{
+		"corp_no" : 349,
+		"corp_name" : "Corp. Expert Sail MakersLtd.",
+		"expr_dt" : "2004-10-12 10:41:26",
+		"region_no" : 3
+	},
+	{
+		"corp_no" : 350,
+		"corp_name" : "Corp. Expert TransitLtd.",
+		"expr_dt" : "2004-10-12 10:41:26",
+		"region_no" : 8
+	},
+	{
+		"corp_no" : 351,
+		"corp_name" : "Corp. Famous Key StonesLtd.",
+		"expr_dt" : "2004-10-12 10:41:26",
+		"region_no" : 3
+	},
+	{
+		"corp_no" : 352,
+		"corp_name" : "Corp. Famous LightingLtd.",
+		"expr_dt" : "2004-10-12 10:41:26",
+		"region_no" : 1
+	},
+	{
+		"corp_no" : 353,
+		"corp_name" : "Corp. Famous MachineryLtd.",
+		"expr_dt" : "2004-10-12 10:41:26",
+		"region_no" : 6
+	},
+	{
+		"corp_no" : 354,
+		"corp_name" : "Corp. Famous NeedleworkLtd.",
+		"expr_dt" : "2004-10-12 10:41:26",
+		"region_no" : 5
+	},
+	{
+		"corp_no" : 355,
+		"corp_name" : "Corp. Famous OperaLtd.",
+		"expr_dt" : "2004-10-12 10:41:26",
+		"region_no" : 8
+	},
+	{
+		"corp_no" : 356,
+		"corp_name" : "Corp. Famous PetroleumLtd.",
+		"expr_dt" : "2004-10-12 10:41:26",
+		"region_no" : 2
+	},
+	{
+		"corp_no" : 357,
+		"corp_name" : "Corp. Famous QuestsLtd.",
+		"expr_dt" : "2004-10-12 10:41:26",
+		"region_no" : 6
+	},
+	{
+		"corp_no" : 358,
+		"corp_name" : "Corp. Famous RestaurantsLtd.",
+		"expr_dt" : "2004-10-12 10:41:26",
+		"region_no" : 1
+	},
+	{
+		"corp_no" : 359,
+		"corp_name" : "Corp. Famous Sail MakersLtd.",
+		"expr_dt" : "2004-10-12 10:41:26",
+		"region_no" : 3
+	},
+	{
+		"corp_no" : 360,
+		"corp_name" : "Corp. Famous TransitLtd.",
+		"expr_dt" : "2004-10-12 10:41:26",
+		"region_no" : 8
+	},
+	{
+		"corp_no" : 361,
+		"corp_name" : "Corp. Giant Key StonesLtd.",
+		"expr_dt" : "2004-10-12 10:41:26",
+		"region_no" : 2
+	},
+	{
+		"corp_no" : 362,
+		"corp_name" : "Corp. Giant LightingLtd.",
+		"expr_dt" : "2004-10-12 10:41:26",
+		"region_no" : 8
+	},
+	{
+		"corp_no" : 363,
+		"corp_name" : "Corp. Giant MachineryLtd.",
+		"expr_dt" : "2004-10-12 10:41:26",
+		"region_no" : 6
+	},
+	{
+		"corp_no" : 364,
+		"corp_name" : "Corp. Giant NeedleworkLtd.",
+		"expr_dt" : "2004-10-12 10:41:26",
+		"region_no" : 5
+	},
+	{
+		"corp_no" : 365,
+		"corp_name" : "Corp. Giant OperaLtd.",
+		"expr_dt" : "2004-10-12 10:41:26",
+		"region_no" : 6
+	},
+	{
+		"corp_no" : 366,
+		"corp_name" : "Corp. Giant PetroleumLtd.",
+		"expr_dt" : "2004-10-12 10:41:26",
+		"region_no" : 8
+	},
+	{
+		"corp_no" : 367,
+		"corp_name" : "Corp. Giant QuestsLtd.",
+		"expr_dt" : "2004-10-12 10:41:26",
+		"region_no" : 3
+	},
+	{
+		"corp_no" : 368,
+		"corp_name" : "Corp. Giant RestaurantsLtd.",
+		"expr_dt" : "2004-10-12 10:41:26",
+		"region_no" : 1
+	},
+	{
+		"corp_no" : 369,
+		"corp_name" : "Corp. Giant Sail MakersLtd.",
+		"expr_dt" : "2004-10-12 10:41:26",
+		"region_no" : 6
+	},
+	{
+		"corp_no" : 370,
+		"corp_name" : "Corp. Giant TransitLtd.",
+		"expr_dt" : "2004-10-12 10:41:26",
+		"region_no" : 4
+	},
+	{
+		"corp_no" : 371,
+		"corp_name" : "Corp. Humble Key StonesLtd.",
+		"expr_dt" : "2004-10-12 10:41:26",
+		"region_no" : 3
+	},
+	{
+		"corp_no" : 372,
+		"corp_name" : "Corp. Humble LightingLtd.",
+		"expr_dt" : "2004-10-12 10:41:26",
+		"region_no" : 4
+	},
+	{
+		"corp_no" : 373,
+		"corp_name" : "Corp. Humble MachineryLtd.",
+		"expr_dt" : "2004-10-12 10:41:26",
+		"region_no" : 4
+	},
+	{
+		"corp_no" : 374,
+		"corp_name" : "Corp. Humble NeedleworkLtd.",
+		"expr_dt" : "2004-10-12 10:41:26",
+		"region_no" : 2
+	},
+	{
+		"corp_no" : 375,
+		"corp_name" : "Corp. Humble OperaLtd.",
+		"expr_dt" : "2004-10-12 10:41:26",
+		"region_no" : 5
+	},
+	{
+		"corp_no" : 376,
+		"corp_name" : "Corp. Humble PetroleumLtd.",
+		"expr_dt" : "2004-10-12 10:41:26",
+		"region_no" : 2
+	},
+	{
+		"corp_no" : 377,
+		"corp_name" : "Corp. Humble QuestsLtd.",
+		"expr_dt" : "2004-10-12 10:41:26",
+		"region_no" : 1
+	},
+	{
+		"corp_no" : 378,
+		"corp_name" : "Corp. Humble RestaurantsLtd.",
+		"expr_dt" : "2004-10-12 10:41:26",
+		"region_no" : 2
+	},
+	{
+		"corp_no" : 379,
+		"corp_name" : "Corp. Humble Sail MakersLtd.",
+		"expr_dt" : "2004-10-12 10:41:26",
+		"region_no" : 4
+	},
+	{
+		"corp_no" : 380,
+		"corp_name" : "Corp. Humble TransitLtd.",
+		"expr_dt" : "2004-10-12 10:41:26",
+		"region_no" : 3
+	},
+	{
+		"corp_no" : 381,
+		"corp_name" : "Corp. Imperial Key StonesLtd.",
+		"expr_dt" : "2004-10-12 10:41:26",
+		"region_no" : 4
+	},
+	{
+		"corp_no" : 382,
+		"corp_name" : "Corp. Imperial LightingLtd.",
+		"expr_dt" : "2004-10-12 10:41:26",
+		"region_no" : 3
+	},
+	{
+		"corp_no" : 383,
+		"corp_name" : "Corp. Imperial MachineryLtd.",
+		"expr_dt" : "2004-10-12 10:41:26",
+		"region_no" : 7
+	},
+	{
+		"corp_no" : 384,
+		"corp_name" : "Corp. Imperial NeedleworkLtd.",
+		"expr_dt" : "2004-10-12 10:41:26",
+		"region_no" : 5
+	},
+	{
+		"corp_no" : 385,
+		"corp_name" : "Corp. Imperial OperaLtd.",
+		"expr_dt" : "2004-10-12 10:41:26",
+		"region_no" : 7
+	},
+	{
+		"corp_no" : 386,
+		"corp_name" : "Corp. Imperial PetroleumLtd.",
+		"expr_dt" : "2004-10-12 10:41:26",
+		"region_no" : 2
+	},
+	{
+		"corp_no" : 387,
+		"corp_name" : "Corp. Imperial QuestsLtd.",
+		"expr_dt" : "2004-10-12 10:41:26",
+		"region_no" : 8
+	},
+	{
+		"corp_no" : 388,
+		"corp_name" : "Corp. Imperial RestaurantsLtd.",
+		"expr_dt" : "2004-10-12 10:41:26",
+		"region_no" : 5
+	},
+	{
+		"corp_no" : 389,
+		"corp_name" : "Corp. Imperial Sail MakersLtd.",
+		"expr_dt" : "2004-10-12 10:41:26",
+		"region_no" : 7
+	},
+	{
+		"corp_no" : 390,
+		"corp_name" : "Corp. Imperial TransitLtd.",
+		"expr_dt" : "2004-10-12 10:41:26",
+		"region_no" : 3
+	},
+	{
+		"corp_no" : 391,
+		"corp_name" : "Corp. Just Key StonesLtd.",
+		"expr_dt" : "2004-10-12 10:41:26",
+		"region_no" : 4
+	},
+	{
+		"corp_no" : 392,
+		"corp_name" : "Corp. Just LightingLtd.",
+		"expr_dt" : "2004-10-12 10:41:26",
+		"region_no" : 4
+	},
+	{
+		"corp_no" : 393,
+		"corp_name" : "Corp. Just MachineryLtd.",
+		"expr_dt" : "2004-10-12 10:41:26",
+		"region_no" : 1
+	},
+	{
+		"corp_no" : 394,
+		"corp_name" : "Corp. Just NeedleworkLtd.",
+		"expr_dt" : "2004-10-12 10:41:26",
+		"region_no" : 4
+	},
+	{
+		"corp_no" : 395,
+		"corp_name" : "Corp. Just OperaLtd.",
+		"expr_dt" : "2004-10-12 10:41:26",
+		"region_no" : 1
+	},
+	{
+		"corp_no" : 396,
+		"corp_name" : "Corp. Just PetroleumLtd.",
+		"expr_dt" : "2004-10-12 10:41:26",
+		"region_no" : 3
+	},
+	{
+		"corp_no" : 397,
+		"corp_name" : "Corp. Just QuestsLtd.",
+		"expr_dt" : "2004-10-12 10:41:26",
+		"region_no" : 8
+	},
+	{
+		"corp_no" : 398,
+		"corp_name" : "Corp. Just RestaurantsLtd.",
+		"expr_dt" : "2004-10-12 10:41:26",
+		"region_no" : 3
+	},
+	{
+		"corp_no" : 399,
+		"corp_name" : "Corp. Just Sail MakersLtd.",
+		"expr_dt" : "2004-10-12 10:41:26",
+		"region_no" : 8
+	},
+	{
+		"corp_no" : 400,
+		"corp_name" : "Corp. Just TransitLtd.",
+		"expr_dt" : "2004-10-12 10:41:26",
+		"region_no" : 8
+	},
+	{
+		"corp_no" : 401,
+		"corp_name" : "Corp. Apex Key StonesAg.",
+		"expr_dt" : "2004-10-12 10:41:26",
+		"region_no" : 1
+	},
+	{
+		"corp_no" : 402,
+		"corp_name" : "Corp. Apex LightingAg.",
+		"expr_dt" : "2004-10-12 10:41:26",
+		"region_no" : 6
+	},
+	{
+		"corp_no" : 403,
+		"corp_name" : "Corp. Apex MachineryAg.",
+		"expr_dt" : "2004-10-12 10:41:26",
+		"region_no" : 3
+	},
+	{
+		"corp_no" : 404,
+		"corp_name" : "Corp. Apex NeedleworkAg.",
+		"expr_dt" : "2004-10-12 10:41:26",
+		"region_no" : 2
+	},
+	{
+		"corp_no" : 405,
+		"corp_name" : "Corp. Apex OperaAg.",
+		"expr_dt" : "2004-10-12 10:41:26",
+		"region_no" : 7
+	},
+	{
+		"corp_no" : 406,
+		"corp_name" : "Corp. Apex PetroleumAg.",
+		"expr_dt" : "2004-10-12 10:41:26",
+		"region_no" : 8
+	},
+	{
+		"corp_no" : 407,
+		"corp_name" : "Corp. Apex QuestsAg.",
+		"expr_dt" : "2004-10-12 10:41:26",
+		"region_no" : 6
+	},
+	{
+		"corp_no" : 408,
+		"corp_name" : "Corp. Apex RestaurantsAg.",
+		"expr_dt" : "2004-10-12 10:41:26",
+		"region_no" : 8
+	},
+	{
+		"corp_no" : 409,
+		"corp_name" : "Corp. Apex Sail MakersAg.",
+		"expr_dt" : "2004-10-12 10:41:26",
+		"region_no" : 2
+	},
+	{
+		"corp_no" : 410,
+		"corp_name" : "Corp. Apex TransitAg.",
+		"expr_dt" : "2004-10-12 10:41:26",
+		"region_no" : 3
+	},
+	{
+		"corp_no" : 411,
+		"corp_name" : "Corp. Boston Key StonesAg.",
+		"expr_dt" : "2004-10-12 10:41:26",
+		"region_no" : 7
+	},
+	{
+		"corp_no" : 412,
+		"corp_name" : "Corp. Boston LightingAg.",
+		"expr_dt" : "2004-10-12 10:41:26",
+		"region_no" : 3
+	},
+	{
+		"corp_no" : 413,
+		"corp_name" : "Corp. Boston MachineryAg.",
+		"expr_dt" : "2004-10-12 10:41:26",
+		"region_no" : 3
+	},
+	{
+		"corp_no" : 414,
+		"corp_name" : "Corp. Boston NeedleworkAg.",
+		"expr_dt" : "2004-10-12 10:41:26",
+		"region_no" : 6
+	},
+	{
+		"corp_no" : 415,
+		"corp_name" : "Corp. Boston OperaAg.",
+		"expr_dt" : "2004-10-12 10:41:26",
+		"region_no" : 2
+	},
+	{
+		"corp_no" : 416,
+		"corp_name" : "Corp. Boston PetroleumAg.",
+		"expr_dt" : "2004-10-12 10:41:26",
+		"region_no" : 7
+	},
+	{
+		"corp_no" : 417,
+		"corp_name" : "Corp. Boston QuestsAg.",
+		"expr_dt" : "2004-10-12 10:41:26",
+		"region_no" : 6
+	},
+	{
+		"corp_no" : 418,
+		"corp_name" : "Corp. Boston RestaurantsAg.",
+		"expr_dt" : "2004-10-12 10:41:26",
+		"region_no" : 6
+	},
+	{
+		"corp_no" : 419,
+		"corp_name" : "Corp. Boston Sail MakersAg.",
+		"expr_dt" : "2004-10-12 10:41:26",
+		"region_no" : 1
+	},
+	{
+		"corp_no" : 420,
+		"corp_name" : "Corp. Boston TransitAg.",
+		"expr_dt" : "2004-10-12 10:41:26",
+		"region_no" : 7
+	},
+	{
+		"corp_no" : 421,
+		"corp_name" : "Corp. Computer Key StonesAg.",
+		"expr_dt" : "2004-10-12 10:41:26",
+		"region_no" : 2
+	},
+	{
+		"corp_no" : 422,
+		"corp_name" : "Corp. Computer LightingAg.",
+		"expr_dt" : "2004-10-12 10:41:26",
+		"region_no" : 6
+	},
+	{
+		"corp_no" : 423,
+		"corp_name" : "Corp. Computer MachineryAg.",
+		"expr_dt" : "2004-10-12 10:41:26",
+		"region_no" : 7
+	},
+	{
+		"corp_no" : 424,
+		"corp_name" : "Corp. Computer NeedleworkAg.",
+		"expr_dt" : "2004-10-12 10:41:26",
+		"region_no" : 3
+	},
+	{
+		"corp_no" : 425,
+		"corp_name" : "Corp. Computer OperaAg.",
+		"expr_dt" : "2004-10-12 10:41:26",
+		"region_no" : 1
+	},
+	{
+		"corp_no" : 426,
+		"corp_name" : "Corp. Computer PetroleumAg.",
+		"expr_dt" : "2004-10-12 10:41:26",
+		"region_no" : 3
+	},
+	{
+		"corp_no" : 427,
+		"corp_name" : "Corp. Computer QuestsAg.",
+		"expr_dt" : "2004-10-12 10:41:26",
+		"region_no" : 4
+	},
+	{
+		"corp_no" : 428,
+		"corp_name" : "Corp. Computer RestaurantsAg.",
+		"expr_dt" : "2004-10-12 10:41:26",
+		"region_no" : 8
+	},
+	{
+		"corp_no" : 429,
+		"corp_name" : "Corp. Computer Sail MakersAg.",
+		"expr_dt" : "2004-10-12 10:41:26",
+		"region_no" : 1
+	},
+	{
+		"corp_no" : 430,
+		"corp_name" : "Corp. Computer TransitAg.",
+		"expr_dt" : "2004-10-12 10:41:26",
+		"region_no" : 1
+	},
+	{
+		"corp_no" : 431,
+		"corp_name" : "Corp. Driven Key StonesAg.",
+		"expr_dt" : "2004-10-12 10:41:26",
+		"region_no" : 6
+	},
+	{
+		"corp_no" : 432,
+		"corp_name" : "Corp. Driven LightingAg.",
+		"expr_dt" : "2004-10-12 10:41:26",
+		"region_no" : 1
+	},
+	{
+		"corp_no" : 433,
+		"corp_name" : "Corp. Driven MachineryAg.",
+		"expr_dt" : "2004-10-12 10:41:26",
+		"region_no" : 4
+	},
+	{
+		"corp_no" : 434,
+		"corp_name" : "Corp. Driven NeedleworkAg.",
+		"expr_dt" : "2004-10-12 10:41:26",
+		"region_no" : 3
+	},
+	{
+		"corp_no" : 435,
+		"corp_name" : "Corp. Driven OperaAg.",
+		"expr_dt" : "2004-10-12 10:41:26",
+		"region_no" : 3
+	},
+	{
+		"corp_no" : 436,
+		"corp_name" : "Corp. Driven PetroleumAg.",
+		"expr_dt" : "2004-10-12 10:41:26",
+		"region_no" : 3
+	},
+	{
+		"corp_no" : 437,
+		"corp_name" : "Corp. Driven QuestsAg.",
+		"expr_dt" : "2004-10-12 10:41:26",
+		"region_no" : 6
+	},
+	{
+		"corp_no" : 438,
+		"corp_name" : "Corp. Driven RestaurantsAg.",
+		"expr_dt" : "2004-10-12 10:41:26",
+		"region_no" : 5
+	},
+	{
+		"corp_no" : 439,
+		"corp_name" : "Corp. Driven Sail MakersAg.",
+		"expr_dt" : "2004-10-12 10:41:26",
+		"region_no" : 1
+	},
+	{
+		"corp_no" : 440,
+		"corp_name" : "Corp. Driven TransitAg.",
+		"expr_dt" : "2004-10-12 10:41:26",
+		"region_no" : 4
+	},
+	{
+		"corp_no" : 441,
+		"corp_name" : "Corp. Expert Key StonesAg.",
+		"expr_dt" : "2004-10-12 10:41:26",
+		"region_no" : 8
+	},
+	{
+		"corp_no" : 442,
+		"corp_name" : "Corp. Expert LightingAg.",
+		"expr_dt" : "2004-10-12 10:41:26",
+		"region_no" : 1
+	},
+	{
+		"corp_no" : 443,
+		"corp_name" : "Corp. Expert MachineryAg.",
+		"expr_dt" : "2004-10-12 10:41:26",
+		"region_no" : 2
+	},
+	{
+		"corp_no" : 444,
+		"corp_name" : "Corp. Expert NeedleworkAg.",
+		"expr_dt" : "2004-10-12 10:41:26",
+		"region_no" : 7
+	},
+	{
+		"corp_no" : 445,
+		"corp_name" : "Corp. Expert OperaAg.",
+		"expr_dt" : "2004-10-12 10:41:26",
+		"region_no" : 2
+	},
+	{
+		"corp_no" : 446,
+		"corp_name" : "Corp. Expert PetroleumAg.",
+		"expr_dt" : "2004-10-12 10:41:26",
+		"region_no" : 6
+	},
+	{
+		"corp_no" : 447,
+		"corp_name" : "Corp. Expert QuestsAg.",
+		"expr_dt" : "2004-10-12 10:41:26",
+		"region_no" : 3
+	},
+	{
+		"corp_no" : 448,
+		"corp_name" : "Corp. Expert RestaurantsAg.",
+		"expr_dt" : "2004-10-12 10:41:26",
+		"region_no" : 6
+	},
+	{
+		"corp_no" : 449,
+		"corp_name" : "Corp. Expert Sail MakersAg.",
+		"expr_dt" : "2004-10-12 10:41:26",
+		"region_no" : 5
+	},
+	{
+		"corp_no" : 450,
+		"corp_name" : "Corp. Expert TransitAg.",
+		"expr_dt" : "2004-10-12 10:41:26",
+		"region_no" : 2
+	},
+	{
+		"corp_no" : 451,
+		"corp_name" : "Corp. Famous Key StonesAg.",
+		"expr_dt" : "2004-10-12 10:41:26",
+		"region_no" : 2
+	},
+	{
+		"corp_no" : 452,
+		"corp_name" : "Corp. Famous LightingAg.",
+		"expr_dt" : "2004-10-12 10:41:26",
+		"region_no" : 2
+	},
+	{
+		"corp_no" : 453,
+		"corp_name" : "Corp. Famous MachineryAg.",
+		"expr_dt" : "2004-10-12 10:41:26",
+		"region_no" : 8
+	},
+	{
+		"corp_no" : 454,
+		"corp_name" : "Corp. Famous NeedleworkAg.",
+		"expr_dt" : "2004-10-12 10:41:26",
+		"region_no" : 5
+	},
+	{
+		"corp_no" : 455,
+		"corp_name" : "Corp. Famous OperaAg.",
+		"expr_dt" : "2004-10-12 10:41:26",
+		"region_no" : 3
+	},
+	{
+		"corp_no" : 456,
+		"corp_name" : "Corp. Famous PetroleumAg.",
+		"expr_dt" : "2004-10-12 10:41:26",
+		"region_no" : 5
+	},
+	{
+		"corp_no" : 457,
+		"corp_name" : "Corp. Famous QuestsAg.",
+		"expr_dt" : "2004-10-12 10:41:26",
+		"region_no" : 1
+	},
+	{
+		"corp_no" : 458,
+		"corp_name" : "Corp. Famous RestaurantsAg.",
+		"expr_dt" : "2004-10-12 10:41:26",
+		"region_no" : 4
+	},
+	{
+		"corp_no" : 459,
+		"corp_name" : "Corp. Famous Sail MakersAg.",
+		"expr_dt" : "2004-10-12 10:41:26",
+		"region_no" : 2
+	},
+	{
+		"corp_no" : 460,
+		"corp_name" : "Corp. Famous TransitAg.",
+		"expr_dt" : "2004-10-12 10:41:26",
+		"region_no" : 4
+	},
+	{
+		"corp_no" : 461,
+		"corp_name" : "Corp. Giant Key StonesAg.",
+		"expr_dt" : "2004-10-12 10:41:26",
+		"region_no" : 7
+	},
+	{
+		"corp_no" : 462,
+		"corp_name" : "Corp. Giant LightingAg.",
+		"expr_dt" : "2004-10-12 10:41:26",
+		"region_no" : 7
+	},
+	{
+		"corp_no" : 463,
+		"corp_name" : "Corp. Giant MachineryAg.",
+		"expr_dt" : "2004-10-12 10:41:26",
+		"region_no" : 1
+	},
+	{
+		"corp_no" : 464,
+		"corp_name" : "Corp. Giant NeedleworkAg.",
+		"expr_dt" : "2004-10-12 10:41:26",
+		"region_no" : 5
+	},
+	{
+		"corp_no" : 465,
+		"corp_name" : "Corp. Giant OperaAg.",
+		"expr_dt" : "2004-10-12 10:41:26",
+		"region_no" : 2
+	},
+	{
+		"corp_no" : 466,
+		"corp_name" : "Corp. Giant PetroleumAg.",
+		"expr_dt" : "2004-10-12 10:41:26",
+		"region_no" : 6
+	},
+	{
+		"corp_no" : 467,
+		"corp_name" : "Corp. Giant QuestsAg.",
+		"expr_dt" : "2004-10-12 10:41:26",
+		"region_no" : 7
+	},
+	{
+		"corp_no" : 468,
+		"corp_name" : "Corp. Giant RestaurantsAg.",
+		"expr_dt" : "2004-10-12 10:41:26",
+		"region_no" : 3
+	},
+	{
+		"corp_no" : 469,
+		"corp_name" : "Corp. Giant Sail MakersAg.",
+		"expr_dt" : "2004-10-12 10:41:26",
+		"region_no" : 4
+	},
+	{
+		"corp_no" : 470,
+		"corp_name" : "Corp. Giant TransitAg.",
+		"expr_dt" : "2004-10-12 10:41:26",
+		"region_no" : 8
+	},
+	{
+		"corp_no" : 471,
+		"corp_name" : "Corp. Humble Key StonesAg.",
+		"expr_dt" : "2004-10-12 10:41:26",
+		"region_no" : 2
+	},
+	{
+		"corp_no" : 472,
+		"corp_name" : "Corp. Humble LightingAg.",
+		"expr_dt" : "2004-10-12 10:41:26",
+		"region_no" : 4
+	},
+	{
+		"corp_no" : 473,
+		"corp_name" : "Corp. Humble MachineryAg.",
+		"expr_dt" : "2004-10-12 10:41:26",
+		"region_no" : 4
+	},
+	{
+		"corp_no" : 474,
+		"corp_name" : "Corp. Humble NeedleworkAg.",
+		"expr_dt" : "2004-10-12 10:41:26",
+		"region_no" : 2
+	},
+	{
+		"corp_no" : 475,
+		"corp_name" : "Corp. Humble OperaAg.",
+		"expr_dt" : "2004-10-12 10:41:26",
+		"region_no" : 4
+	},
+	{
+		"corp_no" : 476,
+		"corp_name" : "Corp. Humble PetroleumAg.",
+		"expr_dt" : "2004-10-12 10:41:26",
+		"region_no" : 3
+	},
+	{
+		"corp_no" : 477,
+		"corp_name" : "Corp. Humble QuestsAg.",
+		"expr_dt" : "2004-10-12 10:41:26",
+		"region_no" : 5
+	},
+	{
+		"corp_no" : 478,
+		"corp_name" : "Corp. Humble RestaurantsAg.",
+		"expr_dt" : "2004-10-12 10:41:26",
+		"region_no" : 7
+	},
+	{
+		"corp_no" : 479,
+		"corp_name" : "Corp. Humble Sail MakersAg.",
+		"expr_dt" : "2004-10-12 10:41:26",
+		"region_no" : 6
+	},
+	{
+		"corp_no" : 480,
+		"corp_name" : "Corp. Humble TransitAg.",
+		"expr_dt" : "2004-10-12 10:41:26",
+		"region_no" : 1
+	},
+	{
+		"corp_no" : 481,
+		"corp_name" : "Corp. Imperial Key StonesAg.",
+		"expr_dt" : "2004-10-12 10:41:26",
+		"region_no" : 7
+	},
+	{
+		"corp_no" : 482,
+		"corp_name" : "Corp. Imperial LightingAg.",
+		"expr_dt" : "2004-10-12 10:41:26",
+		"region_no" : 1
+	},
+	{
+		"corp_no" : 483,
+		"corp_name" : "Corp. Imperial MachineryAg.",
+		"expr_dt" : "2004-10-12 10:41:26",
+		"region_no" : 6
+	},
+	{
+		"corp_no" : 484,
+		"corp_name" : "Corp. Imperial NeedleworkAg.",
+		"expr_dt" : "2004-10-12 10:41:26",
+		"region_no" : 2
+	},
+	{
+		"corp_no" : 485,
+		"corp_name" : "Corp. Imperial OperaAg.",
+		"expr_dt" : "2004-10-12 10:41:26",
+		"region_no" : 1
+	},
+	{
+		"corp_no" : 486,
+		"corp_name" : "Corp. Imperial PetroleumAg.",
+		"expr_dt" : "2004-10-12 10:41:26",
+		"region_no" : 5
+	},
+	{
+		"corp_no" : 487,
+		"corp_name" : "Corp. Imperial QuestsAg.",
+		"expr_dt" : "2004-10-12 10:41:26",
+		"region_no" : 7
+	},
+	{
+		"corp_no" : 488,
+		"corp_name" : "Corp. Imperial RestaurantsAg.",
+		"expr_dt" : "2004-10-12 10:41:26",
+		"region_no" : 2
+	},
+	{
+		"corp_no" : 489,
+		"corp_name" : "Corp. Imperial Sail MakersAg.",
+		"expr_dt" : "2004-10-12 10:41:26",
+		"region_no" : 5
+	},
+	{
+		"corp_no" : 490,
+		"corp_name" : "Corp. Imperial TransitAg.",
+		"expr_dt" : "2004-10-12 10:41:26",
+		"region_no" : 2
+	},
+	{
+		"corp_no" : 491,
+		"corp_name" : "Corp. Just Key StonesAg.",
+		"expr_dt" : "2004-10-12 10:41:26",
+		"region_no" : 8
+	},
+	{
+		"corp_no" : 492,
+		"corp_name" : "Corp. Just LightingAg.",
+		"expr_dt" : "2004-10-12 10:41:26",
+		"region_no" : 3
+	},
+	{
+		"corp_no" : 493,
+		"corp_name" : "Corp. Just MachineryAg.",
+		"expr_dt" : "2004-10-12 10:41:26",
+		"region_no" : 4
+	},
+	{
+		"corp_no" : 494,
+		"corp_name" : "Corp. Just NeedleworkAg.",
+		"expr_dt" : "2004-10-12 10:41:26",
+		"region_no" : 2
+	},
+	{
+		"corp_no" : 495,
+		"corp_name" : "Corp. Just OperaAg.",
+		"expr_dt" : "2004-10-12 10:41:26",
+		"region_no" : 3
+	},
+	{
+		"corp_no" : 496,
+		"corp_name" : "Corp. Just PetroleumAg.",
+		"expr_dt" : "2004-10-12 10:41:26",
+		"region_no" : 3
+	},
+	{
+		"corp_no" : 497,
+		"corp_name" : "Corp. Just QuestsAg.",
+		"expr_dt" : "2004-10-12 10:41:26",
+		"region_no" : 4
+	},
+	{
+		"corp_no" : 498,
+		"corp_name" : "Corp. Just RestaurantsAg.",
+		"expr_dt" : "2004-10-12 10:41:26",
+		"region_no" : 5
+	},
+	{
+		"corp_no" : 499,
+		"corp_name" : "Corp. Just Sail MakersAg.",
+		"expr_dt" : "2004-10-12 10:41:26",
+		"region_no" : 4
+	},
+	{
+		"corp_no" : 500,
+		"corp_name" : "Corp. Just TransitAg.",
+		"expr_dt" : "2004-10-12 10:41:26",
+		"region_no" : 3
+	}
+]

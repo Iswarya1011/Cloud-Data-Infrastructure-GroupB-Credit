@@ -1,0 +1,10 @@
+region_no,region_name,street,city,country
+1,North American,111 First St.,Toronto,Ca
+2,South American,222 Second St.,Sao Paulo,Br
+3,Scandanavian,333 Third St.,Goteborg,Sw
+4,Western Europea,444 Fourth St.,Brussels,
+5,Eastern Europea,555 Fifth St St,Budapest,
+6,Japan,666 Sixth,Tokyo,Ja
+7,China,777 Seventh St,Beijing,
+8,Mid East / Sout,888 Eighth St.,Madras,
+9,Africa,999 Ninth St.,Mombassa,Ke
