@@ -5,7 +5,7 @@
         "issue_dt": "1999-10-13 10:41:18",
         "expr_dt": "2000-10-12 10:41:18",
         "charge_amt_sum": 0.0,
-        "region_name": "Mid East \/ Sout"
+        "region": "Mid East \/ Sout"
     },
     {
         "provider_no": 2,
@@ -13,7 +13,7 @@
         "issue_dt": "1999-10-13 10:41:18",
         "expr_dt": "2000-10-12 10:41:18",
         "charge_amt_sum": 0.0,
-        "region_name": "Africa"
+        "region": "Africa"
     },
     {
         "provider_no": 3,
@@ -21,7 +21,7 @@
         "issue_dt": "1999-10-13 10:41:18",
         "expr_dt": "2000-10-12 10:41:18",
         "charge_amt_sum": 0.0,
-        "region_name": "Africa"
+        "region": "Africa"
     },
     {
         "provider_no": 4,
@@ -29,7 +29,7 @@
         "issue_dt": "1999-10-13 10:41:18",
         "expr_dt": "2000-10-12 10:41:18",
         "charge_amt_sum": 0.0,
-        "region_name": "Africa"
+        "region": "Africa"
     },
     {
         "provider_no": 5,
@@ -37,7 +37,7 @@
         "issue_dt": "1999-10-13 10:41:18",
         "expr_dt": "2000-10-12 10:41:18",
         "charge_amt_sum": 0.0,
-        "region_name": "Africa"
+        "region": "Africa"
     },
     {
         "provider_no": 6,
@@ -45,7 +45,7 @@
         "issue_dt": "1999-10-13 10:41:18",
         "expr_dt": "2000-10-12 10:41:18",
         "charge_amt_sum": 0.0,
-        "region_name": "Africa"
+        "region": "Africa"
     },
     {
         "provider_no": 7,
@@ -53,7 +53,7 @@
         "issue_dt": "1999-10-13 10:41:18",
         "expr_dt": "2000-10-12 10:41:18",
         "charge_amt_sum": 0.0,
-        "region_name": "China"
+        "region": "China"
     },
     {
         "provider_no": 8,
@@ -61,7 +61,7 @@
         "issue_dt": "1999-10-13 10:41:18",
         "expr_dt": "2000-10-12 10:41:18",
         "charge_amt_sum": 0.0,
-        "region_name": "Africa"
+        "region": "Africa"
     },
     {
         "provider_no": 9,
@@ -69,7 +69,7 @@
         "issue_dt": "1999-10-13 10:41:18",
         "expr_dt": "2000-10-12 10:41:18",
         "charge_amt_sum": 0.0,
-        "region_name": "China"
+        "region": "China"
     },
     {
         "provider_no": 10,
@@ -77,7 +77,7 @@
         "issue_dt": "1999-10-13 10:41:18",
         "expr_dt": "2000-10-12 10:41:18",
         "charge_amt_sum": 0.0,
-        "region_name": "Africa"
+        "region": "Africa"
     },
     {
         "provider_no": 11,
@@ -85,7 +85,7 @@
         "issue_dt": "1999-10-13 10:41:18",
         "expr_dt": "2000-10-12 10:41:18",
         "charge_amt_sum": 0.0,
-        "region_name": "Africa"
+        "region": "Africa"
     },
     {
         "provider_no": 12,
@@ -93,7 +93,7 @@
         "issue_dt": "1999-10-13 10:41:18",
         "expr_dt": "2000-10-12 10:41:18",
         "charge_amt_sum": 0.0,
-        "region_name": "Africa"
+        "region": "Africa"
     },
     {
         "provider_no": 13,
@@ -101,7 +101,7 @@
         "issue_dt": "1999-10-13 10:41:18",
         "expr_dt": "2000-10-12 10:41:18",
         "charge_amt_sum": 0.0,
-        "region_name": "Africa"
+        "region": "Africa"
     },
     {
         "provider_no": 14,
@@ -109,7 +109,7 @@
         "issue_dt": "1999-10-13 10:41:18",
         "expr_dt": "2000-10-12 10:41:18",
         "charge_amt_sum": 0.0,
-        "region_name": "China"
+        "region": "China"
     },
     {
         "provider_no": 15,
@@ -117,7 +117,7 @@
         "issue_dt": "1999-10-13 10:41:18",
         "expr_dt": "2000-10-12 10:41:18",
         "charge_amt_sum": 0.0,
-        "region_name": "Mid East \/ Sout"
+        "region": "Mid East \/ Sout"
     },
     {
         "provider_no": 16,
@@ -125,7 +125,7 @@
         "issue_dt": "1999-10-13 10:41:18",
         "expr_dt": "2000-10-12 10:41:18",
         "charge_amt_sum": 0.0,
-        "region_name": "Japan"
+        "region": "Japan"
     },
     {
         "provider_no": 17,
@@ -133,7 +133,7 @@
         "issue_dt": "1999-10-13 10:41:18",
         "expr_dt": "2000-10-12 10:41:18",
         "charge_amt_sum": 0.0,
-        "region_name": "Eastern Europea"
+        "region": "Eastern Europea"
     },
     {
         "provider_no": 18,
@@ -141,7 +141,7 @@
         "issue_dt": "1999-10-13 10:41:18",
         "expr_dt": "2000-10-12 10:41:18",
         "charge_amt_sum": 0.0,
-        "region_name": "Africa"
+        "region": "Africa"
     },
     {
         "provider_no": 19,
@@ -149,7 +149,7 @@
         "issue_dt": "1999-10-13 10:41:18",
         "expr_dt": "2000-10-12 10:41:18",
         "charge_amt_sum": 0.0,
-        "region_name": "Africa"
+        "region": "Africa"
     },
     {
         "provider_no": 20,
@@ -157,7 +157,7 @@
         "issue_dt": "1999-10-13 10:41:18",
         "expr_dt": "2000-10-12 10:41:18",
         "charge_amt_sum": 0.0,
-        "region_name": "Africa"
+        "region": "Africa"
     },
     {
         "provider_no": 21,
@@ -165,7 +165,7 @@
         "issue_dt": "1999-10-13 10:41:18",
         "expr_dt": "2000-10-12 10:41:18",
         "charge_amt_sum": 0.0,
-        "region_name": "Mid East \/ Sout"
+        "region": "Mid East \/ Sout"
     },
     {
         "provider_no": 22,
@@ -173,7 +173,7 @@
         "issue_dt": "1999-10-13 10:41:18",
         "expr_dt": "2000-10-12 10:41:18",
         "charge_amt_sum": 0.0,
-        "region_name": "Eastern Europea"
+        "region": "Eastern Europea"
     },
     {
         "provider_no": 23,
@@ -181,7 +181,7 @@
         "issue_dt": "1999-10-13 10:41:18",
         "expr_dt": "2000-10-12 10:41:18",
         "charge_amt_sum": 0.0,
-        "region_name": "China"
+        "region": "China"
     },
     {
         "provider_no": 24,
@@ -189,7 +189,7 @@
         "issue_dt": "1999-10-13 10:41:18",
         "expr_dt": "2000-10-12 10:41:18",
         "charge_amt_sum": 31568.0,
-        "region_name": "Africa"
+        "region": "Africa"
     },
     {
         "provider_no": 25,
@@ -197,7 +197,7 @@
         "issue_dt": "1999-10-13 10:41:18",
         "expr_dt": "2000-10-12 10:41:18",
         "charge_amt_sum": 0.0,
-        "region_name": "Western Europea"
+        "region": "Western Europea"
     },
     {
         "provider_no": 26,
@@ -205,7 +205,7 @@
         "issue_dt": "1999-10-13 10:41:18",
         "expr_dt": "2000-10-12 10:41:18",
         "charge_amt_sum": 18832.0,
-        "region_name": "Africa"
+        "region": "Africa"
     },
     {
         "provider_no": 27,
@@ -213,7 +213,7 @@
         "issue_dt": "1999-10-13 10:41:18",
         "expr_dt": "2000-10-12 10:41:18",
         "charge_amt_sum": 0.0,
-        "region_name": "Mid East \/ Sout"
+        "region": "Mid East \/ Sout"
     },
     {
         "provider_no": 28,
@@ -221,7 +221,7 @@
         "issue_dt": "1999-10-13 10:41:18",
         "expr_dt": "2000-10-12 10:41:18",
         "charge_amt_sum": 129168.0,
-        "region_name": "Africa"
+        "region": "Africa"
     },
     {
         "provider_no": 29,
@@ -229,7 +229,7 @@
         "issue_dt": "1999-10-13 10:41:18",
         "expr_dt": "2000-10-12 10:41:18",
         "charge_amt_sum": 0.0,
-        "region_name": "China"
+        "region": "China"
     },
     {
         "provider_no": 30,
@@ -237,7 +237,7 @@
         "issue_dt": "1999-10-13 10:41:18",
         "expr_dt": "2000-10-12 10:41:18",
         "charge_amt_sum": 0.0,
-        "region_name": "Africa"
+        "region": "Africa"
     },
     {
         "provider_no": 31,
@@ -245,7 +245,7 @@
         "issue_dt": "1999-10-13 10:41:18",
         "expr_dt": "2000-10-12 10:41:18",
         "charge_amt_sum": 0.0,
-        "region_name": "Japan"
+        "region": "Japan"
     },
     {
         "provider_no": 32,
@@ -253,7 +253,7 @@
         "issue_dt": "1999-10-13 10:41:18",
         "expr_dt": "2000-10-12 10:41:18",
         "charge_amt_sum": 0.0,
-        "region_name": "Africa"
+        "region": "Africa"
     },
     {
         "provider_no": 33,
@@ -261,7 +261,7 @@
         "issue_dt": "1999-10-13 10:41:18",
         "expr_dt": "2000-10-12 10:41:18",
         "charge_amt_sum": 124080.0,
-        "region_name": "Africa"
+        "region": "Africa"
     },
     {
         "provider_no": 34,
@@ -269,7 +269,7 @@
         "issue_dt": "1999-10-13 10:41:18",
         "expr_dt": "2000-10-12 10:41:18",
         "charge_amt_sum": 33344.0,
-        "region_name": "Mid East \/ Sout"
+        "region": "Mid East \/ Sout"
     },
     {
         "provider_no": 35,
@@ -277,7 +277,7 @@
         "issue_dt": "1999-10-13 10:41:18",
         "expr_dt": "2000-10-12 10:41:18",
         "charge_amt_sum": 0.0,
-        "region_name": "Africa"
+        "region": "Africa"
     },
     {
         "provider_no": 36,
@@ -285,7 +285,7 @@
         "issue_dt": "1999-10-13 10:41:18",
         "expr_dt": "2000-10-12 10:41:18",
         "charge_amt_sum": 4304.0,
-        "region_name": "Africa"
+        "region": "Africa"
     },
     {
         "provider_no": 37,
@@ -293,7 +293,7 @@
         "issue_dt": "1999-10-13 10:41:18",
         "expr_dt": "2000-10-12 10:41:18",
         "charge_amt_sum": 0.0,
-        "region_name": "China"
+        "region": "China"
     },
     {
         "provider_no": 38,
@@ -301,7 +301,7 @@
         "issue_dt": "1999-10-13 10:41:18",
         "expr_dt": "2000-10-12 10:41:18",
         "charge_amt_sum": 12672.0,
-        "region_name": "Mid East \/ Sout"
+        "region": "Mid East \/ Sout"
     },
     {
         "provider_no": 39,
@@ -309,7 +309,7 @@
         "issue_dt": "1999-10-13 10:41:18",
         "expr_dt": "2000-10-12 10:41:18",
         "charge_amt_sum": 75600.0,
-        "region_name": "Africa"
+        "region": "Africa"
     },
     {
         "provider_no": 40,
@@ -317,7 +317,7 @@
         "issue_dt": "1999-10-13 10:41:18",
         "expr_dt": "2000-10-12 10:41:18",
         "charge_amt_sum": 0.0,
-        "region_name": "China"
+        "region": "China"
     },
     {
         "provider_no": 41,
@@ -325,7 +325,7 @@
         "issue_dt": "1999-10-13 10:41:18",
         "expr_dt": "2000-10-12 10:41:18",
         "charge_amt_sum": 39888.0,
-        "region_name": "China"
+        "region": "China"
     },
     {
         "provider_no": 42,
@@ -333,7 +333,7 @@
         "issue_dt": "1999-10-13 10:41:18",
         "expr_dt": "2000-10-12 10:41:18",
         "charge_amt_sum": 83456.0,
-        "region_name": "China"
+        "region": "China"
     },
     {
         "provider_no": 43,
@@ -341,7 +341,7 @@
         "issue_dt": "1999-10-13 10:41:18",
         "expr_dt": "2000-10-12 10:41:18",
         "charge_amt_sum": 0.0,
-        "region_name": "Mid East \/ Sout"
+        "region": "Mid East \/ Sout"
     },
     {
         "provider_no": 44,
@@ -349,7 +349,7 @@
         "issue_dt": "1999-10-13 10:41:18",
         "expr_dt": "2000-10-12 10:41:18",
         "charge_amt_sum": 0.0,
-        "region_name": "Western Europea"
+        "region": "Western Europea"
     },
     {
         "provider_no": 45,
@@ -357,7 +357,7 @@
         "issue_dt": "1999-10-13 10:41:18",
         "expr_dt": "2000-10-12 10:41:18",
         "charge_amt_sum": 2576.0,
-        "region_name": "Africa"
+        "region": "Africa"
     },
     {
         "provider_no": 46,
@@ -365,7 +365,7 @@
         "issue_dt": "1999-10-13 10:41:18",
         "expr_dt": "2000-10-12 10:41:18",
         "charge_amt_sum": 73360.0,
-        "region_name": "China"
+        "region": "China"
     },
     {
         "provider_no": 47,
@@ -373,7 +373,7 @@
         "issue_dt": "1999-10-13 10:41:18",
         "expr_dt": "2000-10-12 10:41:18",
         "charge_amt_sum": 0.0,
-        "region_name": "China"
+        "region": "China"
     },
     {
         "provider_no": 48,
@@ -381,7 +381,7 @@
         "issue_dt": "1999-10-13 10:41:18",
         "expr_dt": "2000-10-12 10:41:18",
         "charge_amt_sum": 60864.0,
-        "region_name": "China"
+        "region": "China"
     },
     {
         "provider_no": 49,
@@ -389,7 +389,7 @@
         "issue_dt": "1999-10-13 10:41:19",
         "expr_dt": "2000-10-12 10:41:19",
         "charge_amt_sum": 54192.0,
-        "region_name": "Africa"
+        "region": "Africa"
     },
     {
         "provider_no": 50,
@@ -397,7 +397,7 @@
         "issue_dt": "1999-10-13 10:41:19",
         "expr_dt": "2000-10-12 10:41:19",
         "charge_amt_sum": 11872.0,
-        "region_name": "Mid East \/ Sout"
+        "region": "Mid East \/ Sout"
     },
     {
         "provider_no": 51,
@@ -405,7 +405,7 @@
         "issue_dt": "1999-10-13 10:41:19",
         "expr_dt": "2000-10-12 10:41:19",
         "charge_amt_sum": 86224.0,
-        "region_name": "Japan"
+        "region": "Japan"
     },
     {
         "provider_no": 52,
@@ -413,7 +413,7 @@
         "issue_dt": "1999-10-13 10:41:19",
         "expr_dt": "2000-10-12 10:41:19",
         "charge_amt_sum": 0.0,
-        "region_name": "Africa"
+        "region": "Africa"
     },
     {
         "provider_no": 53,
@@ -421,7 +421,7 @@
         "issue_dt": "1999-10-13 10:41:19",
         "expr_dt": "2000-10-12 10:41:19",
         "charge_amt_sum": 0.0,
-        "region_name": "Africa"
+        "region": "Africa"
     },
     {
         "provider_no": 54,
@@ -429,7 +429,7 @@
         "issue_dt": "1999-10-13 10:41:19",
         "expr_dt": "2000-10-12 10:41:19",
         "charge_amt_sum": 0.0,
-        "region_name": "Eastern Europea"
+        "region": "Eastern Europea"
     },
     {
         "provider_no": 55,
@@ -437,7 +437,7 @@
         "issue_dt": "1999-10-13 10:41:19",
         "expr_dt": "2000-10-12 10:41:19",
         "charge_amt_sum": 58800.0,
-        "region_name": "Eastern Europea"
+        "region": "Eastern Europea"
     },
     {
         "provider_no": 56,
@@ -445,7 +445,7 @@
         "issue_dt": "1999-10-13 10:41:19",
         "expr_dt": "2000-10-12 10:41:19",
         "charge_amt_sum": 0.0,
-        "region_name": "Mid East \/ Sout"
+        "region": "Mid East \/ Sout"
     },
     {
         "provider_no": 57,
@@ -453,7 +453,7 @@
         "issue_dt": "1999-10-13 10:41:19",
         "expr_dt": "2000-10-12 10:41:19",
         "charge_amt_sum": 82992.0,
-        "region_name": "China"
+        "region": "China"
     },
     {
         "provider_no": 58,
@@ -461,7 +461,7 @@
         "issue_dt": "1999-10-13 10:41:19",
         "expr_dt": "2000-10-12 10:41:19",
         "charge_amt_sum": 65904.0,
-        "region_name": "Africa"
+        "region": "Africa"
     },
     {
         "provider_no": 59,
@@ -469,7 +469,7 @@
         "issue_dt": "1999-10-13 10:41:19",
         "expr_dt": "2000-10-12 10:41:19",
         "charge_amt_sum": 0.0,
-        "region_name": "Africa"
+        "region": "Africa"
     },
     {
         "provider_no": 60,
@@ -477,7 +477,7 @@
         "issue_dt": "1999-10-13 10:41:19",
         "expr_dt": "2000-10-12 10:41:19",
         "charge_amt_sum": 0.0,
-        "region_name": "Africa"
+        "region": "Africa"
     },
     {
         "provider_no": 61,
@@ -485,7 +485,7 @@
         "issue_dt": "1999-10-13 10:41:19",
         "expr_dt": "2000-10-12 10:41:19",
         "charge_amt_sum": 0.0,
-        "region_name": "Scandanavian"
+        "region": "Scandanavian"
     },
     {
         "provider_no": 62,
@@ -493,7 +493,7 @@
         "issue_dt": "1999-10-13 10:41:19",
         "expr_dt": "2000-10-12 10:41:19",
         "charge_amt_sum": 33280.0,
-        "region_name": "Africa"
+        "region": "Africa"
     },
     {
         "provider_no": 63,
@@ -501,7 +501,7 @@
         "issue_dt": "1999-10-13 10:41:19",
         "expr_dt": "2000-10-12 10:41:19",
         "charge_amt_sum": 31584.0,
-        "region_name": "Japan"
+        "region": "Japan"
     },
     {
         "provider_no": 64,
@@ -509,7 +509,7 @@
         "issue_dt": "1999-10-13 10:41:19",
         "expr_dt": "2000-10-12 10:41:19",
         "charge_amt_sum": 35920.0,
-        "region_name": "Africa"
+        "region": "Africa"
     },
     {
         "provider_no": 65,
@@ -517,7 +517,7 @@
         "issue_dt": "1999-10-13 10:41:19",
         "expr_dt": "2000-10-12 10:41:19",
         "charge_amt_sum": 150048.0,
-        "region_name": "Africa"
+        "region": "Africa"
     },
     {
         "provider_no": 66,
@@ -525,7 +525,7 @@
         "issue_dt": "1999-10-13 10:41:19",
         "expr_dt": "2000-10-12 10:41:19",
         "charge_amt_sum": 0.0,
-        "region_name": "Africa"
+        "region": "Africa"
     },
     {
         "provider_no": 67,
@@ -533,7 +533,7 @@
         "issue_dt": "1999-10-13 10:41:19",
         "expr_dt": "2000-10-12 10:41:19",
         "charge_amt_sum": 145936.0,
-        "region_name": "Mid East \/ Sout"
+        "region": "Mid East \/ Sout"
     },
     {
         "provider_no": 68,
@@ -541,7 +541,7 @@
         "issue_dt": "1999-10-13 10:41:19",
         "expr_dt": "2000-10-12 10:41:19",
         "charge_amt_sum": 0.0,
-        "region_name": "Africa"
+        "region": "Africa"
     },
     {
         "provider_no": 69,
@@ -549,7 +549,7 @@
         "issue_dt": "1999-10-13 10:41:19",
         "expr_dt": "2000-10-12 10:41:19",
         "charge_amt_sum": 73264.0,
-        "region_name": "Africa"
+        "region": "Africa"
     },
     {
         "provider_no": 70,
@@ -557,7 +557,7 @@
         "issue_dt": "1999-10-13 10:41:19",
         "expr_dt": "2000-10-12 10:41:19",
         "charge_amt_sum": 152496.0,
-        "region_name": "Africa"
+        "region": "Africa"
     },
     {
         "provider_no": 71,
@@ -565,7 +565,7 @@
         "issue_dt": "1999-10-13 10:41:19",
         "expr_dt": "2000-10-12 10:41:19",
         "charge_amt_sum": 53360.0,
-        "region_name": "Mid East \/ Sout"
+        "region": "Mid East \/ Sout"
     },
     {
         "provider_no": 72,
@@ -573,7 +573,7 @@
         "issue_dt": "1999-10-13 10:41:19",
         "expr_dt": "2000-10-12 10:41:19",
         "charge_amt_sum": 53232.0,
-        "region_name": "Africa"
+        "region": "Africa"
     },
     {
         "provider_no": 73,
@@ -581,7 +581,7 @@
         "issue_dt": "1999-10-13 10:41:19",
         "expr_dt": "2000-10-12 10:41:19",
         "charge_amt_sum": 75808.0,
-        "region_name": "Africa"
+        "region": "Africa"
     },
     {
         "provider_no": 74,
@@ -589,7 +589,7 @@
         "issue_dt": "1999-10-13 10:41:19",
         "expr_dt": "2000-10-12 10:41:19",
         "charge_amt_sum": 0.0,
-        "region_name": "China"
+        "region": "China"
     },
     {
         "provider_no": 75,
@@ -597,7 +597,7 @@
         "issue_dt": "1999-10-13 10:41:19",
         "expr_dt": "2000-10-12 10:41:19",
         "charge_amt_sum": 217216.0,
-        "region_name": "Africa"
+        "region": "Africa"
     },
     {
         "provider_no": 76,
@@ -605,7 +605,7 @@
         "issue_dt": "1999-10-13 10:41:19",
         "expr_dt": "2000-10-12 10:41:19",
         "charge_amt_sum": 91648.0,
-        "region_name": "Africa"
+        "region": "Africa"
     },
     {
         "provider_no": 77,
@@ -613,7 +613,7 @@
         "issue_dt": "1999-10-13 10:41:19",
         "expr_dt": "2000-10-12 10:41:19",
         "charge_amt_sum": 171520.0,
-        "region_name": "Mid East \/ Sout"
+        "region": "Mid East \/ Sout"
     },
     {
         "provider_no": 78,
@@ -621,7 +621,7 @@
         "issue_dt": "1999-10-13 10:41:19",
         "expr_dt": "2000-10-12 10:41:19",
         "charge_amt_sum": 117600.0,
-        "region_name": "Africa"
+        "region": "Africa"
     },
     {
         "provider_no": 79,
@@ -629,7 +629,7 @@
         "issue_dt": "1999-10-13 10:41:19",
         "expr_dt": "2000-10-12 10:41:19",
         "charge_amt_sum": 102640.0,
-        "region_name": "Mid East \/ Sout"
+        "region": "Mid East \/ Sout"
     },
     {
         "provider_no": 80,
@@ -637,7 +637,7 @@
         "issue_dt": "1999-10-13 10:41:19",
         "expr_dt": "2000-10-12 10:41:19",
         "charge_amt_sum": 103728.0,
-        "region_name": "Africa"
+        "region": "Africa"
     },
     {
         "provider_no": 81,
@@ -645,7 +645,7 @@
         "issue_dt": "1999-10-13 10:41:19",
         "expr_dt": "2000-10-12 10:41:19",
         "charge_amt_sum": 34832.0,
-        "region_name": "Eastern Europea"
+        "region": "Eastern Europea"
     },
     {
         "provider_no": 82,
@@ -653,7 +653,7 @@
         "issue_dt": "1999-10-13 10:41:19",
         "expr_dt": "2000-10-12 10:41:19",
         "charge_amt_sum": 42560.0,
-        "region_name": "Africa"
+        "region": "Africa"
     },
     {
         "provider_no": 83,
@@ -661,7 +661,7 @@
         "issue_dt": "1999-10-13 10:41:19",
         "expr_dt": "2000-10-12 10:41:19",
         "charge_amt_sum": 209648.0,
-        "region_name": "Japan"
+        "region": "Japan"
     },
     {
         "provider_no": 84,
@@ -669,7 +669,7 @@
         "issue_dt": "1999-10-13 10:41:19",
         "expr_dt": "2000-10-12 10:41:19",
         "charge_amt_sum": 100960.0,
-        "region_name": "Japan"
+        "region": "Japan"
     },
     {
         "provider_no": 85,
@@ -677,7 +677,7 @@
         "issue_dt": "1999-10-13 10:41:19",
         "expr_dt": "2000-10-12 10:41:19",
         "charge_amt_sum": 125680.0,
-        "region_name": "China"
+        "region": "China"
     },
     {
         "provider_no": 86,
@@ -685,7 +685,7 @@
         "issue_dt": "1999-10-13 10:41:19",
         "expr_dt": "2000-10-12 10:41:19",
         "charge_amt_sum": 78288.0,
-        "region_name": "Africa"
+        "region": "Africa"
     },
     {
         "provider_no": 87,
@@ -693,7 +693,7 @@
         "issue_dt": "1999-10-13 10:41:19",
         "expr_dt": "2000-10-12 10:41:19",
         "charge_amt_sum": 47392.0,
-        "region_name": "Africa"
+        "region": "Africa"
     },
     {
         "provider_no": 88,
@@ -701,7 +701,7 @@
         "issue_dt": "1999-10-13 10:41:19",
         "expr_dt": "2000-10-12 10:41:19",
         "charge_amt_sum": 195696.0,
-        "region_name": "Africa"
+        "region": "Africa"
     },
     {
         "provider_no": 89,
@@ -709,7 +709,7 @@
         "issue_dt": "1999-10-13 10:41:19",
         "expr_dt": "2000-10-12 10:41:19",
         "charge_amt_sum": 39264.0,
-        "region_name": "Japan"
+        "region": "Japan"
     },
     {
         "provider_no": 90,
@@ -717,7 +717,7 @@
         "issue_dt": "1999-10-13 10:41:19",
         "expr_dt": "2000-10-12 10:41:19",
         "charge_amt_sum": 121696.0,
-        "region_name": "Africa"
+        "region": "Africa"
     },
     {
         "provider_no": 91,
@@ -725,7 +725,7 @@
         "issue_dt": "1999-10-13 10:41:19",
         "expr_dt": "2000-10-12 10:41:19",
         "charge_amt_sum": 115136.0,
-        "region_name": "Africa"
+        "region": "Africa"
     },
     {
         "provider_no": 92,
@@ -733,7 +733,7 @@
         "issue_dt": "1999-10-13 10:41:19",
         "expr_dt": "2000-10-12 10:41:19",
         "charge_amt_sum": 291072.0,
-        "region_name": "Mid East \/ Sout"
+        "region": "Mid East \/ Sout"
     },
     {
         "provider_no": 93,
@@ -741,7 +741,7 @@
         "issue_dt": "1999-10-13 10:41:19",
         "expr_dt": "2000-10-12 10:41:19",
         "charge_amt_sum": 56944.0,
-        "region_name": "Africa"
+        "region": "Africa"
     },
     {
         "provider_no": 94,
@@ -749,7 +749,7 @@
         "issue_dt": "1999-10-13 10:41:19",
         "expr_dt": "2000-10-12 10:41:19",
         "charge_amt_sum": 160800.0,
-        "region_name": "China"
+        "region": "China"
     },
     {
         "provider_no": 95,
@@ -757,7 +757,7 @@
         "issue_dt": "1999-10-13 10:41:19",
         "expr_dt": "2000-10-12 10:41:19",
         "charge_amt_sum": 170608.0,
-        "region_name": "Africa"
+        "region": "Africa"
     },
     {
         "provider_no": 96,
@@ -765,7 +765,7 @@
         "issue_dt": "1999-10-13 10:41:19",
         "expr_dt": "2000-10-12 10:41:19",
         "charge_amt_sum": 355392.0,
-        "region_name": "Western Europea"
+        "region": "Western Europea"
     },
     {
         "provider_no": 97,
@@ -773,7 +773,7 @@
         "issue_dt": "1999-10-13 10:41:19",
         "expr_dt": "2000-10-12 10:41:19",
         "charge_amt_sum": 73712.0,
-        "region_name": "Africa"
+        "region": "Africa"
     },
     {
         "provider_no": 98,
@@ -781,7 +781,7 @@
         "issue_dt": "1999-10-13 10:41:19",
         "expr_dt": "2000-10-12 10:41:19",
         "charge_amt_sum": 117648.0,
-        "region_name": "Mid East \/ Sout"
+        "region": "Mid East \/ Sout"
     },
     {
         "provider_no": 99,
@@ -789,7 +789,7 @@
         "issue_dt": "1999-10-13 10:41:19",
         "expr_dt": "2000-10-12 10:41:19",
         "charge_amt_sum": 256544.0,
-        "region_name": "Japan"
+        "region": "Japan"
     },
     {
         "provider_no": 100,
@@ -797,7 +797,7 @@
         "issue_dt": "1999-10-13 10:41:19",
         "expr_dt": "2000-10-12 10:41:19",
         "charge_amt_sum": 441072.0,
-        "region_name": "China"
+        "region": "China"
     },
     {
         "provider_no": 101,
@@ -805,7 +805,7 @@
         "issue_dt": "1999-10-13 10:41:19",
         "expr_dt": "2000-10-12 10:41:19",
         "charge_amt_sum": 293072.0,
-        "region_name": "China"
+        "region": "China"
     },
     {
         "provider_no": 102,
@@ -813,7 +813,7 @@
         "issue_dt": "1999-10-13 10:41:19",
         "expr_dt": "2000-10-12 10:41:19",
         "charge_amt_sum": 90288.0,
-        "region_name": "Scandanavian"
+        "region": "Scandanavian"
     },
     {
         "provider_no": 103,
@@ -821,7 +821,7 @@
         "issue_dt": "1999-10-13 10:41:19",
         "expr_dt": "2000-10-12 10:41:19",
         "charge_amt_sum": 299296.0,
-        "region_name": "Africa"
+        "region": "Africa"
     },
     {
         "provider_no": 104,
@@ -829,7 +829,7 @@
         "issue_dt": "1999-10-13 10:41:19",
         "expr_dt": "2000-10-12 10:41:19",
         "charge_amt_sum": 157424.0,
-        "region_name": "Africa"
+        "region": "Africa"
     },
     {
         "provider_no": 105,
@@ -837,7 +837,7 @@
         "issue_dt": "1999-10-13 10:41:19",
         "expr_dt": "2000-10-12 10:41:19",
         "charge_amt_sum": 249776.0,
-        "region_name": "Africa"
+        "region": "Africa"
     },
     {
         "provider_no": 106,
@@ -845,7 +845,7 @@
         "issue_dt": "1999-10-13 10:41:19",
         "expr_dt": "2000-10-12 10:41:19",
         "charge_amt_sum": 262704.0,
-        "region_name": "Eastern Europea"
+        "region": "Eastern Europea"
     },
     {
         "provider_no": 107,
@@ -853,7 +853,7 @@
         "issue_dt": "1999-10-13 10:41:19",
         "expr_dt": "2000-10-12 10:41:19",
         "charge_amt_sum": 179888.0,
-        "region_name": "Africa"
+        "region": "Africa"
     },
     {
         "provider_no": 108,
@@ -861,7 +861,7 @@
         "issue_dt": "1999-10-13 10:41:19",
         "expr_dt": "2000-10-12 10:41:19",
         "charge_amt_sum": 111808.0,
-        "region_name": "Africa"
+        "region": "Africa"
     },
     {
         "provider_no": 109,
@@ -869,7 +869,7 @@
         "issue_dt": "1999-10-13 10:41:19",
         "expr_dt": "2000-10-12 10:41:19",
         "charge_amt_sum": 257920.0,
-        "region_name": "Africa"
+        "region": "Africa"
     },
     {
         "provider_no": 110,
@@ -877,7 +877,7 @@
         "issue_dt": "1999-10-13 10:41:19",
         "expr_dt": "2000-10-12 10:41:19",
         "charge_amt_sum": 329680.0,
-        "region_name": "Africa"
+        "region": "Africa"
     },
     {
         "provider_no": 111,
@@ -885,7 +885,7 @@
         "issue_dt": "1999-10-13 10:41:19",
         "expr_dt": "2000-10-12 10:41:19",
         "charge_amt_sum": 379712.0,
-        "region_name": "Mid East \/ Sout"
+        "region": "Mid East \/ Sout"
     },
     {
         "provider_no": 112,
@@ -893,7 +893,7 @@
         "issue_dt": "1999-10-13 10:41:19",
         "expr_dt": "2000-10-12 10:41:19",
         "charge_amt_sum": 368816.0,
-        "region_name": "Africa"
+        "region": "Africa"
     },
     {
         "provider_no": 113,
@@ -901,7 +901,7 @@
         "issue_dt": "1999-10-13 10:41:19",
         "expr_dt": "2000-10-12 10:41:19",
         "charge_amt_sum": 385408.0,
-        "region_name": "Eastern Europea"
+        "region": "Eastern Europea"
     },
     {
         "provider_no": 114,
@@ -909,7 +909,7 @@
         "issue_dt": "1999-10-13 10:41:19",
         "expr_dt": "2000-10-12 10:41:19",
         "charge_amt_sum": 191376.0,
-        "region_name": "Mid East \/ Sout"
+        "region": "Mid East \/ Sout"
     },
     {
         "provider_no": 115,
@@ -917,7 +917,7 @@
         "issue_dt": "1999-10-13 10:41:19",
         "expr_dt": "2000-10-12 10:41:19",
         "charge_amt_sum": 39744.0,
-        "region_name": "Africa"
+        "region": "Africa"
     },
     {
         "provider_no": 116,
@@ -925,7 +925,7 @@
         "issue_dt": "1999-10-13 10:41:19",
         "expr_dt": "2000-10-12 10:41:19",
         "charge_amt_sum": 215184.0,
-        "region_name": "China"
+        "region": "China"
     },
     {
         "provider_no": 117,
@@ -933,7 +933,7 @@
         "issue_dt": "1999-10-13 10:41:19",
         "expr_dt": "2000-10-12 10:41:19",
         "charge_amt_sum": 176576.0,
-        "region_name": "Mid East \/ Sout"
+        "region": "Mid East \/ Sout"
     },
     {
         "provider_no": 118,
@@ -941,7 +941,7 @@
         "issue_dt": "1999-10-13 10:41:19",
         "expr_dt": "2000-10-12 10:41:19",
         "charge_amt_sum": 198400.0,
-        "region_name": "Mid East \/ Sout"
+        "region": "Mid East \/ Sout"
     },
     {
         "provider_no": 119,
@@ -949,7 +949,7 @@
         "issue_dt": "1999-10-13 10:41:19",
         "expr_dt": "2000-10-12 10:41:19",
         "charge_amt_sum": 278016.0,
-        "region_name": "China"
+        "region": "China"
     },
     {
         "provider_no": 120,
@@ -957,7 +957,7 @@
         "issue_dt": "1999-10-13 10:41:19",
         "expr_dt": "2000-10-12 10:41:19",
         "charge_amt_sum": 99536.0,
-        "region_name": "Eastern Europea"
+        "region": "Eastern Europea"
     },
     {
         "provider_no": 121,
@@ -965,7 +965,7 @@
         "issue_dt": "1999-10-13 10:41:19",
         "expr_dt": "2000-10-12 10:41:19",
         "charge_amt_sum": 290432.0,
-        "region_name": "Mid East \/ Sout"
+        "region": "Mid East \/ Sout"
     },
     {
         "provider_no": 122,
@@ -973,7 +973,7 @@
         "issue_dt": "1999-10-13 10:41:19",
         "expr_dt": "2000-10-12 10:41:19",
         "charge_amt_sum": 295520.0,
-        "region_name": "China"
+        "region": "China"
     },
     {
         "provider_no": 123,
@@ -981,7 +981,7 @@
         "issue_dt": "1999-10-13 10:41:19",
         "expr_dt": "2000-10-12 10:41:19",
         "charge_amt_sum": 219472.0,
-        "region_name": "Africa"
+        "region": "Africa"
     },
     {
         "provider_no": 124,
@@ -989,7 +989,7 @@
         "issue_dt": "1999-10-13 10:41:19",
         "expr_dt": "2000-10-12 10:41:19",
         "charge_amt_sum": 222368.0,
-        "region_name": "Africa"
+        "region": "Africa"
     },
     {
         "provider_no": 125,
@@ -997,7 +997,7 @@
         "issue_dt": "1999-10-13 10:41:19",
         "expr_dt": "2000-10-12 10:41:19",
         "charge_amt_sum": 436000.0,
-        "region_name": "Africa"
+        "region": "Africa"
     },
     {
         "provider_no": 126,
@@ -1005,7 +1005,7 @@
         "issue_dt": "1999-10-13 10:41:19",
         "expr_dt": "2000-10-12 10:41:19",
         "charge_amt_sum": 428304.0,
-        "region_name": "China"
+        "region": "China"
     },
     {
         "provider_no": 127,
@@ -1013,7 +1013,7 @@
         "issue_dt": "1999-10-13 10:41:19",
         "expr_dt": "2000-10-12 10:41:19",
         "charge_amt_sum": 361488.0,
-        "region_name": "Africa"
+        "region": "Africa"
     },
     {
         "provider_no": 128,
@@ -1021,7 +1021,7 @@
         "issue_dt": "1999-10-13 10:41:19",
         "expr_dt": "2000-10-12 10:41:19",
         "charge_amt_sum": 329600.0,
-        "region_name": "Africa"
+        "region": "Africa"
     },
     {
         "provider_no": 129,
@@ -1029,7 +1029,7 @@
         "issue_dt": "1999-10-13 10:41:19",
         "expr_dt": "2000-10-12 10:41:19",
         "charge_amt_sum": 97696.0,
-        "region_name": "Africa"
+        "region": "Africa"
     },
     {
         "provider_no": 130,
@@ -1037,7 +1037,7 @@
         "issue_dt": "1999-10-13 10:41:19",
         "expr_dt": "2000-10-12 10:41:19",
         "charge_amt_sum": 140688.0,
-        "region_name": "Africa"
+        "region": "Africa"
     },
     {
         "provider_no": 131,
@@ -1045,7 +1045,7 @@
         "issue_dt": "1999-10-13 10:41:19",
         "expr_dt": "2000-10-12 10:41:19",
         "charge_amt_sum": 344896.0,
-        "region_name": "Africa"
+        "region": "Africa"
     },
     {
         "provider_no": 132,
@@ -1053,7 +1053,7 @@
         "issue_dt": "1999-10-13 10:41:20",
         "expr_dt": "2000-10-12 10:41:20",
         "charge_amt_sum": 373088.0,
-        "region_name": "Mid East \/ Sout"
+        "region": "Mid East \/ Sout"
     },
     {
         "provider_no": 133,
@@ -1061,7 +1061,7 @@
         "issue_dt": "1999-10-13 10:41:20",
         "expr_dt": "2000-10-12 10:41:20",
         "charge_amt_sum": 582752.0,
-        "region_name": "Africa"
+        "region": "Africa"
     },
     {
         "provider_no": 134,
@@ -1069,7 +1069,7 @@
         "issue_dt": "1999-10-13 10:41:20",
         "expr_dt": "2000-10-12 10:41:20",
         "charge_amt_sum": 432176.0,
-        "region_name": "Africa"
+        "region": "Africa"
     },
     {
         "provider_no": 135,
@@ -1077,7 +1077,7 @@
         "issue_dt": "1999-10-13 10:41:20",
         "expr_dt": "2000-10-12 10:41:20",
         "charge_amt_sum": 304352.0,
-        "region_name": "Africa"
+        "region": "Africa"
     },
     {
         "provider_no": 136,
@@ -1085,7 +1085,7 @@
         "issue_dt": "1999-10-13 10:41:20",
         "expr_dt": "2000-10-12 10:41:20",
         "charge_amt_sum": 430640.0,
-        "region_name": "Mid East \/ Sout"
+        "region": "Mid East \/ Sout"
     },
     {
         "provider_no": 137,
@@ -1093,7 +1093,7 @@
         "issue_dt": "1999-10-13 10:41:20",
         "expr_dt": "2000-10-12 10:41:20",
         "charge_amt_sum": 390064.0,
-        "region_name": "Mid East \/ Sout"
+        "region": "Mid East \/ Sout"
     },
     {
         "provider_no": 138,
@@ -1101,7 +1101,7 @@
         "issue_dt": "1999-10-13 10:41:20",
         "expr_dt": "2000-10-12 10:41:20",
         "charge_amt_sum": 209472.0,
-        "region_name": "Japan"
+        "region": "Japan"
     },
     {
         "provider_no": 139,
@@ -1109,7 +1109,7 @@
         "issue_dt": "1999-10-13 10:41:20",
         "expr_dt": "2000-10-12 10:41:20",
         "charge_amt_sum": 528032.0,
-        "region_name": "Africa"
+        "region": "Africa"
     },
     {
         "provider_no": 140,
@@ -1117,7 +1117,7 @@
         "issue_dt": "1999-10-13 10:41:20",
         "expr_dt": "2000-10-12 10:41:20",
         "charge_amt_sum": 411440.0,
-        "region_name": "Eastern Europea"
+        "region": "Eastern Europea"
     },
     {
         "provider_no": 141,
@@ -1125,7 +1125,7 @@
         "issue_dt": "1999-10-13 10:41:20",
         "expr_dt": "2000-10-12 10:41:20",
         "charge_amt_sum": 171648.0,
-        "region_name": "Africa"
+        "region": "Africa"
     },
     {
         "provider_no": 142,
@@ -1133,7 +1133,7 @@
         "issue_dt": "1999-10-13 10:41:20",
         "expr_dt": "2000-10-12 10:41:20",
         "charge_amt_sum": 454240.0,
-        "region_name": "China"
+        "region": "China"
     },
     {
         "provider_no": 143,
@@ -1141,7 +1141,7 @@
         "issue_dt": "1999-10-13 10:41:20",
         "expr_dt": "2000-10-12 10:41:20",
         "charge_amt_sum": 283440.0,
-        "region_name": "Africa"
+        "region": "Africa"
     },
     {
         "provider_no": 144,
@@ -1149,7 +1149,7 @@
         "issue_dt": "1999-10-13 10:41:20",
         "expr_dt": "2000-10-12 10:41:20",
         "charge_amt_sum": 460288.0,
-        "region_name": "Africa"
+        "region": "Africa"
     },
     {
         "provider_no": 145,
@@ -1157,7 +1157,7 @@
         "issue_dt": "1999-10-13 10:41:20",
         "expr_dt": "2000-10-12 10:41:20",
         "charge_amt_sum": 817872.0,
-        "region_name": "Eastern Europea"
+        "region": "Eastern Europea"
     },
     {
         "provider_no": 146,
@@ -1165,7 +1165,7 @@
         "issue_dt": "1999-10-13 10:41:20",
         "expr_dt": "2000-10-12 10:41:20",
         "charge_amt_sum": 410400.0,
-        "region_name": "China"
+        "region": "China"
     },
     {
         "provider_no": 147,
@@ -1173,7 +1173,7 @@
         "issue_dt": "1999-10-13 10:41:20",
         "expr_dt": "2000-10-12 10:41:20",
         "charge_amt_sum": 962320.0,
-        "region_name": "Africa"
+        "region": "Africa"
     },
     {
         "provider_no": 148,
@@ -1181,7 +1181,7 @@
         "issue_dt": "1999-10-13 10:41:20",
         "expr_dt": "2000-10-12 10:41:20",
         "charge_amt_sum": 434640.0,
-        "region_name": "Japan"
+        "region": "Japan"
     },
     {
         "provider_no": 149,
@@ -1189,7 +1189,7 @@
         "issue_dt": "1999-10-13 10:41:20",
         "expr_dt": "2000-10-12 10:41:20",
         "charge_amt_sum": 394720.0,
-        "region_name": "Africa"
+        "region": "Africa"
     },
     {
         "provider_no": 150,
@@ -1197,7 +1197,7 @@
         "issue_dt": "1999-10-13 10:41:20",
         "expr_dt": "2000-10-12 10:41:20",
         "charge_amt_sum": 370320.0,
-        "region_name": "China"
+        "region": "China"
     },
     {
         "provider_no": 151,
@@ -1205,7 +1205,7 @@
         "issue_dt": "1999-10-13 10:41:20",
         "expr_dt": "2000-10-12 10:41:20",
         "charge_amt_sum": 535696.0,
-        "region_name": "Africa"
+        "region": "Africa"
     },
     {
         "provider_no": 152,
@@ -1213,7 +1213,7 @@
         "issue_dt": "1999-10-13 10:41:20",
         "expr_dt": "2000-10-12 10:41:20",
         "charge_amt_sum": 434416.0,
-        "region_name": "Japan"
+        "region": "Japan"
     },
     {
         "provider_no": 153,
@@ -1221,7 +1221,7 @@
         "issue_dt": "1999-10-13 10:41:20",
         "expr_dt": "2000-10-12 10:41:20",
         "charge_amt_sum": 478240.0,
-        "region_name": "Eastern Europea"
+        "region": "Eastern Europea"
     },
     {
         "provider_no": 154,
@@ -1229,7 +1229,7 @@
         "issue_dt": "1999-10-13 10:41:20",
         "expr_dt": "2000-10-12 10:41:20",
         "charge_amt_sum": 855040.0,
-        "region_name": "Africa"
+        "region": "Africa"
     },
     {
         "provider_no": 155,
@@ -1237,7 +1237,7 @@
         "issue_dt": "1999-10-13 10:41:20",
         "expr_dt": "2000-10-12 10:41:20",
         "charge_amt_sum": 515984.0,
-        "region_name": "China"
+        "region": "China"
     },
     {
         "provider_no": 156,
@@ -1245,7 +1245,7 @@
         "issue_dt": "1999-10-13 10:41:20",
         "expr_dt": "2000-10-12 10:41:20",
         "charge_amt_sum": 666224.0,
-        "region_name": "Mid East \/ Sout"
+        "region": "Mid East \/ Sout"
     },
     {
         "provider_no": 157,
@@ -1253,7 +1253,7 @@
         "issue_dt": "1999-10-13 10:41:20",
         "expr_dt": "2000-10-12 10:41:20",
         "charge_amt_sum": 572544.0,
-        "region_name": "Japan"
+        "region": "Japan"
     },
     {
         "provider_no": 158,
@@ -1261,7 +1261,7 @@
         "issue_dt": "1999-10-13 10:41:20",
         "expr_dt": "2000-10-12 10:41:20",
         "charge_amt_sum": 717552.0,
-        "region_name": "Africa"
+        "region": "Africa"
     },
     {
         "provider_no": 159,
@@ -1269,7 +1269,7 @@
         "issue_dt": "1999-10-13 10:41:20",
         "expr_dt": "2000-10-12 10:41:20",
         "charge_amt_sum": 459376.0,
-        "region_name": "Africa"
+        "region": "Africa"
     },
     {
         "provider_no": 160,
@@ -1277,7 +1277,7 @@
         "issue_dt": "1999-10-13 10:41:20",
         "expr_dt": "2000-10-12 10:41:20",
         "charge_amt_sum": 786432.0,
-        "region_name": "Africa"
+        "region": "Africa"
     },
     {
         "provider_no": 161,
@@ -1285,7 +1285,7 @@
         "issue_dt": "1999-10-13 10:41:20",
         "expr_dt": "2000-10-12 10:41:20",
         "charge_amt_sum": 628176.0,
-        "region_name": "Japan"
+        "region": "Japan"
     },
     {
         "provider_no": 162,
@@ -1293,7 +1293,7 @@
         "issue_dt": "1999-10-13 10:41:20",
         "expr_dt": "2000-10-12 10:41:20",
         "charge_amt_sum": 639872.0,
-        "region_name": "Mid East \/ Sout"
+        "region": "Mid East \/ Sout"
     },
     {
         "provider_no": 163,
@@ -1301,7 +1301,7 @@
         "issue_dt": "1999-10-13 10:41:20",
         "expr_dt": "2000-10-12 10:41:20",
         "charge_amt_sum": 235568.0,
-        "region_name": "Western Europea"
+        "region": "Western Europea"
     },
     {
         "provider_no": 164,
@@ -1309,7 +1309,7 @@
         "issue_dt": "1999-10-13 10:41:20",
         "expr_dt": "2000-10-12 10:41:20",
         "charge_amt_sum": 422384.0,
-        "region_name": "Africa"
+        "region": "Africa"
     },
     {
         "provider_no": 165,
@@ -1317,7 +1317,7 @@
         "issue_dt": "1999-10-13 10:41:20",
         "expr_dt": "2000-10-12 10:41:20",
         "charge_amt_sum": 458288.0,
-        "region_name": "Africa"
+        "region": "Africa"
     },
     {
         "provider_no": 166,
@@ -1325,7 +1325,7 @@
         "issue_dt": "1999-10-13 10:41:20",
         "expr_dt": "2000-10-12 10:41:20",
         "charge_amt_sum": 586096.0,
-        "region_name": "Mid East \/ Sout"
+        "region": "Mid East \/ Sout"
     },
     {
         "provider_no": 167,
@@ -1333,7 +1333,7 @@
         "issue_dt": "1999-10-13 10:41:20",
         "expr_dt": "2000-10-12 10:41:20",
         "charge_amt_sum": 861792.0,
-        "region_name": "Africa"
+        "region": "Africa"
     },
     {
         "provider_no": 168,
@@ -1341,7 +1341,7 @@
         "issue_dt": "1999-10-13 10:41:20",
         "expr_dt": "2000-10-12 10:41:20",
         "charge_amt_sum": 732416.0,
-        "region_name": "Eastern Europea"
+        "region": "Eastern Europea"
     },
     {
         "provider_no": 169,
@@ -1349,7 +1349,7 @@
         "issue_dt": "1999-10-13 10:41:20",
         "expr_dt": "2000-10-12 10:41:20",
         "charge_amt_sum": 1061216.0,
-        "region_name": "China"
+        "region": "China"
     },
     {
         "provider_no": 170,
@@ -1357,7 +1357,7 @@
         "issue_dt": "1999-10-13 10:41:20",
         "expr_dt": "2000-10-12 10:41:20",
         "charge_amt_sum": 816960.0,
-        "region_name": "Africa"
+        "region": "Africa"
     },
     {
         "provider_no": 171,
@@ -1365,7 +1365,7 @@
         "issue_dt": "1999-10-13 10:41:20",
         "expr_dt": "2000-10-12 10:41:20",
         "charge_amt_sum": 1015376.0,
-        "region_name": "Africa"
+        "region": "Africa"
     },
     {
         "provider_no": 172,
@@ -1373,7 +1373,7 @@
         "issue_dt": "1999-10-13 10:41:20",
         "expr_dt": "2000-10-12 10:41:20",
         "charge_amt_sum": 777664.0,
-        "region_name": "Africa"
+        "region": "Africa"
     },
     {
         "provider_no": 173,
@@ -1381,7 +1381,7 @@
         "issue_dt": "1999-10-13 10:41:20",
         "expr_dt": "2000-10-12 10:41:20",
         "charge_amt_sum": 595264.0,
-        "region_name": "Mid East \/ Sout"
+        "region": "Mid East \/ Sout"
     },
     {
         "provider_no": 174,
@@ -1389,7 +1389,7 @@
         "issue_dt": "1999-10-13 10:41:20",
         "expr_dt": "2000-10-12 10:41:20",
         "charge_amt_sum": 552816.0,
-        "region_name": "Africa"
+        "region": "Africa"
     },
     {
         "provider_no": 175,
@@ -1397,7 +1397,7 @@
         "issue_dt": "1999-10-13 10:41:20",
         "expr_dt": "2000-10-12 10:41:20",
         "charge_amt_sum": 680992.0,
-        "region_name": "Mid East \/ Sout"
+        "region": "Mid East \/ Sout"
     },
     {
         "provider_no": 176,
@@ -1405,7 +1405,7 @@
         "issue_dt": "1999-10-13 10:41:20",
         "expr_dt": "2000-10-12 10:41:20",
         "charge_amt_sum": 1074192.0,
-        "region_name": "Mid East \/ Sout"
+        "region": "Mid East \/ Sout"
     },
     {
         "provider_no": 177,
@@ -1413,7 +1413,7 @@
         "issue_dt": "1999-10-13 10:41:20",
         "expr_dt": "2000-10-12 10:41:20",
         "charge_amt_sum": 673520.0,
-        "region_name": "China"
+        "region": "China"
     },
     {
         "provider_no": 178,
@@ -1421,7 +1421,7 @@
         "issue_dt": "1999-10-13 10:41:20",
         "expr_dt": "2000-10-12 10:41:20",
         "charge_amt_sum": 1155040.0,
-        "region_name": "Africa"
+        "region": "Africa"
     },
     {
         "provider_no": 179,
@@ -1429,7 +1429,7 @@
         "issue_dt": "1999-10-13 10:41:20",
         "expr_dt": "2000-10-12 10:41:20",
         "charge_amt_sum": 589840.0,
-        "region_name": "China"
+        "region": "China"
     },
     {
         "provider_no": 180,
@@ -1437,7 +1437,7 @@
         "issue_dt": "1999-10-13 10:41:20",
         "expr_dt": "2000-10-12 10:41:20",
         "charge_amt_sum": 475056.0,
-        "region_name": "Mid East \/ Sout"
+        "region": "Mid East \/ Sout"
     },
     {
         "provider_no": 181,
@@ -1445,7 +1445,7 @@
         "issue_dt": "1999-10-13 10:41:20",
         "expr_dt": "2000-10-12 10:41:20",
         "charge_amt_sum": 749056.0,
-        "region_name": "Mid East \/ Sout"
+        "region": "Mid East \/ Sout"
     },
     {
         "provider_no": 182,
@@ -1453,7 +1453,7 @@
         "issue_dt": "1999-10-13 10:41:20",
         "expr_dt": "2000-10-12 10:41:20",
         "charge_amt_sum": 967840.0,
-        "region_name": "Mid East \/ Sout"
+        "region": "Mid East \/ Sout"
     },
     {
         "provider_no": 183,
@@ -1461,7 +1461,7 @@
         "issue_dt": "1999-10-13 10:41:20",
         "expr_dt": "2000-10-12 10:41:20",
         "charge_amt_sum": 715696.0,
-        "region_name": "Mid East \/ Sout"
+        "region": "Mid East \/ Sout"
     },
     {
         "provider_no": 184,
@@ -1469,7 +1469,7 @@
         "issue_dt": "1999-10-13 10:41:20",
         "expr_dt": "2000-10-12 10:41:20",
         "charge_amt_sum": 700864.0,
-        "region_name": "Mid East \/ Sout"
+        "region": "Mid East \/ Sout"
     },
     {
         "provider_no": 185,
@@ -1477,7 +1477,7 @@
         "issue_dt": "1999-10-13 10:41:20",
         "expr_dt": "2000-10-12 10:41:20",
         "charge_amt_sum": 1316640.0,
-        "region_name": "Mid East \/ Sout"
+        "region": "Mid East \/ Sout"
     },
     {
         "provider_no": 186,
@@ -1485,7 +1485,7 @@
         "issue_dt": "1999-10-13 10:41:20",
         "expr_dt": "2000-10-12 10:41:20",
         "charge_amt_sum": 767216.0,
-        "region_name": "Africa"
+        "region": "Africa"
     },
     {
         "provider_no": 187,
@@ -1493,7 +1493,7 @@
         "issue_dt": "1999-10-13 10:41:20",
         "expr_dt": "2000-10-12 10:41:20",
         "charge_amt_sum": 442160.0,
-        "region_name": "Western Europea"
+        "region": "Western Europea"
     },
     {
         "provider_no": 188,
@@ -1501,7 +1501,7 @@
         "issue_dt": "1999-10-13 10:41:20",
         "expr_dt": "2000-10-12 10:41:20",
         "charge_amt_sum": 407536.0,
-        "region_name": "China"
+        "region": "China"
     },
     {
         "provider_no": 189,
@@ -1509,7 +1509,7 @@
         "issue_dt": "1999-10-13 10:41:20",
         "expr_dt": "2000-10-12 10:41:20",
         "charge_amt_sum": 939920.0,
-        "region_name": "Mid East \/ Sout"
+        "region": "Mid East \/ Sout"
     },
     {
         "provider_no": 190,
@@ -1517,7 +1517,7 @@
         "issue_dt": "1999-10-13 10:41:20",
         "expr_dt": "2000-10-12 10:41:20",
         "charge_amt_sum": 774304.0,
-        "region_name": "Eastern Europea"
+        "region": "Eastern Europea"
     },
     {
         "provider_no": 191,
@@ -1525,7 +1525,7 @@
         "issue_dt": "1999-10-13 10:41:20",
         "expr_dt": "2000-10-12 10:41:20",
         "charge_amt_sum": 797552.0,
-        "region_name": "China"
+        "region": "China"
     },
     {
         "provider_no": 192,
@@ -1533,7 +1533,7 @@
         "issue_dt": "1999-10-13 10:41:20",
         "expr_dt": "2000-10-12 10:41:20",
         "charge_amt_sum": 1017568.0,
-        "region_name": "Mid East \/ Sout"
+        "region": "Mid East \/ Sout"
     },
     {
         "provider_no": 193,
@@ -1541,7 +1541,7 @@
         "issue_dt": "1999-10-13 10:41:20",
         "expr_dt": "2000-10-12 10:41:20",
         "charge_amt_sum": 821808.0,
-        "region_name": "Mid East \/ Sout"
+        "region": "Mid East \/ Sout"
     },
     {
         "provider_no": 194,
@@ -1549,7 +1549,7 @@
         "issue_dt": "1999-10-13 10:41:20",
         "expr_dt": "2000-10-12 10:41:20",
         "charge_amt_sum": 844720.0,
-        "region_name": "China"
+        "region": "China"
     },
     {
         "provider_no": 195,
@@ -1557,7 +1557,7 @@
         "issue_dt": "1999-10-13 10:41:20",
         "expr_dt": "2000-10-12 10:41:20",
         "charge_amt_sum": 673552.0,
-        "region_name": "Eastern Europea"
+        "region": "Eastern Europea"
     },
     {
         "provider_no": 196,
@@ -1565,7 +1565,7 @@
         "issue_dt": "1999-10-13 10:41:20",
         "expr_dt": "2000-10-12 10:41:20",
         "charge_amt_sum": 899056.0,
-        "region_name": "Mid East \/ Sout"
+        "region": "Mid East \/ Sout"
     },
     {
         "provider_no": 197,
@@ -1573,7 +1573,7 @@
         "issue_dt": "1999-10-13 10:41:20",
         "expr_dt": "2000-10-12 10:41:20",
         "charge_amt_sum": 689456.0,
-        "region_name": "Africa"
+        "region": "Africa"
     },
     {
         "provider_no": 198,
@@ -1581,7 +1581,7 @@
         "issue_dt": "1999-10-13 10:41:20",
         "expr_dt": "2000-10-12 10:41:20",
         "charge_amt_sum": 918560.0,
-        "region_name": "Japan"
+        "region": "Japan"
     },
     {
         "provider_no": 199,
@@ -1589,7 +1589,7 @@
         "issue_dt": "1999-10-13 10:41:20",
         "expr_dt": "2000-10-12 10:41:20",
         "charge_amt_sum": 1084752.0,
-        "region_name": "Africa"
+        "region": "Africa"
     },
     {
         "provider_no": 200,
@@ -1597,7 +1597,7 @@
         "issue_dt": "1999-10-13 10:41:20",
         "expr_dt": "2000-10-12 10:41:20",
         "charge_amt_sum": 929760.0,
-        "region_name": "Africa"
+        "region": "Africa"
     },
     {
         "provider_no": 201,
@@ -1605,7 +1605,7 @@
         "issue_dt": "1999-10-13 10:41:20",
         "expr_dt": "2000-10-12 10:41:20",
         "charge_amt_sum": 1174032.0,
-        "region_name": "Africa"
+        "region": "Africa"
     },
     {
         "provider_no": 202,
@@ -1613,7 +1613,7 @@
         "issue_dt": "1999-10-13 10:41:20",
         "expr_dt": "2000-10-12 10:41:20",
         "charge_amt_sum": 911424.0,
-        "region_name": "Mid East \/ Sout"
+        "region": "Mid East \/ Sout"
     },
     {
         "provider_no": 203,
@@ -1621,7 +1621,7 @@
         "issue_dt": "1999-10-13 10:41:20",
         "expr_dt": "2000-10-12 10:41:20",
         "charge_amt_sum": 1019856.0,
-        "region_name": "Mid East \/ Sout"
+        "region": "Mid East \/ Sout"
     },
     {
         "provider_no": 204,
@@ -1629,7 +1629,7 @@
         "issue_dt": "1999-10-13 10:41:20",
         "expr_dt": "2000-10-12 10:41:20",
         "charge_amt_sum": 1482288.0,
-        "region_name": "Africa"
+        "region": "Africa"
     },
     {
         "provider_no": 205,
@@ -1637,7 +1637,7 @@
         "issue_dt": "1999-10-13 10:41:20",
         "expr_dt": "2000-10-12 10:41:20",
         "charge_amt_sum": 1276000.0,
-        "region_name": "Africa"
+        "region": "Africa"
     },
     {
         "provider_no": 206,
@@ -1645,7 +1645,7 @@
         "issue_dt": "1999-10-13 10:41:20",
         "expr_dt": "2000-10-12 10:41:20",
         "charge_amt_sum": 1345776.0,
-        "region_name": "Africa"
+        "region": "Africa"
     },
     {
         "provider_no": 207,
@@ -1653,7 +1653,7 @@
         "issue_dt": "1999-10-13 10:41:20",
         "expr_dt": "2000-10-12 10:41:20",
         "charge_amt_sum": 953440.0,
-        "region_name": "Eastern Europea"
+        "region": "Eastern Europea"
     },
     {
         "provider_no": 208,
@@ -1661,7 +1661,7 @@
         "issue_dt": "1999-10-13 10:41:20",
         "expr_dt": "2000-10-12 10:41:20",
         "charge_amt_sum": 723008.0,
-        "region_name": "Africa"
+        "region": "Africa"
     },
     {
         "provider_no": 209,
@@ -1669,7 +1669,7 @@
         "issue_dt": "1999-10-13 10:41:20",
         "expr_dt": "2000-10-12 10:41:20",
         "charge_amt_sum": 877040.0,
-        "region_name": "Africa"
+        "region": "Africa"
     },
     {
         "provider_no": 210,
@@ -1677,7 +1677,7 @@
         "issue_dt": "1999-10-13 10:41:20",
         "expr_dt": "2000-10-12 10:41:20",
         "charge_amt_sum": 941072.0,
-        "region_name": "Mid East \/ Sout"
+        "region": "Mid East \/ Sout"
     },
     {
         "provider_no": 211,
@@ -1685,7 +1685,7 @@
         "issue_dt": "1999-10-13 10:41:20",
         "expr_dt": "2000-10-12 10:41:20",
         "charge_amt_sum": 1418544.0,
-        "region_name": "Africa"
+        "region": "Africa"
     },
     {
         "provider_no": 212,
@@ -1693,7 +1693,7 @@
         "issue_dt": "1999-10-13 10:41:20",
         "expr_dt": "2000-10-12 10:41:20",
         "charge_amt_sum": 1091552.0,
-        "region_name": "Africa"
+        "region": "Africa"
     },
     {
         "provider_no": 213,
@@ -1701,7 +1701,7 @@
         "issue_dt": "1999-10-13 10:41:20",
         "expr_dt": "2000-10-12 10:41:20",
         "charge_amt_sum": 1629232.0,
-        "region_name": "Scandanavian"
+        "region": "Scandanavian"
     },
     {
         "provider_no": 214,
@@ -1709,7 +1709,7 @@
         "issue_dt": "1999-10-13 10:41:20",
         "expr_dt": "2000-10-12 10:41:20",
         "charge_amt_sum": 1079296.0,
-        "region_name": "Africa"
+        "region": "Africa"
     },
     {
         "provider_no": 215,
@@ -1717,7 +1717,7 @@
         "issue_dt": "1999-10-13 10:41:20",
         "expr_dt": "2000-10-12 10:41:20",
         "charge_amt_sum": 1183872.0,
-        "region_name": "China"
+        "region": "China"
     },
     {
         "provider_no": 216,
@@ -1725,7 +1725,7 @@
         "issue_dt": "1999-10-13 10:41:20",
         "expr_dt": "2000-10-12 10:41:20",
         "charge_amt_sum": 1278960.0,
-        "region_name": "Africa"
+        "region": "Africa"
     },
     {
         "provider_no": 217,
@@ -1733,7 +1733,7 @@
         "issue_dt": "1999-10-13 10:41:20",
         "expr_dt": "2000-10-12 10:41:20",
         "charge_amt_sum": 1466656.0,
-        "region_name": "Africa"
+        "region": "Africa"
     },
     {
         "provider_no": 218,
@@ -1741,7 +1741,7 @@
         "issue_dt": "1999-10-13 10:41:20",
         "expr_dt": "2000-10-12 10:41:20",
         "charge_amt_sum": 963072.0,
-        "region_name": "China"
+        "region": "China"
     },
     {
         "provider_no": 219,
@@ -1749,7 +1749,7 @@
         "issue_dt": "1999-10-13 10:41:20",
         "expr_dt": "2000-10-12 10:41:20",
         "charge_amt_sum": 892912.0,
-        "region_name": "Africa"
+        "region": "Africa"
     },
     {
         "provider_no": 220,
@@ -1757,7 +1757,7 @@
         "issue_dt": "1999-10-13 10:41:20",
         "expr_dt": "2000-10-12 10:41:20",
         "charge_amt_sum": 1694336.0,
-        "region_name": "Africa"
+        "region": "Africa"
     },
     {
         "provider_no": 221,
@@ -1765,7 +1765,7 @@
         "issue_dt": "1999-10-13 10:41:21",
         "expr_dt": "2000-10-12 10:41:21",
         "charge_amt_sum": 1308848.0,
-        "region_name": "Mid East \/ Sout"
+        "region": "Mid East \/ Sout"
     },
     {
         "provider_no": 222,
@@ -1773,7 +1773,7 @@
         "issue_dt": "1999-10-13 10:41:21",
         "expr_dt": "2000-10-12 10:41:21",
         "charge_amt_sum": 1415872.0,
-        "region_name": "Japan"
+        "region": "Japan"
     },
     {
         "provider_no": 223,
@@ -1781,7 +1781,7 @@
         "issue_dt": "1999-10-13 10:41:21",
         "expr_dt": "2000-10-12 10:41:21",
         "charge_amt_sum": 1057200.0,
-        "region_name": "Africa"
+        "region": "Africa"
     },
     {
         "provider_no": 224,
@@ -1789,7 +1789,7 @@
         "issue_dt": "1999-10-13 10:41:21",
         "expr_dt": "2000-10-12 10:41:21",
         "charge_amt_sum": 1261632.0,
-        "region_name": "Africa"
+        "region": "Africa"
     },
     {
         "provider_no": 225,
@@ -1797,7 +1797,7 @@
         "issue_dt": "1999-10-13 10:41:21",
         "expr_dt": "2000-10-12 10:41:21",
         "charge_amt_sum": 1553664.0,
-        "region_name": "Western Europea"
+        "region": "Western Europea"
     },
     {
         "provider_no": 226,
@@ -1805,7 +1805,7 @@
         "issue_dt": "1999-10-13 10:41:21",
         "expr_dt": "2000-10-12 10:41:21",
         "charge_amt_sum": 1763360.0,
-        "region_name": "Africa"
+        "region": "Africa"
     },
     {
         "provider_no": 227,
@@ -1813,7 +1813,7 @@
         "issue_dt": "1999-10-13 10:41:21",
         "expr_dt": "2000-10-12 10:41:21",
         "charge_amt_sum": 957280.0,
-        "region_name": "Africa"
+        "region": "Africa"
     },
     {
         "provider_no": 228,
@@ -1821,7 +1821,7 @@
         "issue_dt": "1999-10-13 10:41:21",
         "expr_dt": "2000-10-12 10:41:21",
         "charge_amt_sum": 2049744.0,
-        "region_name": "China"
+        "region": "China"
     },
     {
         "provider_no": 229,
@@ -1829,7 +1829,7 @@
         "issue_dt": "1999-10-13 10:41:21",
         "expr_dt": "2000-10-12 10:41:21",
         "charge_amt_sum": 2211296.0,
-        "region_name": "Japan"
+        "region": "Japan"
     },
     {
         "provider_no": 230,
@@ -1837,7 +1837,7 @@
         "issue_dt": "1999-10-13 10:41:21",
         "expr_dt": "2000-10-12 10:41:21",
         "charge_amt_sum": 1696912.0,
-        "region_name": "Scandanavian"
+        "region": "Scandanavian"
     },
     {
         "provider_no": 231,
@@ -1845,7 +1845,7 @@
         "issue_dt": "1999-10-13 10:41:21",
         "expr_dt": "2000-10-12 10:41:21",
         "charge_amt_sum": 1911936.0,
-        "region_name": "Mid East \/ Sout"
+        "region": "Mid East \/ Sout"
     },
     {
         "provider_no": 232,
@@ -1853,7 +1853,7 @@
         "issue_dt": "1999-10-13 10:41:21",
         "expr_dt": "2000-10-12 10:41:21",
         "charge_amt_sum": 1775600.0,
-        "region_name": "Mid East \/ Sout"
+        "region": "Mid East \/ Sout"
     },
     {
         "provider_no": 233,
@@ -1861,7 +1861,7 @@
         "issue_dt": "1999-10-13 10:41:21",
         "expr_dt": "2000-10-12 10:41:21",
         "charge_amt_sum": 1219680.0,
-        "region_name": "Africa"
+        "region": "Africa"
     },
     {
         "provider_no": 234,
@@ -1869,7 +1869,7 @@
         "issue_dt": "1999-10-13 10:41:21",
         "expr_dt": "2000-10-12 10:41:21",
         "charge_amt_sum": 1267696.0,
-        "region_name": "Africa"
+        "region": "Africa"
     },
     {
         "provider_no": 235,
@@ -1877,7 +1877,7 @@
         "issue_dt": "1999-10-13 10:41:21",
         "expr_dt": "2000-10-12 10:41:21",
         "charge_amt_sum": 1408912.0,
-        "region_name": "Mid East \/ Sout"
+        "region": "Mid East \/ Sout"
     },
     {
         "provider_no": 236,
@@ -1885,7 +1885,7 @@
         "issue_dt": "1999-10-13 10:41:21",
         "expr_dt": "2000-10-12 10:41:21",
         "charge_amt_sum": 1863808.0,
-        "region_name": "China"
+        "region": "China"
     },
     {
         "provider_no": 237,
@@ -1893,7 +1893,7 @@
         "issue_dt": "1999-10-13 10:41:21",
         "expr_dt": "2000-10-12 10:41:21",
         "charge_amt_sum": 1609936.0,
-        "region_name": "China"
+        "region": "China"
     },
     {
         "provider_no": 238,
@@ -1901,7 +1901,7 @@
         "issue_dt": "1999-10-13 10:41:21",
         "expr_dt": "2000-10-12 10:41:21",
         "charge_amt_sum": 1865472.0,
-        "region_name": "Eastern Europea"
+        "region": "Eastern Europea"
     },
     {
         "provider_no": 239,
@@ -1909,7 +1909,7 @@
         "issue_dt": "1999-10-13 10:41:21",
         "expr_dt": "2000-10-12 10:41:21",
         "charge_amt_sum": 1882192.0,
-        "region_name": "Africa"
+        "region": "Africa"
     },
     {
         "provider_no": 240,
@@ -1917,7 +1917,7 @@
         "issue_dt": "1999-10-13 10:41:21",
         "expr_dt": "2000-10-12 10:41:21",
         "charge_amt_sum": 1744528.0,
-        "region_name": "Africa"
+        "region": "Africa"
     },
     {
         "provider_no": 241,
@@ -1925,7 +1925,7 @@
         "issue_dt": "1999-10-13 10:41:21",
         "expr_dt": "2000-10-12 10:41:21",
         "charge_amt_sum": 2053696.0,
-        "region_name": "China"
+        "region": "China"
     },
     {
         "provider_no": 242,
@@ -1933,7 +1933,7 @@
         "issue_dt": "1999-10-13 10:41:21",
         "expr_dt": "2000-10-12 10:41:21",
         "charge_amt_sum": 1994256.0,
-        "region_name": "Eastern Europea"
+        "region": "Eastern Europea"
     },
     {
         "provider_no": 243,
@@ -1941,7 +1941,7 @@
         "issue_dt": "1999-10-13 10:41:21",
         "expr_dt": "2000-10-12 10:41:21",
         "charge_amt_sum": 1551200.0,
-        "region_name": "China"
+        "region": "China"
     },
     {
         "provider_no": 244,
@@ -1949,7 +1949,7 @@
         "issue_dt": "1999-10-13 10:41:21",
         "expr_dt": "2000-10-12 10:41:21",
         "charge_amt_sum": 2004784.0,
-        "region_name": "Western Europea"
+        "region": "Western Europea"
     },
     {
         "provider_no": 245,
@@ -1957,7 +1957,7 @@
         "issue_dt": "1999-10-13 10:41:21",
         "expr_dt": "2000-10-12 10:41:21",
         "charge_amt_sum": 1601456.0,
-        "region_name": "Africa"
+        "region": "Africa"
     },
     {
         "provider_no": 246,
@@ -1965,7 +1965,7 @@
         "issue_dt": "1999-10-13 10:41:21",
         "expr_dt": "2000-10-12 10:41:21",
         "charge_amt_sum": 1383920.0,
-        "region_name": "Africa"
+        "region": "Africa"
     },
     {
         "provider_no": 247,
@@ -1973,7 +1973,7 @@
         "issue_dt": "1999-10-13 10:41:21",
         "expr_dt": "2000-10-12 10:41:21",
         "charge_amt_sum": 2198544.0,
-        "region_name": "China"
+        "region": "China"
     },
     {
         "provider_no": 248,
@@ -1981,7 +1981,7 @@
         "issue_dt": "1999-10-13 10:41:21",
         "expr_dt": "2000-10-12 10:41:21",
         "charge_amt_sum": 2079040.0,
-        "region_name": "Mid East \/ Sout"
+        "region": "Mid East \/ Sout"
     },
     {
         "provider_no": 249,
@@ -1989,7 +1989,7 @@
         "issue_dt": "1999-10-13 10:41:21",
         "expr_dt": "2000-10-12 10:41:21",
         "charge_amt_sum": 1900912.0,
-        "region_name": "Africa"
+        "region": "Africa"
     },
     {
         "provider_no": 250,
@@ -1997,7 +1997,7 @@
         "issue_dt": "1999-10-13 10:41:21",
         "expr_dt": "2000-10-12 10:41:21",
         "charge_amt_sum": 1542592.0,
-        "region_name": "Africa"
+        "region": "Africa"
     },
     {
         "provider_no": 251,
@@ -2005,7 +2005,7 @@
         "issue_dt": "1999-10-13 10:41:21",
         "expr_dt": "2000-10-12 10:41:21",
         "charge_amt_sum": 1513968.0,
-        "region_name": "Africa"
+        "region": "Africa"
     },
     {
         "provider_no": 252,
@@ -2013,7 +2013,7 @@
         "issue_dt": "1999-10-13 10:41:21",
         "expr_dt": "2000-10-12 10:41:21",
         "charge_amt_sum": 2448176.0,
-        "region_name": "Africa"
+        "region": "Africa"
     },
     {
         "provider_no": 253,
@@ -2021,7 +2021,7 @@
         "issue_dt": "1999-10-13 10:41:21",
         "expr_dt": "2000-10-12 10:41:21",
         "charge_amt_sum": 1712576.0,
-        "region_name": "China"
+        "region": "China"
     },
     {
         "provider_no": 254,
@@ -2029,7 +2029,7 @@
         "issue_dt": "1999-10-13 10:41:21",
         "expr_dt": "2000-10-12 10:41:21",
         "charge_amt_sum": 2178512.0,
-        "region_name": "Africa"
+        "region": "Africa"
     },
     {
         "provider_no": 255,
@@ -2037,7 +2037,7 @@
         "issue_dt": "1999-10-13 10:41:21",
         "expr_dt": "2000-10-12 10:41:21",
         "charge_amt_sum": 2651520.0,
-        "region_name": "Africa"
+        "region": "Africa"
     },
     {
         "provider_no": 256,
@@ -2045,7 +2045,7 @@
         "issue_dt": "1999-10-13 10:41:21",
         "expr_dt": "2000-10-12 10:41:21",
         "charge_amt_sum": 2031024.0,
-        "region_name": "Africa"
+        "region": "Africa"
     },
     {
         "provider_no": 257,
@@ -2053,7 +2053,7 @@
         "issue_dt": "1999-10-13 10:41:21",
         "expr_dt": "2000-10-12 10:41:21",
         "charge_amt_sum": 2084688.0,
-        "region_name": "Africa"
+        "region": "Africa"
     },
     {
         "provider_no": 258,
@@ -2061,7 +2061,7 @@
         "issue_dt": "1999-10-13 10:41:21",
         "expr_dt": "2000-10-12 10:41:21",
         "charge_amt_sum": 2624144.0,
-        "region_name": "Mid East \/ Sout"
+        "region": "Mid East \/ Sout"
     },
     {
         "provider_no": 259,
@@ -2069,7 +2069,7 @@
         "issue_dt": "1999-10-13 10:41:21",
         "expr_dt": "2000-10-12 10:41:21",
         "charge_amt_sum": 2004432.0,
-        "region_name": "Africa"
+        "region": "Africa"
     },
     {
         "provider_no": 260,
@@ -2077,7 +2077,7 @@
         "issue_dt": "1999-10-13 10:41:21",
         "expr_dt": "2000-10-12 10:41:21",
         "charge_amt_sum": 2252864.0,
-        "region_name": "Mid East \/ Sout"
+        "region": "Mid East \/ Sout"
     },
     {
         "provider_no": 261,
@@ -2085,7 +2085,7 @@
         "issue_dt": "1999-10-13 10:41:21",
         "expr_dt": "2000-10-12 10:41:21",
         "charge_amt_sum": 1718416.0,
-        "region_name": "Japan"
+        "region": "Japan"
     },
     {
         "provider_no": 262,
@@ -2093,7 +2093,7 @@
         "issue_dt": "1999-10-13 10:41:21",
         "expr_dt": "2000-10-12 10:41:21",
         "charge_amt_sum": 2287632.0,
-        "region_name": "Africa"
+        "region": "Africa"
     },
     {
         "provider_no": 263,
@@ -2101,7 +2101,7 @@
         "issue_dt": "1999-10-13 10:41:21",
         "expr_dt": "2000-10-12 10:41:21",
         "charge_amt_sum": 1673632.0,
-        "region_name": "Africa"
+        "region": "Africa"
     },
     {
         "provider_no": 264,
@@ -2109,7 +2109,7 @@
         "issue_dt": "1999-10-13 10:41:21",
         "expr_dt": "2000-10-12 10:41:21",
         "charge_amt_sum": 2655888.0,
-        "region_name": "Scandanavian"
+        "region": "Scandanavian"
     },
     {
         "provider_no": 265,
@@ -2117,7 +2117,7 @@
         "issue_dt": "1999-10-13 10:41:21",
         "expr_dt": "2000-10-12 10:41:21",
         "charge_amt_sum": 2165552.0,
-        "region_name": "China"
+        "region": "China"
     },
     {
         "provider_no": 266,
@@ -2125,7 +2125,7 @@
         "issue_dt": "1999-10-13 10:41:21",
         "expr_dt": "2000-10-12 10:41:21",
         "charge_amt_sum": 2496448.0,
-        "region_name": "Africa"
+        "region": "Africa"
     },
     {
         "provider_no": 267,
@@ -2133,7 +2133,7 @@
         "issue_dt": "1999-10-13 10:41:21",
         "expr_dt": "2000-10-12 10:41:21",
         "charge_amt_sum": 1850784.0,
-        "region_name": "Africa"
+        "region": "Africa"
     },
     {
         "provider_no": 268,
@@ -2141,7 +2141,7 @@
         "issue_dt": "1999-10-13 10:41:21",
         "expr_dt": "2000-10-12 10:41:21",
         "charge_amt_sum": 2661680.0,
-        "region_name": "China"
+        "region": "China"
     },
     {
         "provider_no": 269,
@@ -2149,7 +2149,7 @@
         "issue_dt": "1999-10-13 10:41:21",
         "expr_dt": "2000-10-12 10:41:21",
         "charge_amt_sum": 2967824.0,
-        "region_name": "Mid East \/ Sout"
+        "region": "Mid East \/ Sout"
     },
     {
         "provider_no": 270,
@@ -2157,7 +2157,7 @@
         "issue_dt": "1999-10-13 10:41:21",
         "expr_dt": "2000-10-12 10:41:21",
         "charge_amt_sum": 2428832.0,
-        "region_name": "Africa"
+        "region": "Africa"
     },
     {
         "provider_no": 271,
@@ -2165,7 +2165,7 @@
         "issue_dt": "1999-10-13 10:41:21",
         "expr_dt": "2000-10-12 10:41:21",
         "charge_amt_sum": 2390688.0,
-        "region_name": "Africa"
+        "region": "Africa"
     },
     {
         "provider_no": 272,
@@ -2173,7 +2173,7 @@
         "issue_dt": "1999-10-13 10:41:21",
         "expr_dt": "2000-10-12 10:41:21",
         "charge_amt_sum": 2307648.0,
-        "region_name": "Africa"
+        "region": "Africa"
     },
     {
         "provider_no": 273,
@@ -2181,7 +2181,7 @@
         "issue_dt": "1999-10-13 10:41:21",
         "expr_dt": "2000-10-12 10:41:21",
         "charge_amt_sum": 1975376.0,
-        "region_name": "China"
+        "region": "China"
     },
     {
         "provider_no": 274,
@@ -2189,7 +2189,7 @@
         "issue_dt": "1999-10-13 10:41:21",
         "expr_dt": "2000-10-12 10:41:21",
         "charge_amt_sum": 2519440.0,
-        "region_name": "Mid East \/ Sout"
+        "region": "Mid East \/ Sout"
     },
     {
         "provider_no": 275,
@@ -2197,7 +2197,7 @@
         "issue_dt": "1999-10-13 10:41:21",
         "expr_dt": "2000-10-12 10:41:21",
         "charge_amt_sum": 1892528.0,
-        "region_name": "Africa"
+        "region": "Africa"
     },
     {
         "provider_no": 276,
@@ -2205,7 +2205,7 @@
         "issue_dt": "1999-10-13 10:41:21",
         "expr_dt": "2000-10-12 10:41:21",
         "charge_amt_sum": 2758816.0,
-        "region_name": "Eastern Europea"
+        "region": "Eastern Europea"
     },
     {
         "provider_no": 277,
@@ -2213,7 +2213,7 @@
         "issue_dt": "1999-10-13 10:41:21",
         "expr_dt": "2000-10-12 10:41:21",
         "charge_amt_sum": 2351808.0,
-        "region_name": "Mid East \/ Sout"
+        "region": "Mid East \/ Sout"
     },
     {
         "provider_no": 278,
@@ -2221,7 +2221,7 @@
         "issue_dt": "1999-10-13 10:41:21",
         "expr_dt": "2000-10-12 10:41:21",
         "charge_amt_sum": 3149648.0,
-        "region_name": "Japan"
+        "region": "Japan"
     },
     {
         "provider_no": 279,
@@ -2229,7 +2229,7 @@
         "issue_dt": "1999-10-13 10:41:21",
         "expr_dt": "2000-10-12 10:41:21",
         "charge_amt_sum": 2422512.0,
-        "region_name": "Africa"
+        "region": "Africa"
     },
     {
         "provider_no": 280,
@@ -2237,7 +2237,7 @@
         "issue_dt": "1999-10-13 10:41:21",
         "expr_dt": "2000-10-12 10:41:21",
         "charge_amt_sum": 2798064.0,
-        "region_name": "Africa"
+        "region": "Africa"
     },
     {
         "provider_no": 281,
@@ -2245,7 +2245,7 @@
         "issue_dt": "1999-10-13 10:41:21",
         "expr_dt": "2000-10-12 10:41:21",
         "charge_amt_sum": 3155680.0,
-        "region_name": "Africa"
+        "region": "Africa"
     },
     {
         "provider_no": 282,
@@ -2253,7 +2253,7 @@
         "issue_dt": "1999-10-13 10:41:21",
         "expr_dt": "2000-10-12 10:41:21",
         "charge_amt_sum": 2249312.0,
-        "region_name": "Africa"
+        "region": "Africa"
     },
     {
         "provider_no": 283,
@@ -2261,7 +2261,7 @@
         "issue_dt": "1999-10-13 10:41:21",
         "expr_dt": "2000-10-12 10:41:21",
         "charge_amt_sum": 2571392.0,
-        "region_name": "Eastern Europea"
+        "region": "Eastern Europea"
     },
     {
         "provider_no": 284,
@@ -2269,7 +2269,7 @@
         "issue_dt": "1999-10-13 10:41:21",
         "expr_dt": "2000-10-12 10:41:21",
         "charge_amt_sum": 3769328.0,
-        "region_name": "Africa"
+        "region": "Africa"
     },
     {
         "provider_no": 285,
@@ -2277,7 +2277,7 @@
         "issue_dt": "1999-10-13 10:41:21",
         "expr_dt": "2000-10-12 10:41:21",
         "charge_amt_sum": 2951808.0,
-        "region_name": "Africa"
+        "region": "Africa"
     },
     {
         "provider_no": 286,
@@ -2285,7 +2285,7 @@
         "issue_dt": "1999-10-13 10:41:21",
         "expr_dt": "2000-10-12 10:41:21",
         "charge_amt_sum": 2181584.0,
-        "region_name": "Japan"
+        "region": "Japan"
     },
     {
         "provider_no": 287,
@@ -2293,7 +2293,7 @@
         "issue_dt": "1999-10-13 10:41:21",
         "expr_dt": "2000-10-12 10:41:21",
         "charge_amt_sum": 2605168.0,
-        "region_name": "Mid East \/ Sout"
+        "region": "Mid East \/ Sout"
     },
     {
         "provider_no": 288,
@@ -2301,7 +2301,7 @@
         "issue_dt": "1999-10-13 10:41:21",
         "expr_dt": "2000-10-12 10:41:21",
         "charge_amt_sum": 2731024.0,
-        "region_name": "Africa"
+        "region": "Africa"
     },
     {
         "provider_no": 289,
@@ -2309,7 +2309,7 @@
         "issue_dt": "1999-10-13 10:41:21",
         "expr_dt": "2000-10-12 10:41:21",
         "charge_amt_sum": 3127312.0,
-        "region_name": "Africa"
+        "region": "Africa"
     },
     {
         "provider_no": 290,
@@ -2317,7 +2317,7 @@
         "issue_dt": "1999-10-13 10:41:21",
         "expr_dt": "2000-10-12 10:41:21",
         "charge_amt_sum": 3354208.0,
-        "region_name": "Africa"
+        "region": "Africa"
     },
     {
         "provider_no": 291,
@@ -2325,7 +2325,7 @@
         "issue_dt": "1999-10-13 10:41:21",
         "expr_dt": "2000-10-12 10:41:21",
         "charge_amt_sum": 3037008.0,
-        "region_name": "Africa"
+        "region": "Africa"
     },
     {
         "provider_no": 292,
@@ -2333,7 +2333,7 @@
         "issue_dt": "1999-10-13 10:41:21",
         "expr_dt": "2000-10-12 10:41:21",
         "charge_amt_sum": 2437120.0,
-        "region_name": "Japan"
+        "region": "Japan"
     },
     {
         "provider_no": 293,
@@ -2341,7 +2341,7 @@
         "issue_dt": "1999-10-13 10:41:21",
         "expr_dt": "2000-10-12 10:41:21",
         "charge_amt_sum": 3090448.0,
-        "region_name": "Africa"
+        "region": "Africa"
     },
     {
         "provider_no": 294,
@@ -2349,7 +2349,7 @@
         "issue_dt": "1999-10-13 10:41:21",
         "expr_dt": "2000-10-12 10:41:21",
         "charge_amt_sum": 3073424.0,
-        "region_name": "Japan"
+        "region": "Japan"
     },
     {
         "provider_no": 295,
@@ -2357,7 +2357,7 @@
         "issue_dt": "1999-10-13 10:41:21",
         "expr_dt": "2000-10-12 10:41:21",
         "charge_amt_sum": 3501984.0,
-        "region_name": "Africa"
+        "region": "Africa"
     },
     {
         "provider_no": 296,
@@ -2365,7 +2365,7 @@
         "issue_dt": "1999-10-13 10:41:21",
         "expr_dt": "2000-10-12 10:41:21",
         "charge_amt_sum": 3821424.0,
-        "region_name": "Africa"
+        "region": "Africa"
     },
     {
         "provider_no": 297,
@@ -2373,7 +2373,7 @@
         "issue_dt": "1999-10-13 10:41:21",
         "expr_dt": "2000-10-12 10:41:21",
         "charge_amt_sum": 3350144.0,
-        "region_name": "China"
+        "region": "China"
     },
     {
         "provider_no": 298,
@@ -2381,7 +2381,7 @@
         "issue_dt": "1999-10-13 10:41:21",
         "expr_dt": "2000-10-12 10:41:21",
         "charge_amt_sum": 3694016.0,
-        "region_name": "Africa"
+        "region": "Africa"
     },
     {
         "provider_no": 299,
@@ -2389,7 +2389,7 @@
         "issue_dt": "1999-10-13 10:41:21",
         "expr_dt": "2000-10-12 10:41:21",
         "charge_amt_sum": 2745440.0,
-        "region_name": "Africa"
+        "region": "Africa"
     },
     {
         "provider_no": 300,
@@ -2397,7 +2397,7 @@
         "issue_dt": "1999-10-13 10:41:21",
         "expr_dt": "2000-10-12 10:41:21",
         "charge_amt_sum": 2880128.0,
-        "region_name": "Africa"
+        "region": "Africa"
     },
     {
         "provider_no": 301,
@@ -2405,7 +2405,7 @@
         "issue_dt": "1999-10-13 10:41:21",
         "expr_dt": "2000-10-12 10:41:21",
         "charge_amt_sum": 3475312.0,
-        "region_name": "Africa"
+        "region": "Africa"
     },
     {
         "provider_no": 302,
@@ -2413,7 +2413,7 @@
         "issue_dt": "1999-10-13 10:41:21",
         "expr_dt": "2000-10-12 10:41:21",
         "charge_amt_sum": 3595744.0,
-        "region_name": "Mid East \/ Sout"
+        "region": "Mid East \/ Sout"
     },
     {
         "provider_no": 303,
@@ -2421,7 +2421,7 @@
         "issue_dt": "1999-10-13 10:41:21",
         "expr_dt": "2000-10-12 10:41:21",
         "charge_amt_sum": 3546080.0,
-        "region_name": "Mid East \/ Sout"
+        "region": "Mid East \/ Sout"
     },
     {
         "provider_no": 304,
@@ -2429,7 +2429,7 @@
         "issue_dt": "1999-10-13 10:41:21",
         "expr_dt": "2000-10-12 10:41:21",
         "charge_amt_sum": 3121552.0,
-        "region_name": "Western Europea"
+        "region": "Western Europea"
     },
     {
         "provider_no": 305,
@@ -2437,7 +2437,7 @@
         "issue_dt": "1999-10-13 10:41:21",
         "expr_dt": "2000-10-12 10:41:21",
         "charge_amt_sum": 4306704.0,
-        "region_name": "Africa"
+        "region": "Africa"
     },
     {
         "provider_no": 306,
@@ -2445,7 +2445,7 @@
         "issue_dt": "1999-10-13 10:41:21",
         "expr_dt": "2000-10-12 10:41:21",
         "charge_amt_sum": 3324384.0,
-        "region_name": "Mid East \/ Sout"
+        "region": "Mid East \/ Sout"
     },
     {
         "provider_no": 307,
@@ -2453,7 +2453,7 @@
         "issue_dt": "1999-10-13 10:41:22",
         "expr_dt": "2000-10-12 10:41:22",
         "charge_amt_sum": 4029776.0,
-        "region_name": "Africa"
+        "region": "Africa"
     },
     {
         "provider_no": 308,
@@ -2461,7 +2461,7 @@
         "issue_dt": "1999-10-13 10:41:22",
         "expr_dt": "2000-10-12 10:41:22",
         "charge_amt_sum": 3172768.0,
-        "region_name": "Africa"
+        "region": "Africa"
     },
     {
         "provider_no": 309,
@@ -2469,7 +2469,7 @@
         "issue_dt": "1999-10-13 10:41:22",
         "expr_dt": "2000-10-12 10:41:22",
         "charge_amt_sum": 4108592.0,
-        "region_name": "Africa"
+        "region": "Africa"
     },
     {
         "provider_no": 310,
@@ -2477,7 +2477,7 @@
         "issue_dt": "1999-10-13 10:41:22",
         "expr_dt": "2000-10-12 10:41:22",
         "charge_amt_sum": 3766912.0,
-        "region_name": "Africa"
+        "region": "Africa"
     },
     {
         "provider_no": 311,
@@ -2485,7 +2485,7 @@
         "issue_dt": "1999-10-13 10:41:22",
         "expr_dt": "2000-10-12 10:41:22",
         "charge_amt_sum": 4208960.0,
-        "region_name": "Eastern Europea"
+        "region": "Eastern Europea"
     },
     {
         "provider_no": 312,
@@ -2493,7 +2493,7 @@
         "issue_dt": "1999-10-13 10:41:22",
         "expr_dt": "2000-10-12 10:41:22",
         "charge_amt_sum": 3824464.0,
-        "region_name": "Africa"
+        "region": "Africa"
     },
     {
         "provider_no": 313,
@@ -2501,7 +2501,7 @@
         "issue_dt": "1999-10-13 10:41:22",
         "expr_dt": "2000-10-12 10:41:22",
         "charge_amt_sum": 3531648.0,
-        "region_name": "Mid East \/ Sout"
+        "region": "Mid East \/ Sout"
     },
     {
         "provider_no": 314,
@@ -2509,7 +2509,7 @@
         "issue_dt": "1999-10-13 10:41:22",
         "expr_dt": "2000-10-12 10:41:22",
         "charge_amt_sum": 4380320.0,
-        "region_name": "Mid East \/ Sout"
+        "region": "Mid East \/ Sout"
     },
     {
         "provider_no": 315,
@@ -2517,7 +2517,7 @@
         "issue_dt": "1999-10-13 10:41:22",
         "expr_dt": "2000-10-12 10:41:22",
         "charge_amt_sum": 3857568.0,
-        "region_name": "Africa"
+        "region": "Africa"
     },
     {
         "provider_no": 316,
@@ -2525,7 +2525,7 @@
         "issue_dt": "1999-10-13 10:41:22",
         "expr_dt": "2000-10-12 10:41:22",
         "charge_amt_sum": 4082160.0,
-        "region_name": "Africa"
+        "region": "Africa"
     },
     {
         "provider_no": 317,
@@ -2533,7 +2533,7 @@
         "issue_dt": "1999-10-13 10:41:22",
         "expr_dt": "2000-10-12 10:41:22",
         "charge_amt_sum": 4755168.0,
-        "region_name": "China"
+        "region": "China"
     },
     {
         "provider_no": 318,
@@ -2541,7 +2541,7 @@
         "issue_dt": "1999-10-13 10:41:22",
         "expr_dt": "2000-10-12 10:41:22",
         "charge_amt_sum": 3943168.0,
-        "region_name": "Africa"
+        "region": "Africa"
     },
     {
         "provider_no": 319,
@@ -2549,7 +2549,7 @@
         "issue_dt": "1999-10-13 10:41:22",
         "expr_dt": "2000-10-12 10:41:22",
         "charge_amt_sum": 4658352.0,
-        "region_name": "Eastern Europea"
+        "region": "Eastern Europea"
     },
     {
         "provider_no": 320,
@@ -2557,7 +2557,7 @@
         "issue_dt": "1999-10-13 10:41:22",
         "expr_dt": "2000-10-12 10:41:22",
         "charge_amt_sum": 4328896.0,
-        "region_name": "Africa"
+        "region": "Africa"
     },
     {
         "provider_no": 321,
@@ -2565,7 +2565,7 @@
         "issue_dt": "1999-10-13 10:41:22",
         "expr_dt": "2000-10-12 10:41:22",
         "charge_amt_sum": 3970064.0,
-        "region_name": "Africa"
+        "region": "Africa"
     },
     {
         "provider_no": 322,
@@ -2573,7 +2573,7 @@
         "issue_dt": "1999-10-13 10:41:22",
         "expr_dt": "2000-10-12 10:41:22",
         "charge_amt_sum": 4258064.0,
-        "region_name": "Scandanavian"
+        "region": "Scandanavian"
     },
     {
         "provider_no": 323,
@@ -2581,7 +2581,7 @@
         "issue_dt": "1999-10-13 10:41:22",
         "expr_dt": "2000-10-12 10:41:22",
         "charge_amt_sum": 4411472.0,
-        "region_name": "Africa"
+        "region": "Africa"
     },
     {
         "provider_no": 324,
@@ -2589,7 +2589,7 @@
         "issue_dt": "1999-10-13 10:41:22",
         "expr_dt": "2000-10-12 10:41:22",
         "charge_amt_sum": 4619632.0,
-        "region_name": "China"
+        "region": "China"
     },
     {
         "provider_no": 325,
@@ -2597,7 +2597,7 @@
         "issue_dt": "1999-10-13 10:41:22",
         "expr_dt": "2000-10-12 10:41:22",
         "charge_amt_sum": 4041184.0,
-        "region_name": "Africa"
+        "region": "Africa"
     },
     {
         "provider_no": 326,
@@ -2605,7 +2605,7 @@
         "issue_dt": "1999-10-13 10:41:22",
         "expr_dt": "2000-10-12 10:41:22",
         "charge_amt_sum": 4806272.0,
-        "region_name": "Eastern Europea"
+        "region": "Eastern Europea"
     },
     {
         "provider_no": 327,
@@ -2613,7 +2613,7 @@
         "issue_dt": "1999-10-13 10:41:22",
         "expr_dt": "2000-10-12 10:41:22",
         "charge_amt_sum": 4483824.0,
-        "region_name": "Africa"
+        "region": "Africa"
     },
     {
         "provider_no": 328,
@@ -2621,7 +2621,7 @@
         "issue_dt": "1999-10-13 10:41:22",
         "expr_dt": "2000-10-12 10:41:22",
         "charge_amt_sum": 4561776.0,
-        "region_name": "Africa"
+        "region": "Africa"
     },
     {
         "provider_no": 329,
@@ -2629,7 +2629,7 @@
         "issue_dt": "1999-10-13 10:41:22",
         "expr_dt": "2000-10-12 10:41:22",
         "charge_amt_sum": 4303840.0,
-        "region_name": "Africa"
+        "region": "Africa"
     },
     {
         "provider_no": 330,
@@ -2637,7 +2637,7 @@
         "issue_dt": "1999-10-13 10:41:22",
         "expr_dt": "2000-10-12 10:41:22",
         "charge_amt_sum": 5178576.0,
-        "region_name": "Mid East \/ Sout"
+        "region": "Mid East \/ Sout"
     },
     {
         "provider_no": 331,
@@ -2645,7 +2645,7 @@
         "issue_dt": "1999-10-13 10:41:22",
         "expr_dt": "2000-10-12 10:41:22",
         "charge_amt_sum": 5227040.0,
-        "region_name": "Japan"
+        "region": "Japan"
     },
     {
         "provider_no": 332,
@@ -2653,7 +2653,7 @@
         "issue_dt": "1999-10-13 10:41:22",
         "expr_dt": "2000-10-12 10:41:22",
         "charge_amt_sum": 4620528.0,
-        "region_name": "Eastern Europea"
+        "region": "Eastern Europea"
     },
     {
         "provider_no": 333,
@@ -2661,7 +2661,7 @@
         "issue_dt": "1999-10-13 10:41:22",
         "expr_dt": "2000-10-12 10:41:22",
         "charge_amt_sum": 4265616.0,
-        "region_name": "Africa"
+        "region": "Africa"
     },
     {
         "provider_no": 334,
@@ -2669,7 +2669,7 @@
         "issue_dt": "1999-10-13 10:41:22",
         "expr_dt": "2000-10-12 10:41:22",
         "charge_amt_sum": 5208400.0,
-        "region_name": "Africa"
+        "region": "Africa"
     },
     {
         "provider_no": 335,
@@ -2677,7 +2677,7 @@
         "issue_dt": "1999-10-13 10:41:22",
         "expr_dt": "2000-10-12 10:41:22",
         "charge_amt_sum": 5912016.0,
-        "region_name": "Africa"
+        "region": "Africa"
     },
     {
         "provider_no": 336,
@@ -2685,7 +2685,7 @@
         "issue_dt": "1999-10-13 10:41:22",
         "expr_dt": "2000-10-12 10:41:22",
         "charge_amt_sum": 5006032.0,
-        "region_name": "Japan"
+        "region": "Japan"
     },
     {
         "provider_no": 337,
@@ -2693,7 +2693,7 @@
         "issue_dt": "1999-10-13 10:41:22",
         "expr_dt": "2000-10-12 10:41:22",
         "charge_amt_sum": 5177024.0,
-        "region_name": "Mid East \/ Sout"
+        "region": "Mid East \/ Sout"
     },
     {
         "provider_no": 338,
@@ -2701,7 +2701,7 @@
         "issue_dt": "1999-10-13 10:41:22",
         "expr_dt": "2000-10-12 10:41:22",
         "charge_amt_sum": 4955360.0,
-        "region_name": "Africa"
+        "region": "Africa"
     },
     {
         "provider_no": 339,
@@ -2709,7 +2709,7 @@
         "issue_dt": "1999-10-13 10:41:22",
         "expr_dt": "2000-10-12 10:41:22",
         "charge_amt_sum": 5172944.0,
-        "region_name": "Mid East \/ Sout"
+        "region": "Mid East \/ Sout"
     },
     {
         "provider_no": 340,
@@ -2717,7 +2717,7 @@
         "issue_dt": "1999-10-13 10:41:22",
         "expr_dt": "2000-10-12 10:41:22",
         "charge_amt_sum": 5748976.0,
-        "region_name": "Eastern Europea"
+        "region": "Eastern Europea"
     },
     {
         "provider_no": 341,
@@ -2725,7 +2725,7 @@
         "issue_dt": "1999-10-13 10:41:22",
         "expr_dt": "2000-10-12 10:41:22",
         "charge_amt_sum": 4818320.0,
-        "region_name": "Africa"
+        "region": "Africa"
     },
     {
         "provider_no": 342,
@@ -2733,7 +2733,7 @@
         "issue_dt": "1999-10-13 10:41:22",
         "expr_dt": "2000-10-12 10:41:22",
         "charge_amt_sum": 5675792.0,
-        "region_name": "Western Europea"
+        "region": "Western Europea"
     },
     {
         "provider_no": 343,
@@ -2741,7 +2741,7 @@
         "issue_dt": "1999-10-13 10:41:22",
         "expr_dt": "2000-10-12 10:41:22",
         "charge_amt_sum": 4735856.0,
-        "region_name": "Africa"
+        "region": "Africa"
     },
     {
         "provider_no": 344,
@@ -2749,7 +2749,7 @@
         "issue_dt": "1999-10-13 10:41:22",
         "expr_dt": "2000-10-12 10:41:22",
         "charge_amt_sum": 5889680.0,
-        "region_name": "Africa"
+        "region": "Africa"
     },
     {
         "provider_no": 345,
@@ -2757,7 +2757,7 @@
         "issue_dt": "1999-10-13 10:41:22",
         "expr_dt": "2000-10-12 10:41:22",
         "charge_amt_sum": 5213024.0,
-        "region_name": "China"
+        "region": "China"
     },
     {
         "provider_no": 346,
@@ -2765,7 +2765,7 @@
         "issue_dt": "1999-10-13 10:41:22",
         "expr_dt": "2000-10-12 10:41:22",
         "charge_amt_sum": 6203040.0,
-        "region_name": "Africa"
+        "region": "Africa"
     },
     {
         "provider_no": 347,
@@ -2773,7 +2773,7 @@
         "issue_dt": "1999-10-13 10:41:22",
         "expr_dt": "2000-10-12 10:41:22",
         "charge_amt_sum": 5503664.0,
-        "region_name": "Mid East \/ Sout"
+        "region": "Mid East \/ Sout"
     },
     {
         "provider_no": 348,
@@ -2781,7 +2781,7 @@
         "issue_dt": "1999-10-13 10:41:22",
         "expr_dt": "2000-10-12 10:41:22",
         "charge_amt_sum": 5616480.0,
-        "region_name": "Mid East \/ Sout"
+        "region": "Mid East \/ Sout"
     },
     {
         "provider_no": 349,
@@ -2789,7 +2789,7 @@
         "issue_dt": "1999-10-13 10:41:22",
         "expr_dt": "2000-10-12 10:41:22",
         "charge_amt_sum": 5920736.0,
-        "region_name": "Mid East \/ Sout"
+        "region": "Mid East \/ Sout"
     },
     {
         "provider_no": 350,
@@ -2797,7 +2797,7 @@
         "issue_dt": "1999-10-13 10:41:22",
         "expr_dt": "2000-10-12 10:41:22",
         "charge_amt_sum": 6475248.0,
-        "region_name": "Japan"
+        "region": "Japan"
     },
     {
         "provider_no": 351,
@@ -2805,7 +2805,7 @@
         "issue_dt": "1999-10-13 10:41:22",
         "expr_dt": "2000-10-12 10:41:22",
         "charge_amt_sum": 4866624.0,
-        "region_name": "China"
+        "region": "China"
     },
     {
         "provider_no": 352,
@@ -2813,7 +2813,7 @@
         "issue_dt": "1999-10-13 10:41:22",
         "expr_dt": "2000-10-12 10:41:22",
         "charge_amt_sum": 5537952.0,
-        "region_name": "Africa"
+        "region": "Africa"
     },
     {
         "provider_no": 353,
@@ -2821,7 +2821,7 @@
         "issue_dt": "1999-10-13 10:41:22",
         "expr_dt": "2000-10-12 10:41:22",
         "charge_amt_sum": 5632480.0,
-        "region_name": "Africa"
+        "region": "Africa"
     },
     {
         "provider_no": 354,
@@ -2829,7 +2829,7 @@
         "issue_dt": "1999-10-13 10:41:22",
         "expr_dt": "2000-10-12 10:41:22",
         "charge_amt_sum": 5834336.0,
-        "region_name": "Japan"
+        "region": "Japan"
     },
     {
         "provider_no": 355,
@@ -2837,7 +2837,7 @@
         "issue_dt": "1999-10-13 10:41:22",
         "expr_dt": "2000-10-12 10:41:22",
         "charge_amt_sum": 6540048.0,
-        "region_name": "Mid East \/ Sout"
+        "region": "Mid East \/ Sout"
     },
     {
         "provider_no": 356,
@@ -2845,7 +2845,7 @@
         "issue_dt": "1999-10-13 10:41:22",
         "expr_dt": "2000-10-12 10:41:22",
         "charge_amt_sum": 6275056.0,
-        "region_name": "Mid East \/ Sout"
+        "region": "Mid East \/ Sout"
     },
     {
         "provider_no": 357,
@@ -2853,7 +2853,7 @@
         "issue_dt": "1999-10-13 10:41:22",
         "expr_dt": "2000-10-12 10:41:22",
         "charge_amt_sum": 5619920.0,
-        "region_name": "China"
+        "region": "China"
     },
     {
         "provider_no": 358,
@@ -2861,7 +2861,7 @@
         "issue_dt": "1999-10-13 10:41:22",
         "expr_dt": "2000-10-12 10:41:22",
         "charge_amt_sum": 6571312.0,
-        "region_name": "Mid East \/ Sout"
+        "region": "Mid East \/ Sout"
     },
     {
         "provider_no": 359,
@@ -2869,7 +2869,7 @@
         "issue_dt": "1999-10-13 10:41:22",
         "expr_dt": "2000-10-12 10:41:22",
         "charge_amt_sum": 6753056.0,
-        "region_name": "China"
+        "region": "China"
     },
     {
         "provider_no": 360,
@@ -2877,7 +2877,7 @@
         "issue_dt": "1999-10-13 10:41:22",
         "expr_dt": "2000-10-12 10:41:22",
         "charge_amt_sum": 6691280.0,
-        "region_name": "China"
+        "region": "China"
     },
     {
         "provider_no": 361,
@@ -2885,7 +2885,7 @@
         "issue_dt": "1999-10-13 10:41:22",
         "expr_dt": "2000-10-12 10:41:22",
         "charge_amt_sum": 6948752.0,
-        "region_name": "Western Europea"
+        "region": "Western Europea"
     },
     {
         "provider_no": 362,
@@ -2893,7 +2893,7 @@
         "issue_dt": "1999-10-13 10:41:22",
         "expr_dt": "2000-10-12 10:41:22",
         "charge_amt_sum": 6556976.0,
-        "region_name": "Japan"
+        "region": "Japan"
     },
     {
         "provider_no": 363,
@@ -2901,7 +2901,7 @@
         "issue_dt": "1999-10-13 10:41:22",
         "expr_dt": "2000-10-12 10:41:22",
         "charge_amt_sum": 7894336.0,
-        "region_name": "Mid East \/ Sout"
+        "region": "Mid East \/ Sout"
     },
     {
         "provider_no": 364,
@@ -2909,7 +2909,7 @@
         "issue_dt": "1999-10-13 10:41:22",
         "expr_dt": "2000-10-12 10:41:22",
         "charge_amt_sum": 6877584.0,
-        "region_name": "Africa"
+        "region": "Africa"
     },
     {
         "provider_no": 365,
@@ -2917,7 +2917,7 @@
         "issue_dt": "1999-10-13 10:41:22",
         "expr_dt": "2000-10-12 10:41:22",
         "charge_amt_sum": 6885712.0,
-        "region_name": "Mid East \/ Sout"
+        "region": "Mid East \/ Sout"
     },
     {
         "provider_no": 366,
@@ -2925,7 +2925,7 @@
         "issue_dt": "1999-10-13 10:41:22",
         "expr_dt": "2000-10-12 10:41:22",
         "charge_amt_sum": 6977088.0,
-        "region_name": "China"
+        "region": "China"
     },
     {
         "provider_no": 367,
@@ -2933,7 +2933,7 @@
         "issue_dt": "1999-10-13 10:41:22",
         "expr_dt": "2000-10-12 10:41:22",
         "charge_amt_sum": 7422640.0,
-        "region_name": "Japan"
+        "region": "Japan"
     },
     {
         "provider_no": 368,
@@ -2941,7 +2941,7 @@
         "issue_dt": "1999-10-13 10:41:22",
         "expr_dt": "2000-10-12 10:41:22",
         "charge_amt_sum": 7179872.0,
-        "region_name": "Africa"
+        "region": "Africa"
     },
     {
         "provider_no": 369,
@@ -2949,7 +2949,7 @@
         "issue_dt": "1999-10-13 10:41:22",
         "expr_dt": "2000-10-12 10:41:22",
         "charge_amt_sum": 8009376.0,
-        "region_name": "Africa"
+        "region": "Africa"
     },
     {
         "provider_no": 370,
@@ -2957,7 +2957,7 @@
         "issue_dt": "1999-10-13 10:41:22",
         "expr_dt": "2000-10-12 10:41:22",
         "charge_amt_sum": 6828528.0,
-        "region_name": "Africa"
+        "region": "Africa"
     },
     {
         "provider_no": 371,
@@ -2965,7 +2965,7 @@
         "issue_dt": "1999-10-13 10:41:22",
         "expr_dt": "2000-10-12 10:41:22",
         "charge_amt_sum": 6247520.0,
-        "region_name": "China"
+        "region": "China"
     },
     {
         "provider_no": 372,
@@ -2973,7 +2973,7 @@
         "issue_dt": "1999-10-13 10:41:22",
         "expr_dt": "2000-10-12 10:41:22",
         "charge_amt_sum": 7390912.0,
-        "region_name": "Africa"
+        "region": "Africa"
     },
     {
         "provider_no": 373,
@@ -2981,7 +2981,7 @@
         "issue_dt": "1999-10-13 10:41:22",
         "expr_dt": "2000-10-12 10:41:22",
         "charge_amt_sum": 8200528.0,
-        "region_name": "Africa"
+        "region": "Africa"
     },
     {
         "provider_no": 374,
@@ -2989,7 +2989,7 @@
         "issue_dt": "1999-10-13 10:41:22",
         "expr_dt": "2000-10-12 10:41:22",
         "charge_amt_sum": 7636976.0,
-        "region_name": "Japan"
+        "region": "Japan"
     },
     {
         "provider_no": 375,
@@ -2997,7 +2997,7 @@
         "issue_dt": "1999-10-13 10:41:22",
         "expr_dt": "2000-10-12 10:41:22",
         "charge_amt_sum": 8031280.0,
-        "region_name": "Africa"
+        "region": "Africa"
     },
     {
         "provider_no": 376,
@@ -3005,7 +3005,7 @@
         "issue_dt": "1999-10-13 10:41:22",
         "expr_dt": "2000-10-12 10:41:22",
         "charge_amt_sum": 7664048.0,
-        "region_name": "Mid East \/ Sout"
+        "region": "Mid East \/ Sout"
     },
     {
         "provider_no": 377,
@@ -3013,7 +3013,7 @@
         "issue_dt": "1999-10-13 10:41:22",
         "expr_dt": "2000-10-12 10:41:22",
         "charge_amt_sum": 7168992.0,
-        "region_name": "China"
+        "region": "China"
     },
     {
         "provider_no": 378,
@@ -3021,7 +3021,7 @@
         "issue_dt": "1999-10-13 10:41:22",
         "expr_dt": "2000-10-12 10:41:22",
         "charge_amt_sum": 8496384.0,
-        "region_name": "Western Europea"
+        "region": "Western Europea"
     },
     {
         "provider_no": 379,
@@ -3029,7 +3029,7 @@
         "issue_dt": "1999-10-13 10:41:22",
         "expr_dt": "2000-10-12 10:41:22",
         "charge_amt_sum": 8042896.0,
-        "region_name": "Africa"
+        "region": "Africa"
     },
     {
         "provider_no": 380,
@@ -3037,7 +3037,7 @@
         "issue_dt": "1999-10-13 10:41:22",
         "expr_dt": "2000-10-12 10:41:22",
         "charge_amt_sum": 8155856.0,
-        "region_name": "Mid East \/ Sout"
+        "region": "Mid East \/ Sout"
     },
     {
         "provider_no": 381,
@@ -3045,7 +3045,7 @@
         "issue_dt": "1999-10-13 10:41:22",
         "expr_dt": "2000-10-12 10:41:22",
         "charge_amt_sum": 7434368.0,
-        "region_name": "China"
+        "region": "China"
     },
     {
         "provider_no": 382,
@@ -3053,7 +3053,7 @@
         "issue_dt": "1999-10-13 10:41:22",
         "expr_dt": "2000-10-12 10:41:22",
         "charge_amt_sum": 7664592.0,
-        "region_name": "Africa"
+        "region": "Africa"
     },
     {
         "provider_no": 383,
@@ -3061,7 +3061,7 @@
         "issue_dt": "1999-10-13 10:41:22",
         "expr_dt": "2000-10-12 10:41:22",
         "charge_amt_sum": 8661536.0,
-        "region_name": "Japan"
+        "region": "Japan"
     },
     {
         "provider_no": 384,
@@ -3069,7 +3069,7 @@
         "issue_dt": "1999-10-13 10:41:22",
         "expr_dt": "2000-10-12 10:41:22",
         "charge_amt_sum": 7798576.0,
-        "region_name": "Africa"
+        "region": "Africa"
     },
     {
         "provider_no": 385,
@@ -3077,7 +3077,7 @@
         "issue_dt": "1999-10-13 10:41:22",
         "expr_dt": "2000-10-12 10:41:22",
         "charge_amt_sum": 7816672.0,
-        "region_name": "Mid East \/ Sout"
+        "region": "Mid East \/ Sout"
     },
     {
         "provider_no": 386,
@@ -3085,7 +3085,7 @@
         "issue_dt": "1999-10-13 10:41:22",
         "expr_dt": "2000-10-12 10:41:22",
         "charge_amt_sum": 8031360.0,
-        "region_name": "Africa"
+        "region": "Africa"
     },
     {
         "provider_no": 387,
@@ -3093,7 +3093,7 @@
         "issue_dt": "1999-10-13 10:41:22",
         "expr_dt": "2000-10-12 10:41:22",
         "charge_amt_sum": 8967920.0,
-        "region_name": "Mid East \/ Sout"
+        "region": "Mid East \/ Sout"
     },
     {
         "provider_no": 388,
@@ -3101,7 +3101,7 @@
         "issue_dt": "1999-10-13 10:41:23",
         "expr_dt": "2000-10-12 10:41:23",
         "charge_amt_sum": 8212272.0,
-        "region_name": "Eastern Europea"
+        "region": "Eastern Europea"
     },
     {
         "provider_no": 389,
@@ -3109,7 +3109,7 @@
         "issue_dt": "1999-10-13 10:41:23",
         "expr_dt": "2000-10-12 10:41:23",
         "charge_amt_sum": 8076112.0,
-        "region_name": "China"
+        "region": "China"
     },
     {
         "provider_no": 390,
@@ -3117,7 +3117,7 @@
         "issue_dt": "1999-10-13 10:41:23",
         "expr_dt": "2000-10-12 10:41:23",
         "charge_amt_sum": 8654736.0,
-        "region_name": "Africa"
+        "region": "Africa"
     },
     {
         "provider_no": 391,
@@ -3125,7 +3125,7 @@
         "issue_dt": "1999-10-13 10:41:23",
         "expr_dt": "2000-10-12 10:41:23",
         "charge_amt_sum": 10015120.0,
-        "region_name": "Western Europea"
+        "region": "Western Europea"
     },
     {
         "provider_no": 392,
@@ -3133,7 +3133,7 @@
         "issue_dt": "1999-10-13 10:41:23",
         "expr_dt": "2000-10-12 10:41:23",
         "charge_amt_sum": 8720544.0,
-        "region_name": "Africa"
+        "region": "Africa"
     },
     {
         "provider_no": 393,
@@ -3141,7 +3141,7 @@
         "issue_dt": "1999-10-13 10:41:23",
         "expr_dt": "2000-10-12 10:41:23",
         "charge_amt_sum": 9478688.0,
-        "region_name": "Mid East \/ Sout"
+        "region": "Mid East \/ Sout"
     },
     {
         "provider_no": 394,
@@ -3149,7 +3149,7 @@
         "issue_dt": "1999-10-13 10:41:23",
         "expr_dt": "2000-10-12 10:41:23",
         "charge_amt_sum": 8783056.0,
-        "region_name": "Japan"
+        "region": "Japan"
     },
     {
         "provider_no": 395,
@@ -3157,7 +3157,7 @@
         "issue_dt": "1999-10-13 10:41:23",
         "expr_dt": "2000-10-12 10:41:23",
         "charge_amt_sum": 9584832.0,
-        "region_name": "China"
+        "region": "China"
     },
     {
         "provider_no": 396,
@@ -3165,7 +3165,7 @@
         "issue_dt": "1999-10-13 10:41:23",
         "expr_dt": "2000-10-12 10:41:23",
         "charge_amt_sum": 10516512.0,
-        "region_name": "Japan"
+        "region": "Japan"
     },
     {
         "provider_no": 397,
@@ -3173,7 +3173,7 @@
         "issue_dt": "1999-10-13 10:41:23",
         "expr_dt": "2000-10-12 10:41:23",
         "charge_amt_sum": 9113680.0,
-        "region_name": "China"
+        "region": "China"
     },
     {
         "provider_no": 398,
@@ -3181,7 +3181,7 @@
         "issue_dt": "1999-10-13 10:41:23",
         "expr_dt": "2000-10-12 10:41:23",
         "charge_amt_sum": 9896336.0,
-        "region_name": "Eastern Europea"
+        "region": "Eastern Europea"
     },
     {
         "provider_no": 399,
@@ -3189,7 +3189,7 @@
         "issue_dt": "1999-10-13 10:41:23",
         "expr_dt": "2000-10-12 10:41:23",
         "charge_amt_sum": 10804576.0,
-        "region_name": "Africa"
+        "region": "Africa"
     },
     {
         "provider_no": 400,
@@ -3197,7 +3197,7 @@
         "issue_dt": "1999-10-13 10:41:23",
         "expr_dt": "2000-10-12 10:41:23",
         "charge_amt_sum": 11453440.0,
-        "region_name": "Africa"
+        "region": "Africa"
     },
     {
         "provider_no": 401,
@@ -3205,7 +3205,7 @@
         "issue_dt": "1999-10-13 10:41:23",
         "expr_dt": "2000-10-12 10:41:23",
         "charge_amt_sum": 10575520.0,
-        "region_name": "China"
+        "region": "China"
     },
     {
         "provider_no": 402,
@@ -3213,7 +3213,7 @@
         "issue_dt": "1999-10-13 10:41:23",
         "expr_dt": "2000-10-12 10:41:23",
         "charge_amt_sum": 10320736.0,
-        "region_name": "Africa"
+        "region": "Africa"
     },
     {
         "provider_no": 403,
@@ -3221,7 +3221,7 @@
         "issue_dt": "1999-10-13 10:41:23",
         "expr_dt": "2000-10-12 10:41:23",
         "charge_amt_sum": 11470752.0,
-        "region_name": "Japan"
+        "region": "Japan"
     },
     {
         "provider_no": 404,
@@ -3229,7 +3229,7 @@
         "issue_dt": "1999-10-13 10:41:23",
         "expr_dt": "2000-10-12 10:41:23",
         "charge_amt_sum": 10102880.0,
-        "region_name": "Mid East \/ Sout"
+        "region": "Mid East \/ Sout"
     },
     {
         "provider_no": 405,
@@ -3237,7 +3237,7 @@
         "issue_dt": "1999-10-13 10:41:23",
         "expr_dt": "2000-10-12 10:41:23",
         "charge_amt_sum": 10574880.0,
-        "region_name": "Japan"
+        "region": "Japan"
     },
     {
         "provider_no": 406,
@@ -3245,7 +3245,7 @@
         "issue_dt": "1999-10-13 10:41:23",
         "expr_dt": "2000-10-12 10:41:23",
         "charge_amt_sum": 11504864.0,
-        "region_name": "Africa"
+        "region": "Africa"
     },
     {
         "provider_no": 407,
@@ -3253,7 +3253,7 @@
         "issue_dt": "1999-10-13 10:41:23",
         "expr_dt": "2000-10-12 10:41:23",
         "charge_amt_sum": 10216752.0,
-        "region_name": "Africa"
+        "region": "Africa"
     },
     {
         "provider_no": 408,
@@ -3261,7 +3261,7 @@
         "issue_dt": "1999-10-13 10:41:23",
         "expr_dt": "2000-10-12 10:41:23",
         "charge_amt_sum": 12268656.0,
-        "region_name": "Africa"
+        "region": "Africa"
     },
     {
         "provider_no": 409,
@@ -3269,7 +3269,7 @@
         "issue_dt": "1999-10-13 10:41:23",
         "expr_dt": "2000-10-12 10:41:23",
         "charge_amt_sum": 12828800.0,
-        "region_name": "Mid East \/ Sout"
+        "region": "Mid East \/ Sout"
     },
     {
         "provider_no": 410,
@@ -3277,7 +3277,7 @@
         "issue_dt": "1999-10-13 10:41:23",
         "expr_dt": "2000-10-12 10:41:23",
         "charge_amt_sum": 10900480.0,
-        "region_name": "China"
+        "region": "China"
     },
     {
         "provider_no": 411,
@@ -3285,7 +3285,7 @@
         "issue_dt": "1999-10-13 10:41:23",
         "expr_dt": "2000-10-12 10:41:23",
         "charge_amt_sum": 12347616.0,
-        "region_name": "Africa"
+        "region": "Africa"
     },
     {
         "provider_no": 412,
@@ -3293,7 +3293,7 @@
         "issue_dt": "1999-10-13 10:41:23",
         "expr_dt": "2000-10-12 10:41:23",
         "charge_amt_sum": 11602464.0,
-        "region_name": "Mid East \/ Sout"
+        "region": "Mid East \/ Sout"
     },
     {
         "provider_no": 413,
@@ -3301,7 +3301,7 @@
         "issue_dt": "1999-10-13 10:41:23",
         "expr_dt": "2000-10-12 10:41:23",
         "charge_amt_sum": 12397488.0,
-        "region_name": "Scandanavian"
+        "region": "Scandanavian"
     },
     {
         "provider_no": 414,
@@ -3309,7 +3309,7 @@
         "issue_dt": "1999-10-13 10:41:23",
         "expr_dt": "2000-10-12 10:41:23",
         "charge_amt_sum": 12541296.0,
-        "region_name": "Africa"
+        "region": "Africa"
     },
     {
         "provider_no": 415,
@@ -3317,7 +3317,7 @@
         "issue_dt": "1999-10-13 10:41:23",
         "expr_dt": "2000-10-12 10:41:23",
         "charge_amt_sum": 12132832.0,
-        "region_name": "Africa"
+        "region": "Africa"
     },
     {
         "provider_no": 416,
@@ -3325,7 +3325,7 @@
         "issue_dt": "1999-10-13 10:41:23",
         "expr_dt": "2000-10-12 10:41:23",
         "charge_amt_sum": 11861632.0,
-        "region_name": "Eastern Europea"
+        "region": "Eastern Europea"
     },
     {
         "provider_no": 417,
@@ -3333,7 +3333,7 @@
         "issue_dt": "1999-10-13 10:41:23",
         "expr_dt": "2000-10-12 10:41:23",
         "charge_amt_sum": 13052800.0,
-        "region_name": "China"
+        "region": "China"
     },
     {
         "provider_no": 418,
@@ -3341,7 +3341,7 @@
         "issue_dt": "1999-10-13 10:41:23",
         "expr_dt": "2000-10-12 10:41:23",
         "charge_amt_sum": 13131456.0,
-        "region_name": "Africa"
+        "region": "Africa"
     },
     {
         "provider_no": 419,
@@ -3349,7 +3349,7 @@
         "issue_dt": "1999-10-13 10:41:23",
         "expr_dt": "2000-10-12 10:41:23",
         "charge_amt_sum": 11809648.0,
-        "region_name": "Mid East \/ Sout"
+        "region": "Mid East \/ Sout"
     },
     {
         "provider_no": 420,
@@ -3357,7 +3357,7 @@
         "issue_dt": "1999-10-13 10:41:23",
         "expr_dt": "2000-10-12 10:41:23",
         "charge_amt_sum": 12038944.0,
-        "region_name": "Africa"
+        "region": "Africa"
     },
     {
         "provider_no": 421,
@@ -3365,7 +3365,7 @@
         "issue_dt": "1999-10-13 10:41:23",
         "expr_dt": "2000-10-12 10:41:23",
         "charge_amt_sum": 13260048.0,
-        "region_name": "Mid East \/ Sout"
+        "region": "Mid East \/ Sout"
     },
     {
         "provider_no": 422,
@@ -3373,7 +3373,7 @@
         "issue_dt": "1999-10-13 10:41:23",
         "expr_dt": "2000-10-12 10:41:23",
         "charge_amt_sum": 13645488.0,
-        "region_name": "Japan"
+        "region": "Japan"
     },
     {
         "provider_no": 423,
@@ -3381,7 +3381,7 @@
         "issue_dt": "1999-10-13 10:41:23",
         "expr_dt": "2000-10-12 10:41:23",
         "charge_amt_sum": 13819792.0,
-        "region_name": "Japan"
+        "region": "Japan"
     },
     {
         "provider_no": 424,
@@ -3389,7 +3389,7 @@
         "issue_dt": "1999-10-13 10:41:23",
         "expr_dt": "2000-10-12 10:41:23",
         "charge_amt_sum": 13439008.0,
-        "region_name": "Western Europea"
+        "region": "Western Europea"
     },
     {
         "provider_no": 425,
@@ -3397,7 +3397,7 @@
         "issue_dt": "1999-10-13 10:41:23",
         "expr_dt": "2000-10-12 10:41:23",
         "charge_amt_sum": 14012288.0,
-        "region_name": "Africa"
+        "region": "Africa"
     },
     {
         "provider_no": 426,
@@ -3405,7 +3405,7 @@
         "issue_dt": "1999-10-13 10:41:23",
         "expr_dt": "2000-10-12 10:41:23",
         "charge_amt_sum": 14797968.0,
-        "region_name": "China"
+        "region": "China"
     },
     {
         "provider_no": 427,
@@ -3413,7 +3413,7 @@
         "issue_dt": "1999-10-13 10:41:23",
         "expr_dt": "2000-10-12 10:41:23",
         "charge_amt_sum": 15744048.0,
-        "region_name": "Africa"
+        "region": "Africa"
     },
     {
         "provider_no": 428,
@@ -3421,7 +3421,7 @@
         "issue_dt": "1999-10-13 10:41:23",
         "expr_dt": "2000-10-12 10:41:23",
         "charge_amt_sum": 13828768.0,
-        "region_name": "Africa"
+        "region": "Africa"
     },
     {
         "provider_no": 429,
@@ -3429,7 +3429,7 @@
         "issue_dt": "1999-10-13 10:41:23",
         "expr_dt": "2000-10-12 10:41:23",
         "charge_amt_sum": 13222336.0,
-        "region_name": "Mid East \/ Sout"
+        "region": "Mid East \/ Sout"
     },
     {
         "provider_no": 430,
@@ -3437,7 +3437,7 @@
         "issue_dt": "1999-10-13 10:41:23",
         "expr_dt": "2000-10-12 10:41:23",
         "charge_amt_sum": 15152704.0,
-        "region_name": "Africa"
+        "region": "Africa"
     },
     {
         "provider_no": 431,
@@ -3445,7 +3445,7 @@
         "issue_dt": "1999-10-13 10:41:23",
         "expr_dt": "2000-10-12 10:41:23",
         "charge_amt_sum": 15021168.0,
-        "region_name": "Mid East \/ Sout"
+        "region": "Mid East \/ Sout"
     },
     {
         "provider_no": 432,
@@ -3453,7 +3453,7 @@
         "issue_dt": "1999-10-13 10:41:23",
         "expr_dt": "2000-10-12 10:41:23",
         "charge_amt_sum": 14917472.0,
-        "region_name": "Scandanavian"
+        "region": "Scandanavian"
     },
     {
         "provider_no": 433,
@@ -3461,7 +3461,7 @@
         "issue_dt": "1999-10-13 10:41:23",
         "expr_dt": "2000-10-12 10:41:23",
         "charge_amt_sum": 14997728.0,
-        "region_name": "Mid East \/ Sout"
+        "region": "Mid East \/ Sout"
     },
     {
         "provider_no": 434,
@@ -3469,7 +3469,7 @@
         "issue_dt": "1999-10-13 10:41:23",
         "expr_dt": "2000-10-12 10:41:23",
         "charge_amt_sum": 15356976.0,
-        "region_name": "Mid East \/ Sout"
+        "region": "Mid East \/ Sout"
     },
     {
         "provider_no": 435,
@@ -3477,7 +3477,7 @@
         "issue_dt": "1999-10-13 10:41:23",
         "expr_dt": "2000-10-12 10:41:23",
         "charge_amt_sum": 16685296.0,
-        "region_name": "Africa"
+        "region": "Africa"
     },
     {
         "provider_no": 436,
@@ -3485,7 +3485,7 @@
         "issue_dt": "1999-10-13 10:41:23",
         "expr_dt": "2000-10-12 10:41:23",
         "charge_amt_sum": 17026400.0,
-        "region_name": "Africa"
+        "region": "Africa"
     },
     {
         "provider_no": 437,
@@ -3493,7 +3493,7 @@
         "issue_dt": "1999-10-13 10:41:23",
         "expr_dt": "2000-10-12 10:41:23",
         "charge_amt_sum": 18078336.0,
-        "region_name": "Japan"
+        "region": "Japan"
     },
     {
         "provider_no": 438,
@@ -3501,7 +3501,7 @@
         "issue_dt": "1999-10-13 10:41:23",
         "expr_dt": "2000-10-12 10:41:23",
         "charge_amt_sum": 17582256.0,
-        "region_name": "Africa"
+        "region": "Africa"
     },
     {
         "provider_no": 439,
@@ -3509,7 +3509,7 @@
         "issue_dt": "1999-10-13 10:41:23",
         "expr_dt": "2000-10-12 10:41:23",
         "charge_amt_sum": 18254512.0,
-        "region_name": "Eastern Europea"
+        "region": "Eastern Europea"
     },
     {
         "provider_no": 440,
@@ -3517,7 +3517,7 @@
         "issue_dt": "1999-10-13 10:41:23",
         "expr_dt": "2000-10-12 10:41:23",
         "charge_amt_sum": 18174560.0,
-        "region_name": "Africa"
+        "region": "Africa"
     },
     {
         "provider_no": 441,
@@ -3525,7 +3525,7 @@
         "issue_dt": "1999-10-13 10:41:23",
         "expr_dt": "2000-10-12 10:41:23",
         "charge_amt_sum": 18230432.0,
-        "region_name": "Africa"
+        "region": "Africa"
     },
     {
         "provider_no": 442,
@@ -3533,7 +3533,7 @@
         "issue_dt": "1999-10-13 10:41:23",
         "expr_dt": "2000-10-12 10:41:23",
         "charge_amt_sum": 18725136.0,
-        "region_name": "Africa"
+        "region": "Africa"
     },
     {
         "provider_no": 443,
@@ -3541,7 +3541,7 @@
         "issue_dt": "1999-10-13 10:41:23",
         "expr_dt": "2000-10-12 10:41:23",
         "charge_amt_sum": 18558992.0,
-        "region_name": "Japan"
+        "region": "Japan"
     },
     {
         "provider_no": 444,
@@ -3549,7 +3549,7 @@
         "issue_dt": "1999-10-13 10:41:23",
         "expr_dt": "2000-10-12 10:41:23",
         "charge_amt_sum": 18559344.0,
-        "region_name": "Africa"
+        "region": "Africa"
     },
     {
         "provider_no": 445,
@@ -3557,7 +3557,7 @@
         "issue_dt": "1999-10-13 10:41:23",
         "expr_dt": "2000-10-12 10:41:23",
         "charge_amt_sum": 17937040.0,
-        "region_name": "Mid East \/ Sout"
+        "region": "Mid East \/ Sout"
     },
     {
         "provider_no": 446,
@@ -3565,7 +3565,7 @@
         "issue_dt": "1999-10-13 10:41:23",
         "expr_dt": "2000-10-12 10:41:23",
         "charge_amt_sum": 20677040.0,
-        "region_name": "China"
+        "region": "China"
     },
     {
         "provider_no": 447,
@@ -3573,7 +3573,7 @@
         "issue_dt": "1999-10-13 10:41:23",
         "expr_dt": "2000-10-12 10:41:23",
         "charge_amt_sum": 18121648.0,
-        "region_name": "Mid East \/ Sout"
+        "region": "Mid East \/ Sout"
     },
     {
         "provider_no": 448,
@@ -3581,7 +3581,7 @@
         "issue_dt": "1999-10-13 10:41:23",
         "expr_dt": "2000-10-12 10:41:23",
         "charge_amt_sum": 21746864.0,
-        "region_name": "Mid East \/ Sout"
+        "region": "Mid East \/ Sout"
     },
     {
         "provider_no": 449,
@@ -3589,7 +3589,7 @@
         "issue_dt": "1999-10-13 10:41:23",
         "expr_dt": "2000-10-12 10:41:23",
         "charge_amt_sum": 18773168.0,
-        "region_name": "China"
+        "region": "China"
     },
     {
         "provider_no": 450,
@@ -3597,7 +3597,7 @@
         "issue_dt": "1999-10-13 10:41:23",
         "expr_dt": "2000-10-12 10:41:23",
         "charge_amt_sum": 21676656.0,
-        "region_name": "Africa"
+        "region": "Africa"
     },
     {
         "provider_no": 451,
@@ -3605,7 +3605,7 @@
         "issue_dt": "1999-10-13 10:41:23",
         "expr_dt": "2000-10-12 10:41:23",
         "charge_amt_sum": 22523632.0,
-        "region_name": "Africa"
+        "region": "Africa"
     },
     {
         "provider_no": 452,
@@ -3613,7 +3613,7 @@
         "issue_dt": "1999-10-13 10:41:23",
         "expr_dt": "2000-10-12 10:41:23",
         "charge_amt_sum": 22201440.0,
-        "region_name": "Africa"
+        "region": "Africa"
     },
     {
         "provider_no": 453,
@@ -3621,7 +3621,7 @@
         "issue_dt": "1999-10-13 10:41:23",
         "expr_dt": "2000-10-12 10:41:23",
         "charge_amt_sum": 21513008.0,
-        "region_name": "Africa"
+        "region": "Africa"
     },
     {
         "provider_no": 454,
@@ -3629,7 +3629,7 @@
         "issue_dt": "1999-10-13 10:41:23",
         "expr_dt": "2000-10-12 10:41:23",
         "charge_amt_sum": 21782608.0,
-        "region_name": "Mid East \/ Sout"
+        "region": "Mid East \/ Sout"
     },
     {
         "provider_no": 455,
@@ -3637,7 +3637,7 @@
         "issue_dt": "1999-10-13 10:41:23",
         "expr_dt": "2000-10-12 10:41:23",
         "charge_amt_sum": 23786368.0,
-        "region_name": "Africa"
+        "region": "Africa"
     },
     {
         "provider_no": 456,
@@ -3645,7 +3645,7 @@
         "issue_dt": "1999-10-13 10:41:23",
         "expr_dt": "2000-10-12 10:41:23",
         "charge_amt_sum": 22371632.0,
-        "region_name": "Africa"
+        "region": "Africa"
     },
     {
         "provider_no": 457,
@@ -3653,7 +3653,7 @@
         "issue_dt": "1999-10-13 10:41:23",
         "expr_dt": "2000-10-12 10:41:23",
         "charge_amt_sum": 22768576.0,
-        "region_name": "China"
+        "region": "China"
     },
     {
         "provider_no": 458,
@@ -3661,7 +3661,7 @@
         "issue_dt": "1999-10-13 10:41:23",
         "expr_dt": "2000-10-12 10:41:23",
         "charge_amt_sum": 24506128.0,
-        "region_name": "Eastern Europea"
+        "region": "Eastern Europea"
     },
     {
         "provider_no": 459,
@@ -3669,7 +3669,7 @@
         "issue_dt": "1999-10-13 10:41:23",
         "expr_dt": "2000-10-12 10:41:23",
         "charge_amt_sum": 28488400.0,
-        "region_name": "Africa"
+        "region": "Africa"
     },
     {
         "provider_no": 460,
@@ -3677,7 +3677,7 @@
         "issue_dt": "1999-10-13 10:41:23",
         "expr_dt": "2000-10-12 10:41:23",
         "charge_amt_sum": 25356240.0,
-        "region_name": "Japan"
+        "region": "Japan"
     },
     {
         "provider_no": 461,
@@ -3685,7 +3685,7 @@
         "issue_dt": "1999-10-13 10:41:23",
         "expr_dt": "2000-10-12 10:41:23",
         "charge_amt_sum": 24840816.0,
-        "region_name": "Japan"
+        "region": "Japan"
     },
     {
         "provider_no": 462,
@@ -3693,7 +3693,7 @@
         "issue_dt": "1999-10-13 10:41:23",
         "expr_dt": "2000-10-12 10:41:23",
         "charge_amt_sum": 26203760.0,
-        "region_name": "Mid East \/ Sout"
+        "region": "Mid East \/ Sout"
     },
     {
         "provider_no": 463,
@@ -3701,7 +3701,7 @@
         "issue_dt": "1999-10-13 10:41:23",
         "expr_dt": "2000-10-12 10:41:23",
         "charge_amt_sum": 26010752.0,
-        "region_name": "Africa"
+        "region": "Africa"
     },
     {
         "provider_no": 464,
@@ -3709,7 +3709,7 @@
         "issue_dt": "1999-10-13 10:41:23",
         "expr_dt": "2000-10-12 10:41:23",
         "charge_amt_sum": 30048720.0,
-        "region_name": "Africa"
+        "region": "Africa"
     },
     {
         "provider_no": 465,
@@ -3717,7 +3717,7 @@
         "issue_dt": "1999-10-13 10:41:23",
         "expr_dt": "2000-10-12 10:41:23",
         "charge_amt_sum": 26386512.0,
-        "region_name": "Japan"
+        "region": "Japan"
     },
     {
         "provider_no": 466,
@@ -3725,7 +3725,7 @@
         "issue_dt": "1999-10-13 10:41:23",
         "expr_dt": "2000-10-12 10:41:23",
         "charge_amt_sum": 29180384.0,
-        "region_name": "Mid East \/ Sout"
+        "region": "Mid East \/ Sout"
     },
     {
         "provider_no": 467,
@@ -3733,7 +3733,7 @@
         "issue_dt": "1999-10-13 10:41:23",
         "expr_dt": "2000-10-12 10:41:23",
         "charge_amt_sum": 31989312.0,
-        "region_name": "Mid East \/ Sout"
+        "region": "Mid East \/ Sout"
     },
     {
         "provider_no": 468,
@@ -3741,7 +3741,7 @@
         "issue_dt": "1999-10-13 10:41:23",
         "expr_dt": "2000-10-12 10:41:23",
         "charge_amt_sum": 31813120.0,
-        "region_name": "China"
+        "region": "China"
     },
     {
         "provider_no": 469,
@@ -3749,7 +3749,7 @@
         "issue_dt": "1999-10-13 10:41:24",
         "expr_dt": "2000-10-12 10:41:24",
         "charge_amt_sum": 32434304.0,
-        "region_name": "Africa"
+        "region": "Africa"
     },
     {
         "provider_no": 470,
@@ -3757,7 +3757,7 @@
         "issue_dt": "1999-10-13 10:41:24",
         "expr_dt": "2000-10-12 10:41:24",
         "charge_amt_sum": 31992864.0,
-        "region_name": "China"
+        "region": "China"
     },
     {
         "provider_no": 471,
@@ -3765,7 +3765,7 @@
         "issue_dt": "1999-10-13 10:41:24",
         "expr_dt": "2000-10-12 10:41:24",
         "charge_amt_sum": 31761680.0,
-        "region_name": "Eastern Europea"
+        "region": "Eastern Europea"
     },
     {
         "provider_no": 472,
@@ -3773,7 +3773,7 @@
         "issue_dt": "1999-10-13 10:41:24",
         "expr_dt": "2000-10-12 10:41:24",
         "charge_amt_sum": 33626192.0,
-        "region_name": "China"
+        "region": "China"
     },
     {
         "provider_no": 473,
@@ -3781,7 +3781,7 @@
         "issue_dt": "1999-10-13 10:41:24",
         "expr_dt": "2000-10-12 10:41:24",
         "charge_amt_sum": 33285152.0,
-        "region_name": "Africa"
+        "region": "Africa"
     },
     {
         "provider_no": 474,
@@ -3789,7 +3789,7 @@
         "issue_dt": "1999-10-13 10:41:24",
         "expr_dt": "2000-10-12 10:41:24",
         "charge_amt_sum": 35096528.0,
-        "region_name": "Africa"
+        "region": "Africa"
     },
     {
         "provider_no": 475,
@@ -3797,7 +3797,7 @@
         "issue_dt": "1999-10-13 10:41:24",
         "expr_dt": "2000-10-12 10:41:24",
         "charge_amt_sum": 34069664.0,
-        "region_name": "Africa"
+        "region": "Africa"
     },
     {
         "provider_no": 476,
@@ -3805,7 +3805,7 @@
         "issue_dt": "1999-10-13 10:41:24",
         "expr_dt": "2000-10-12 10:41:24",
         "charge_amt_sum": 33909760.0,
-        "region_name": "Eastern Europea"
+        "region": "Eastern Europea"
     },
     {
         "provider_no": 477,
@@ -3813,7 +3813,7 @@
         "issue_dt": "1999-10-13 10:41:24",
         "expr_dt": "2000-10-12 10:41:24",
         "charge_amt_sum": 34486576.0,
-        "region_name": "Africa"
+        "region": "Africa"
     },
     {
         "provider_no": 478,
@@ -3821,7 +3821,7 @@
         "issue_dt": "1999-10-13 10:41:24",
         "expr_dt": "2000-10-12 10:41:24",
         "charge_amt_sum": 37933232.0,
-        "region_name": "Africa"
+        "region": "Africa"
     },
     {
         "provider_no": 479,
@@ -3829,7 +3829,7 @@
         "issue_dt": "1999-10-13 10:41:24",
         "expr_dt": "2000-10-12 10:41:24",
         "charge_amt_sum": 39572864.0,
-        "region_name": "Western Europea"
+        "region": "Western Europea"
     },
     {
         "provider_no": 480,
@@ -3837,7 +3837,7 @@
         "issue_dt": "1999-10-13 10:41:24",
         "expr_dt": "2000-10-12 10:41:24",
         "charge_amt_sum": 40757328.0,
-        "region_name": "China"
+        "region": "China"
     },
     {
         "provider_no": 481,
@@ -3845,7 +3845,7 @@
         "issue_dt": "1999-10-13 10:41:24",
         "expr_dt": "2000-10-12 10:41:24",
         "charge_amt_sum": 38088912.0,
-        "region_name": "Africa"
+        "region": "Africa"
     },
     {
         "provider_no": 482,
@@ -3853,7 +3853,7 @@
         "issue_dt": "1999-10-13 10:41:24",
         "expr_dt": "2000-10-12 10:41:24",
         "charge_amt_sum": 44337600.0,
-        "region_name": "Mid East \/ Sout"
+        "region": "Mid East \/ Sout"
     },
     {
         "provider_no": 483,
@@ -3861,7 +3861,7 @@
         "issue_dt": "1999-10-13 10:41:24",
         "expr_dt": "2000-10-12 10:41:24",
         "charge_amt_sum": 45820880.0,
-        "region_name": "Africa"
+        "region": "Africa"
     },
     {
         "provider_no": 484,
@@ -3869,7 +3869,7 @@
         "issue_dt": "1999-10-13 10:41:24",
         "expr_dt": "2000-10-12 10:41:24",
         "charge_amt_sum": 47156208.0,
-        "region_name": "China"
+        "region": "China"
     },
     {
         "provider_no": 485,
@@ -3877,7 +3877,7 @@
         "issue_dt": "1999-10-13 10:41:24",
         "expr_dt": "2000-10-12 10:41:24",
         "charge_amt_sum": 47835184.0,
-        "region_name": "Mid East \/ Sout"
+        "region": "Mid East \/ Sout"
     },
     {
         "provider_no": 486,
@@ -3885,7 +3885,7 @@
         "issue_dt": "1999-10-13 10:41:24",
         "expr_dt": "2000-10-12 10:41:24",
         "charge_amt_sum": 48701024.0,
-        "region_name": "China"
+        "region": "China"
     },
     {
         "provider_no": 487,
@@ -3893,7 +3893,7 @@
         "issue_dt": "1999-10-13 10:41:24",
         "expr_dt": "2000-10-12 10:41:24",
         "charge_amt_sum": 52797904.0,
-        "region_name": "Africa"
+        "region": "Africa"
     },
     {
         "provider_no": 488,
@@ -3901,7 +3901,7 @@
         "issue_dt": "1999-10-13 10:41:24",
         "expr_dt": "2000-10-12 10:41:24",
         "charge_amt_sum": 54732400.0,
-        "region_name": "Africa"
+        "region": "Africa"
     },
     {
         "provider_no": 489,
@@ -3909,7 +3909,7 @@
         "issue_dt": "1999-10-13 10:41:24",
         "expr_dt": "2000-10-12 10:41:24",
         "charge_amt_sum": 54198912.0,
-        "region_name": "Africa"
+        "region": "Africa"
     },
     {
         "provider_no": 490,
@@ -3917,7 +3917,7 @@
         "issue_dt": "1999-10-13 10:41:24",
         "expr_dt": "2000-10-12 10:41:24",
         "charge_amt_sum": 57867744.0,
-        "region_name": "Japan"
+        "region": "Japan"
     },
     {
         "provider_no": 491,
@@ -3925,7 +3925,7 @@
         "issue_dt": "1999-10-13 10:41:24",
         "expr_dt": "2000-10-12 10:41:24",
         "charge_amt_sum": 66763936.0,
-        "region_name": "Africa"
+        "region": "Africa"
     },
     {
         "provider_no": 492,
@@ -3933,7 +3933,7 @@
         "issue_dt": "1999-10-13 10:41:24",
         "expr_dt": "2000-10-12 10:41:24",
         "charge_amt_sum": 67501056.0,
-        "region_name": "Mid East \/ Sout"
+        "region": "Mid East \/ Sout"
     },
     {
         "provider_no": 493,
@@ -3941,7 +3941,7 @@
         "issue_dt": "1999-10-13 10:41:24",
         "expr_dt": "2000-10-12 10:41:24",
         "charge_amt_sum": 69834400.0,
-        "region_name": "Mid East \/ Sout"
+        "region": "Mid East \/ Sout"
     },
     {
         "provider_no": 494,
@@ -3949,7 +3949,7 @@
         "issue_dt": "1999-10-13 10:41:24",
         "expr_dt": "2000-10-12 10:41:24",
         "charge_amt_sum": 71812480.0,
-        "region_name": "Scandanavian"
+        "region": "Scandanavian"
     },
     {
         "provider_no": 495,
@@ -3957,7 +3957,7 @@
         "issue_dt": "1999-10-13 10:41:24",
         "expr_dt": "2000-10-12 10:41:24",
         "charge_amt_sum": 79761648.0,
-        "region_name": "Mid East \/ Sout"
+        "region": "Mid East \/ Sout"
     },
     {
         "provider_no": 496,
@@ -3965,7 +3965,7 @@
         "issue_dt": "1999-10-13 10:41:24",
         "expr_dt": "2000-10-12 10:41:24",
         "charge_amt_sum": 87802224.0,
-        "region_name": "Mid East \/ Sout"
+        "region": "Mid East \/ Sout"
     },
     {
         "provider_no": 497,
@@ -3973,7 +3973,7 @@
         "issue_dt": "1999-10-13 10:41:24",
         "expr_dt": "2000-10-12 10:41:24",
         "charge_amt_sum": 97912976.0,
-        "region_name": "China"
+        "region": "China"
     },
     {
         "provider_no": 498,
@@ -3981,7 +3981,7 @@
         "issue_dt": "1999-10-13 10:41:24",
         "expr_dt": "2000-10-12 10:41:24",
         "charge_amt_sum": 104894816.0,
-        "region_name": "Western Europea"
+        "region": "Western Europea"
     },
     {
         "provider_no": 499,
@@ -3989,7 +3989,7 @@
         "issue_dt": "1999-10-13 10:41:24",
         "expr_dt": "2000-10-12 10:41:24",
         "charge_amt_sum": 131416784.0,
-        "region_name": "Mid East \/ Sout"
+        "region": "Mid East \/ Sout"
     },
     {
         "provider_no": 500,
@@ -3997,6 +3997,6 @@
         "issue_dt": "1999-10-13 10:41:24",
         "expr_dt": "2000-10-12 10:41:24",
         "charge_amt_sum": 239661792.0,
-        "region_name": "Mid East \/ Sout"
+        "region": "Mid East \/ Sout"
     }
 ]
