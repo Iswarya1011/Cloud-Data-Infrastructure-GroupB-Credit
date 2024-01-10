@@ -22,7 +22,7 @@ load_dotenv()
 # db = connection["test"]
 
 # print(db.list_collection_names())
-
+# print(db.list_collection_names())
 # connection.close()
 # server.stop()
 
@@ -32,8 +32,8 @@ session = MongoSession(
     password=os.getenv('PASSWORD'),
     uri="mongodb://MESIIN592023-00039:27017/"
 )
-
+print("connected")
 db = session.connection['test']
-print(db.list_collection_names())
-
+# print(db.list_collection_names())
+print(db.region.find_one())
 session.close()
