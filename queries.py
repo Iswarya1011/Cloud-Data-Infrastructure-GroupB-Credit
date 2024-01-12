@@ -6,6 +6,25 @@ import numpy as np
 
 load_dotenv()
 
+def get_shard_number():
+    session = MongoSession(
+        host=os.getenv('HOST'),
+        user=os.getenv('USER'),
+        password=os.getenv('PASSWORD'),
+        uri="mongodb://MESIIN592023-00038:30000/"
+    )
+
+    db = session.connection['config']
+    shards_col = db.shards
+
+    shards = list(shards_col.find())
+
+    # print(len(shards))
+    # print(shards)
+
+    session.stop()
+    return shards
+
 def query_1():
     pipeline = [
         {"$match": {"charge_amt_sum": {"$gt":1000000}}}
