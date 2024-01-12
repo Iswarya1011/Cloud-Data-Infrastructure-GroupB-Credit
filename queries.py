@@ -5,6 +5,7 @@ import numpy as np
 import timeit
 import datetime
 import json
+from tqdm import tqdm
 
 load_dotenv()
 
@@ -307,7 +308,7 @@ def get_time(func):
 
     final_dict = {}
 
-    final_dict["date"] = datetime.datetime.now()
+    final_dict["date"] = datetime.datetime.now().strftime("%Y-%m-%d %H:%M:%S") 
     final_dict["func_name"] = func.__name__
     final_dict["shard_nb"] = len(get_shard_number())
     execution_time = timeit.repeat(func, repeat=10, number=1)
@@ -330,11 +331,11 @@ func_list = [query_1, query_2, query_3, query_4, query_5, query_6, query_7, quer
 
 def measure_query_execution(func_list: list):
     query_measures = []
-    for func in func_list:
+    for func in tqdm(func_list):
         query_measures.append(get_time(func))
     
     with open("time_measures/test.json", "w") as f:
-        json.dump(query_measures)
+        json.dump(query_measures, f)
     
     return query_measures
 
