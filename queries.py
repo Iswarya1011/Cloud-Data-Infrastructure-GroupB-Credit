@@ -1,8 +1,10 @@
 from dotenv import load_dotenv
 from pymongo_ssh import MongoSession
 import os
-import json
 import numpy as np
+import timeit
+import datetime
+import json
 
 load_dotenv()
 
@@ -19,9 +21,6 @@ def get_shard_number():
     shards_col = db.shards
 
     shards = list(shards_col.find())
-
-    # print(len(shards))
-    # print(shards)
 
     session.stop()
     return shards
@@ -43,6 +42,8 @@ def query_1():
     provider_filtered = list(provider_col.aggregate(pipeline))
 
     session.stop()
+
+    # print("Done")
 
     return provider_filtered
 
@@ -301,3 +302,40 @@ def query_8():
     session.stop()
 
     return charge_filtered
+
+def get_time(func):
+
+    final_dict = {}
+
+    final_dict["date"] = datetime.datetime.now()
+    final_dict["func_name"] = func.__name__
+    final_dict["shard_nb"] = len(get_shard_number())
+    execution_time = timeit.repeat(func, repeat=10, number=1)
+    # execution_time = timeit.timeit(func, number=1)
+    final_dict["execution_time_list"] = execution_time
+
+    execution_time.remove(max(execution_time))
+    execution_time.remove(min(execution_time))
+
+    final_dict["execution_time_list_2"] = execution_time
+
+    final_dict["time_avg"] = sum(execution_time) / len(execution_time)
+
+    return final_dict
+
+    
+
+# print(get_time(query_1))
+func_list = [query_1, query_2, query_3, query_4, query_5, query_6, query_7, query_8]
+
+def measure_query_execution(func_list: list):
+    query_measures = []
+    for func in func_list:
+        query_measures.append(get_time(func))
+    
+    with open("time_measures/test.json", "w") as f:
+        json.dump(query_measures)
+    
+    return query_measures
+
+print(measure_query_execution(func_list))
