@@ -312,30 +312,39 @@ def get_time(func):
     final_dict["func_name"] = func.__name__
     final_dict["shard_nb"] = len(get_shard_number())
     execution_time = timeit.repeat(func, repeat=10, number=1)
+    execution_time2 = execution_time.copy()
     # execution_time = timeit.timeit(func, number=1)
     final_dict["execution_time_list"] = execution_time
 
-    execution_time.remove(max(execution_time))
-    execution_time.remove(min(execution_time))
+    execution_time2.remove(max(execution_time2))
+    execution_time2.remove(min(execution_time2))
 
-    final_dict["execution_time_list_2"] = execution_time
+    final_dict["execution_time_list_2"] = execution_time2
 
-    final_dict["time_avg"] = sum(execution_time) / len(execution_time)
+    final_dict["time_avg"] = sum(execution_time2) / len(execution_time2)
 
     return final_dict
 
-    
-
-# print(get_time(query_1))
 func_list = [query_1, query_2, query_3, query_4, query_5, query_6, query_7, query_8]
+
 
 def measure_query_execution(func_list: list):
     query_measures = []
     for func in tqdm(func_list):
         query_measures.append(get_time(func))
     
-    with open("time_measures/test.json", "w") as f:
-        json.dump(query_measures, f)
+    if os.path.exists("time_measures/test.json"):
+        with open("time_measures/test.json", "r") as f:
+            data = json.load(f)
+        
+        data.append(query_measures)
+
+        with open("time_measures/test.json", "w") as f:
+            json.dump(data, f, indent=3)
+
+    else:
+        with open("time_measures/test.json", "w") as f:
+            json.dump(query_measures, f, indent=3)
     
     return query_measures
 
