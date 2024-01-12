@@ -1,6 +1,6 @@
 #!/bin/bash
 set -e
-# black .
+black .
 
 echo Type message
 read -p "Message: " message
