@@ -332,7 +332,7 @@ def measure_query_execution(func_list: list):
     for func in tqdm(func_list):
         query_measures.append(get_time(func))
 
-    with open(f"time_measures/query_time_measure_shard_{shard_nb}+2RS1.json", "w") as f:
+    with open(f"time_measures/query_time_measure_shard_{shard_nb}.json", "w") as f:
         json.dump(query_measures, f, indent=3)
 
     return query_measures
