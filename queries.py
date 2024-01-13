@@ -272,8 +272,19 @@ def query_7():
 
 def query_8():
     pipeline = [
-        {"$group" : { "_id": { "member_no" :"$member_no", "category_desc": "$category_desc"}, "total_payment": {"$sum" : "$charge_amt"}, "count_payment": {"$sum": 1}}},
-        {"$group": {"_id": "$_id.category_desc", "avg_member_payment": {"$avg": "$total_payment"}}},
+        {
+            "$group": {
+                "_id": {"member_no": "$member_no", "category_desc": "$category_desc"},
+                "total_payment": {"$sum": "$charge_amt"},
+                "count_payment": {"$sum": 1},
+            }
+        },
+        {
+            "$group": {
+                "_id": "$_id.category_desc",
+                "avg_member_payment": {"$avg": "$total_payment"},
+            }
+        },
     ]
 
     session = MongoSession(
@@ -292,11 +303,11 @@ def query_8():
 
     return charge_filtered
 
-def get_time(func):
 
+def get_time(func):
     final_dict = {}
 
-    final_dict["date"] = datetime.datetime.now().strftime("%Y-%m-%d %H:%M:%S") 
+    final_dict["date"] = datetime.datetime.now().strftime("%Y-%m-%d %H:%M:%S")
     final_dict["func_name"] = func.__name__
     final_dict["shard_nb"] = len(get_shard_number())
     execution_time = timeit.repeat(func, repeat=10, number=1)
@@ -313,6 +324,7 @@ def get_time(func):
 
     return final_dict
 
+
 func_list = [query_1, query_2, query_3, query_4, query_5, query_6, query_7, query_8]
 
 
@@ -324,7 +336,8 @@ def measure_query_execution(func_list: list):
 
     with open(f"time_measures/query_time_measure_shard_{shard_nb}.json", "w") as f:
         json.dump(query_measures, f, indent=3)
-    
+
     return query_measures
+
 
 print(measure_query_execution(func_list))
