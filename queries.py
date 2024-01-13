@@ -338,4 +338,4 @@ def measure_query_execution(func_list: list):
     return query_measures
 
 
-print(measure_query_execution(func_list))
+# print(measure_query_execution(func_list))
