@@ -312,7 +312,7 @@ def get_time(func):
     final_dict["shard_nb"] = len(get_shard_number())
     execution_time = timeit.repeat(func, repeat=10, number=1)
     execution_time2 = execution_time.copy()
-    # execution_time = timeit.timeit(func, number=1)
+
     final_dict["execution_time_list"] = execution_time
 
     execution_time2.remove(max(execution_time2))
