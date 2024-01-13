@@ -272,20 +272,8 @@ def query_7():
 
 def query_8():
     pipeline = [
-        {
-            "$group": {
-                "_id": {"member_no": "$member_no", "category_desc": "$category_desc"},
-                "avg_charge": {"$avg": "$charge_amt"},
-            }
-        },
-        {
-            "$project": {
-                "_id": 0,
-                "member_no": "$_id.member_no",
-                "category_desc": "$_id.category_desc",
-                "avg_charge": 1,
-            }
-        },
+        {"$group" : { "_id": { "member_no" :"$member_no", "category_desc": "$category_desc"}, "total_payment": {"$sum" : "$charge_amt"}, "count_payment": {"$sum": 1}}},
+        {"$group": {"_id": "$_id.category_desc", "avg_member_payment": {"$avg": "$total_payment"}}},
     ]
 
     session = MongoSession(
